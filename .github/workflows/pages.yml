@@ -1,0 +1,77 @@
+name: pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# One deploy at a time. A queued run waits rather than cancelling the one in
+# flight, because a cancelled deploy can leave Pages serving half a site.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      publishable: ${{ steps.site.outputs.publishable }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: tamnd/tolkiengateway-reader
+          path: .reader
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: .reader/go.mod
+
+      # The gate on every pull request. Builds the site in memory and checks
+      # it against the audit rules without writing anything.
+      - name: publish check
+        working-directory: .reader
+        env:
+          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+        run: go run ./cmd/tgw publish -check
+
+      - uses: actions/configure-pages@v5
+        id: pages
+        if: github.ref == 'refs/heads/main'
+
+      - name: build the site
+        id: site
+        if: github.ref == 'refs/heads/main'
+        working-directory: .reader
+        env:
+          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+        run: |
+          if go run ./cmd/tgw publish -out "$GITHUB_WORKSPACE/site" -base "${{ steps.pages.outputs.base_path }}"; then
+            echo "publishable=yes" >> "$GITHUB_OUTPUT"
+            echo "The site was built and is being deployed." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "publishable=no" >> "$GITHUB_OUTPUT"
+            echo "The build failed. Nothing was deployed." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.site.outputs.publishable == 'yes'
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main' && needs.build.outputs.publishable == 'yes'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deploy

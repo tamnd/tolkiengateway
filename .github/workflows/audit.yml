@@ -1,0 +1,52 @@
+name: audit
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: audit-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: fail if any image file is committed
+        run: |
+          matches=$(git ls-files -- '*.png' '*.jpg' '*.jpeg' '*.gif' '*.webp' '*.svg' '*.bmp' '*.tiff' '*.ico')
+          if [ -n "$matches" ]; then
+            echo "Image files are not allowed in this repo. Tolkien Gateway images keep their own copyright and are not redistributed here." >&2
+            echo "$matches" >&2
+            exit 1
+          fi
+
+  corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: tamnd/tolkiengateway-reader
+          path: .reader
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: .reader/go.mod
+
+      - name: run the corpus audit
+        working-directory: .reader
+        env:
+          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+        run: go run ./cmd/tgw audit
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: quality-report
+          path: reports/quality.md
