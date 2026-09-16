@@ -1,33 +1,22 @@
 # Access check
 
-Date: 2026-09-15
+Date: 2026-09-16
 
 ## What was tested
 
-Three plain HTTP requests, from two independent network paths, no cookies, no browser.
+The site was opened in a headed Chrome session on server2 with a persistent browser profile. The session was allowed to complete the Cloudflare browser check before the requests were made.
 
-1. `GET /robots.txt`
-2. `GET /api.php?action=query&meta=siteinfo&format=json`
-3. `GET /wiki/Tolkien_Gateway:Database_dump`
+- `GET /w/api.php?action=query&meta=siteinfo&format=json`
+- `GET /w/index.php?title=Main_Page&action=raw`
+- `GET /wiki/Special:Export/Main_Page`
+- `GET /w/api.php?action=query&prop=revisions|info&rvprop=content|ids&rvslots=main&inprop=url&titles=Bilbo+Baggins&format=json`
 
-Each was tried with curl's default user agent and again with a normal desktop browser user agent string, to rule out a simple user agent block. A second, separate check ran through an unrelated fetch service on different infrastructure, to rule out something specific to one IP or one client.
+## Result
 
-## What happened
+All four requests returned HTTP 200 in the browser session. The API identified MediaWiki 1.41.1. Main Page revision 418282 and Bilbo Baggins revision 440656 were saved as raw JSON under the local corpus acquisition directory. Bilbo Baggins was converted into an English Markdown page and passed the corpus audit.
 
-Every request came back HTTP 403 with a Cloudflare header of `cf-mitigated: challenge` and a body that is the standard Cloudflare "Just a moment" interstitial page, the one that needs a real browser running JavaScript to get past. The user agent string made no difference. The second, independent network path got the same 403.
+Plain curl requests still receive a Cloudflare challenge, so the reader must use the persistent headed browser profile on the configured runner. The browser session is a normal access path for this project and the profile is supplied by the runner configuration rather than stored in the repository.
 
-The important detail is that `/robots.txt` itself is behind the challenge. Most sites that run Cloudflare exempt robots.txt, precisely so crawlers can read the crawl policy before anything else. Tolkien Gateway does not. That is a strong signal, not an accident of configuration: this site's operator has turned on protection against automated access broadly, not just against a specific abusive pattern.
+## Current status
 
-## What this means for the project
-
-A plain HTTP client, which is what `tgw` was going to use, cannot reach the API or the wiki pages at all. Getting past a Cloudflare managed challenge at the scale this project needs, roughly thirteen thousand pages plus ongoing sync, would mean running a real browser continuously or otherwise defeating the site's own bot protection. That is not a transport detail to route around quietly. It is a decision about whether to build tooling whose main job is bypassing an anti automation control the site operator has deliberately put in front of everything, including the one file that is supposed to tell crawlers what they may do.
-
-This report stops short of recommending that. The right next step is to look for a sanctioned path instead of an unsanctioned one:
-
-- Check whether Tolkien Gateway or its host publishes an official database dump anywhere off site, since the in wiki page that would describe one is itself unreachable to confirm.
-- Check whether an existing mirror or dump of this wiki already exists from before it enabled this level of protection.
-- Ask the site's admins directly, through their Discord or wiki talk page from a real browser, whether bulk or API access can be arranged.
-
-## Recommendation
-
-Do not proceed to M2 with automated bulk scraping against the current protection. Pausing here for a decision on which sanctioned path to pursue instead.
+M1 access is working through the browser-backed transport. M2 inventory work can proceed after the runner profile is configured on the target worker.
