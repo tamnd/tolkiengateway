@@ -32,7 +32,7 @@ jobs:
           go-version-file: .reader/go.mod
       - name: publish check
         working-directory: .reader
-        run: go run ./cmd/tgw publish -check -corpus "$GITHUB_WORKSPACE" -lang en
+        run: go run ./cmd/tgw publish -check -corpus "$GITHUB_WORKSPACE"
 
   # The site bundles the wiki's thumbnails, which are never committed here.
   # They live on the crawl host, so the build runs on that host's runner.
@@ -61,10 +61,10 @@ jobs:
         env:
           TGW_IMAGES: ${{ vars.TGW_IMAGES }}
           TGW_SITEINFO: ${{ vars.TGW_SITEINFO }}
-          TGW_IMAGE_BUDGET: ${{ vars.TGW_IMAGE_BUDGET || '600' }}
+          TGW_IMAGE_BUDGET: ${{ vars.TGW_IMAGE_BUDGET || '300' }}
         run: |
           rm -rf "$GITHUB_WORKSPACE/site"
-          if go run ./cmd/tgw publish -corpus "$GITHUB_WORKSPACE" -lang en -out "$GITHUB_WORKSPACE/site" \
+          if go run ./cmd/tgw publish -corpus "$GITHUB_WORKSPACE" -langs vi,en -out "$GITHUB_WORKSPACE/site" \
               -base "${{ steps.pages.outputs.base_path }}" \
               -images "$TGW_IMAGES" -siteinfo "$TGW_SITEINFO" -image-budget "$TGW_IMAGE_BUDGET"; then
             echo "publishable=yes" >> "$GITHUB_OUTPUT"
@@ -82,7 +82,7 @@ jobs:
   deploy:
     needs: build
     if: needs.build.outputs.publishable == 'yes'
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, tgw-images]
     permissions:
       pages: write
       id-token: write
