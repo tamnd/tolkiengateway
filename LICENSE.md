@@ -4,7 +4,7 @@ The article text in this repository is adapted from [Tolkien Gateway](https://to
 
 Share alike applies. A copy or adaptation of this corpus's text must carry the same CC BY-SA 4.0 licence and credit Tolkien Gateway.
 
-Images are not licensed under CC BY-SA and are not distributed by this repository in any form. Each image on Tolkien Gateway keeps its own copyright, held by its uploader or original creator, and is used on the wiki under a fair use rationale that does not extend to redistribution here. No image file is committed to this repository. Where an article references an image, its front matter records the image's page on tolkiengateway.net and its stated licence, and the published site links to that page rather than copying the image.
+Images on Tolkien Gateway are also distributed under CC BY-SA. This repository commits no image files, only Markdown, to keep the repository small. The published website bundles copies of the images it shows, mostly thumbnails, and loads any image it does not bundle from tolkiengateway.net. Every image on the site links to its file page, which credits the file's source and uploader and links to the file's description page on Tolkien Gateway.
 
 Every page in this corpus, on the website and in the EPUB, credits Tolkien Gateway and links to the exact revision the page was built from.
 

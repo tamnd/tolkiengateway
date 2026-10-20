@@ -1,0 +1,13 @@
+---
+title: "Misty Mountain Hop"
+page_id: 3969
+namespace: 0
+revision_id: 213271
+source_url: "https://tolkiengateway.net/wiki/Misty_Mountain_Hop"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Led Zeppelin"
+---
+
+Redirect to [Led Zeppelin](/wiki/Led_Zeppelin).

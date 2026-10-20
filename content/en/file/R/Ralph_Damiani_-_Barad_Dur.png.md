@@ -1,0 +1,35 @@
+---
+title: "File:Ralph Damiani - Barad Dur.png"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ralph Damiani - Barad Dur.png</span>"
+page_id: 60653
+namespace: 6
+revision_id: 357860
+timestamp: "2022-09-22T13:09:21Z"
+source_url: "https://tolkiengateway.net/wiki/File:Ralph_Damiani_-_Barad_Dur.png"
+content_sha256: c124119a158fe5d973f819a87b05ed46414a619a09da9afdc087acf17d5ea449
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Ralph Damiani"
+  - "Images of Barad-dûr"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/e8/Ralph_Damiani_-_Barad_Dur.png"
+  mime: "image/png"
+  size: 2633485
+  width: 1013
+  height: 1786
+  sha1: "37580946a0fe017af373d7b927aab94246e9e2e9"
+  timestamp: "2021-12-31T13:54:05Z"
+  user: "Mith"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Ralph Damiani</span></span>
+<p>This work is copyrighted and owned by Ralph Damiani. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Ralph Damiani</li>
+<li><b>Website:</b> <a class="external text" href="https://www.artstation.com/ralphdamiani" rel="noreferrer noopener" target="_blank">Ralph Damiani at ArtStation</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ralph_Damiani" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

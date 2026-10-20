@@ -1,0 +1,28 @@
+---
+title: "The Hobbit Calendar 2003"
+display_title: "<i>The Hobbit Calendar 2003</i>"
+page_id: 6765
+namespace: 0
+revision_id: 339333
+timestamp: "2021-12-19T14:17:30Z"
+source_url: "https://tolkiengateway.net/wiki/The_Hobbit_Calendar_2003"
+content_sha256: 6bbfa037cf1113955609c8f91f2b04955400b72109f7962f8c7cfb8a2611e0a1
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Calendars (real-world)"
+  - "Pages using ISBN magic links"
+images:
+  - "The_Hobbit_Calendar_2003.jpg"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Hobbit_Calendar_2003.jpg"><img src="/w/images/thumb/a/a5/The_Hobbit_Calendar_2003.jpg/300px-The_Hobbit_Calendar_2003.jpg" decoding="async" loading="lazy" width="300" height="328" class="mw-file-element" srcset="/w/images/a/a5/The_Hobbit_Calendar_2003.jpg 1.5x" data-file-width="320" data-file-height="350"/></a><figcaption></figcaption></figure>
+
+**The Hobbit Calendar 2003** features illustrations by <a class="new" href="/w/index.php?title=Lydia_Postma&amp;action=edit&amp;redlink=1" title="Lydia Postma (page does not exist)">Lydia Postma</a>.
+
+- Dorset Press (US) <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0760733821">ISBN 0-7607-3382-1</a>
+- Pavilion (The Shire) (UK) <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/186205553X">ISBN 1-86205-553-X</a>
+- Dimensions: 12 x 13 1/4 inches
+- Stapled
+- Punched hanging hole
+- Shrink-wrapped

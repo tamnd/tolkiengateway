@@ -16,8 +16,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  # The gate on every pull request. Builds the site in memory and checks it
+  # against the audit rules without writing anything.
+  check:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: tamnd/tolkiengateway-reader
+          path: .reader
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: .reader/go.mod
+      - name: publish check
+        working-directory: .reader
+        run: go run ./cmd/tgw publish -check -corpus "$GITHUB_WORKSPACE" -lang en
+
+  # The site bundles the wiki's thumbnails, which are never committed here.
+  # They live on the crawl host, so the build runs on that host's runner.
+  # Images the host lacks are hotlinked from the wiki.
+  build:
+    if: github.event_name != 'pull_request'
+    runs-on: [self-hosted, linux, tgw-images]
     outputs:
       publishable: ${{ steps.site.outputs.publishable }}
     steps:
@@ -30,28 +52,23 @@ jobs:
         with:
           go-version-file: .reader/go.mod
 
-      # The gate on every pull request. Builds the site in memory and checks
-      # it against the audit rules without writing anything.
-      - name: publish check
-        working-directory: .reader
-        env:
-          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
-        run: go run ./cmd/tgw publish -check
-
       - uses: actions/configure-pages@v5
         id: pages
-        if: github.ref == 'refs/heads/main'
 
       - name: build the site
         id: site
-        if: github.ref == 'refs/heads/main'
         working-directory: .reader
         env:
-          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+          TGW_IMAGES: ${{ vars.TGW_IMAGES }}
+          TGW_SITEINFO: ${{ vars.TGW_SITEINFO }}
+          TGW_IMAGE_BUDGET: ${{ vars.TGW_IMAGE_BUDGET || '600' }}
         run: |
-          if go run ./cmd/tgw publish -out "$GITHUB_WORKSPACE/site" -base "${{ steps.pages.outputs.base_path }}"; then
+          rm -rf "$GITHUB_WORKSPACE/site"
+          if go run ./cmd/tgw publish -corpus "$GITHUB_WORKSPACE" -lang en -out "$GITHUB_WORKSPACE/site" \
+              -base "${{ steps.pages.outputs.base_path }}" \
+              -images "$TGW_IMAGES" -siteinfo "$TGW_SITEINFO" -image-budget "$TGW_IMAGE_BUDGET"; then
             echo "publishable=yes" >> "$GITHUB_OUTPUT"
-            echo "The site was built and is being deployed." >> "$GITHUB_STEP_SUMMARY"
+            echo "The site was built ($(du -sh "$GITHUB_WORKSPACE/site" | cut -f1)) and is being deployed." >> "$GITHUB_STEP_SUMMARY"
           else
             echo "publishable=no" >> "$GITHUB_OUTPUT"
             echo "The build failed. Nothing was deployed." >> "$GITHUB_STEP_SUMMARY"
@@ -64,7 +81,7 @@ jobs:
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/main' && needs.build.outputs.publishable == 'yes'
+    if: needs.build.outputs.publishable == 'yes'
     runs-on: ubuntu-latest
     permissions:
       pages: write

@@ -1,0 +1,13 @@
+---
+title: "A.F. Colburn"
+page_id: 43848
+namespace: 0
+revision_id: 230833
+source_url: "https://tolkiengateway.net/wiki/A.F._Colburn"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "A.F. Colborn"
+---
+
+Redirect to [A.F. Colborn](/wiki/A.F._Colborn).

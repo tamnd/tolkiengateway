@@ -1,0 +1,38 @@
+---
+title: "File:David Greset - Durin's Tower.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David Greset - Durin&#039;s Tower.jpg</span>"
+page_id: 65537
+namespace: 6
+revision_id: 377292
+timestamp: "2023-07-21T08:59:33Z"
+source_url: "https://tolkiengateway.net/wiki/File:David_Greset_-_Durin's_Tower.jpg"
+content_sha256: bf294293c4ab9e51252b6518b78061a73b0893494f639ce729f442adc3a0bac2
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by David Greset"
+  - "Images of Celebdil"
+  - "Images of Durin's Tower"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/9/92/David_Greset_-_Durin%27s_Tower.jpg"
+  mime: "image/jpeg"
+  size: 182385
+  width: 846
+  height: 1200
+  sha1: "ccbb76fae0176ff2d5a197b04772f093273e46a0"
+  timestamp: "2023-07-21T08:59:33Z"
+  user: "IvarTheBoneless"
+---
+
+## Summary {#Summary}
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/David Greset</span></span>
+<p>This work is copyrighted and owned by David Greset. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> David Greset</li>
+<li><b>Website:</b> <a class="external text" href="https://www.artstation.com/gresetdavid" rel="noreferrer noopener" target="_blank">David Greset on ArtStation</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_Greset" title="Tolkien Gateway:Copyrights/David Greset">Permission for use on Tolkien Gateway</a></b></li></ul></div>

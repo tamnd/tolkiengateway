@@ -1,0 +1,34 @@
+---
+title: "Mugwort Family"
+display_title: "<span class=\"mw-page-title-main\">Mugwort Family</span>"
+page_id: 4027
+namespace: 0
+revision_id: 435934
+timestamp: "2026-03-05T14:13:43Z"
+source_url: "https://tolkiengateway.net/wiki/Mugwort_Family"
+content_sha256: f5a643fa24e26f46475faeea926d1b70ba31bf92643876f12af6ba3e0bd629b0
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Hobbit families"
+  - "Mugwort"
+sort_keys:
+  "Mugwort": " "
+---
+
+**Mugwort** was a common family name among the [Bree-hobbits](/wiki/Bree-hobbits).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## Etymology {#Etymology}
+
+Mugwort is the name of the plant <a class="extiw" href="http://en.wikipedia.org/wiki/Artemisia_(genus)" title="wikipedia:Artemisia (genus)">Artemisia</a> akin to Wormwood. Tolkien mentioned that there is no special reason for the choice of Mugwort, except its hobbit-like sound.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/At_the_Sign_of_the_Prancing_Pony" title="At the Sign of the Prancing Pony">At the Sign of the Prancing Pony</a>&#34;</span>
+</li>
+<li id="cite_note-Nomen-2"><span class="mw-cite-backlink"><a href="#cite_ref-Nomen_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Guide_to_the_Names_in_The_Lord_of_the_Rings" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 760</span>
+</li>
+</ol></div>

@@ -1,0 +1,16 @@
+---
+title: "Category:Xbox One games"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Xbox One games</span>"
+page_id: 45524
+namespace: 14
+revision_id: 239863
+timestamp: "2014-02-05T21:16:21Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Xbox_One_games"
+content_sha256: 566dbf6139633b335ec3c8a3e5a560bb02ef92b3c26e4eed1f57a653abc243e0
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games by platform"
+---
+
+This category lists all **Xbox One games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.

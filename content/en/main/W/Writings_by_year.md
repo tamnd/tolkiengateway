@@ -1,0 +1,13 @@
+---
+title: "Writings by year"
+page_id: 34293
+namespace: 0
+revision_id: 385735
+source_url: "https://tolkiengateway.net/wiki/Writings_by_year"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Index:Tolkien studies publications by year"
+---
+
+Redirect to [Index:Tolkien studies publications by year](/wiki/Index:Tolkien_studies_publications_by_year).

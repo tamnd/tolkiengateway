@@ -1,0 +1,13 @@
+---
+title: "James Ridolfo 12 April 1966"
+page_id: 46290
+namespace: 0
+revision_id: 244638
+source_url: "https://tolkiengateway.net/wiki/James_Ridolfo_12_April_1966"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Letter to James Ridolfo"
+---
+
+Redirect to [Letter to James Ridolfo](/wiki/Letter_to_James_Ridolfo).

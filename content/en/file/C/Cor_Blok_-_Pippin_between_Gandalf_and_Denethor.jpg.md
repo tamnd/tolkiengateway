@@ -1,0 +1,42 @@
+---
+title: "File:Cor Blok - Pippin between Gandalf and Denethor.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Pippin between Gandalf and Denethor.jpg</span>"
+page_id: 71520
+namespace: 6
+revision_id: 426458
+timestamp: "2025-10-22T14:44:25Z"
+source_url: "https://tolkiengateway.net/wiki/File:Cor_Blok_-_Pippin_between_Gandalf_and_Denethor.jpg"
+content_sha256: 51c7e442f2a4aefbff3ecbc59c0f453a9c133191fc5b92f4b85d6aa4606b96b4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Cor Blok"
+  - "Images of Gandalf"
+  - "Images of Peregrin Took"
+  - "Images of Denethor"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/9/98/Cor_Blok_-_Pippin_between_Gandalf_and_Denethor.jpg"
+  mime: "image/jpeg"
+  size: 375496
+  width: 1000
+  height: 1233
+  sha1: "84829fdc74faf3652b8e239b2eaa14b7fc66d934"
+  timestamp: "2025-10-22T14:43:34Z"
+  user: "Paccyd33"
+---
+
+## Summary {#Summary}
+
+"[Pippin](/wiki/Peregrin_Took "Peregrin Took") between [Gandalf](/wiki/Gandalf) and [Denethor](/wiki/Denethor)" by [Cor Blok](/wiki/Cor_Blok), created in [1959](/wiki/1959).
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="https://web.archive.org/web/20220117163428/http://www.corblok.com/sample-page/" rel="noreferrer noopener" target="_blank">Cor Blok</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

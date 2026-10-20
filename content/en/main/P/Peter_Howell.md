@@ -1,0 +1,26 @@
+---
+title: "Peter Howell"
+display_title: "<span class=\"mw-page-title-main\">Peter Howell</span>"
+page_id: 6889
+namespace: 0
+revision_id: 440087
+timestamp: "2026-07-05T12:45:45Z"
+source_url: "https://tolkiengateway.net/wiki/Peter_Howell"
+content_sha256: 16358b274f05e5b75b039e1d3044b716fde0107f87025f3dd1dab1fe3b2bd178
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Actors and actresses"
+  - "British people"
+  - "People by name"
+sort_keys:
+  "Actors and actresses": "Howell, Peter"
+  "British people": "Howell, Peter"
+  "People by name": "Howell, Peter"
+---
+
+**Peter Howell** ([1919](/wiki/1919) - [20 April](/wiki/20_April) [2015](/wiki/2015)) voiced the part of [Saruman](/wiki/Saruman) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on BBC 4.
+
+## External links {#External_links}
+
+- <a class="external text" href="http://www.imdb.com/name/nm0398032/" rel="noreferrer noopener" target="_blank">Peter Howell</a> at IMDb

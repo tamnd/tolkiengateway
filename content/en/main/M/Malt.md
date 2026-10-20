@@ -1,0 +1,65 @@
+---
+title: "Malt"
+display_title: "malt"
+page_id: 34735
+namespace: 0
+revision_id: 433658
+timestamp: "2026-02-04T16:24:16Z"
+source_url: "https://tolkiengateway.net/wiki/Malt"
+content_sha256: dd90a5dd193ce5c55aebb46512dc984490ea81a7d802759391b87486b9ddfdcb
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Noldorin nouns"
+  - "Sindarin nouns"
+---
+
+## Sindarin {#Sindarin}
+
+<i><b>malt</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "[gold](/wiki/Gold "Gold")".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+
+[David Salo](/wiki/David_Salo) has suggested the [Neo-Sindarin](/wiki/Neo-Elvish "Neo-Elvish") word *malad*, or *malt*, meaning "gold (metal)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+### Examples {#Examples}
+
+- *[mallorn](/wiki/Mallorn#Etymology "Mallorn")* (*malt* + *[orn](/wiki/Orn "Orn")*)<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-SApp_3-0" class="reference"><a href="#cite_note-SApp-3">[3]</a></sup>
+- *[Malduin](/wiki/Malduin)*<sup id="cite_ref-SApp_3-1" class="reference"><a href="#cite_note-SApp-3">[3]</a></sup>
+- *[Malgalad](/wiki/Amd%C3%ADr "Amdír")*
+- *[Malinalda](/wiki/Laurelin#Names "Laurelin")*<sup id="cite_ref-SApp_3-2" class="reference"><a href="#cite_note-SApp-3">[3]</a></sup>
+- *[Cormallen](/wiki/Cormallen)*<sup id="cite_ref-SApp_3-3" class="reference"><a href="#cite_note-SApp-3">[3]</a></sup>
+- *[mallos](/wiki/Mallos "Mallos")*
+
+## Noldorin {#Noldorin}
+
+<i><b>malt</b></i> is a [Noldorin](/wiki/Noldorin) word meaning "[gold](/wiki/Gold "Gold") (as metal)".<sup id="cite_ref-LR386_4-0" class="reference"><a href="#cite_note-LR386-4">[4]</a></sup>
+
+### Etymoloy {#Etymoloy}
+
+- [Root](/wiki/Sundocarme "Sundocarme") [SMAL](/wiki/SMAL)<sup id="cite_ref-LR386_4-1" class="reference"><a href="#cite_note-LR386-4">[4]</a></sup>
+
+### Other versions {#Other_versions}
+
+A rejected Noldorin word for "gold (metal)" was <i><b>côl</b></i>, derived from root [KUL](/wiki/KUL).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+## See also {#See_also}
+
+- Prefix *[mal-](/wiki/Mal- "Mal-")*
+- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i>
+- [Root](/wiki/Sundocarme "Sundocarme") [MALAT](/wiki/MALAT)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-VT42-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT42_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT42_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>: Author&#39;s notes to the account of the Eldarin numerals&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 27 (Note 5)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/David_Salo" title="David Salo">David Salo</a> (<a href="/wiki/2004" title="2004">2004</a>), <i><a href="/wiki/A_Gateway_to_Sindarin" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, p. 324</span>
+</li>
+<li id="cite_note-SApp-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SApp_3-0">3.0</a></sup> <sup><a href="#cite_ref-SApp_3-1">3.1</a></sup> <sup><a href="#cite_ref-SApp_3-2">3.2</a></sup> <sup><a href="#cite_ref-SApp_3-3">3.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
+</li>
+<li id="cite_note-LR386-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR386_4-0">4.0</a></sup> <sup><a href="#cite_ref-LR386_4-1">4.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 386</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 365</span>
+</li>
+</ol></div>

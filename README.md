@@ -8,9 +8,9 @@ This repo holds the corpus only. The tool that builds it lives in [tamnd/tolkien
 
 ## Licence
 
-The article text is CC BY-SA 4.0, the licence Tolkien Gateway itself uses for its text since January 2025. See LICENSE.md for the full split between text, images and the tooling.
+The corpus is CC BY-SA 4.0, the licence Tolkien Gateway itself uses since January 2025. See LICENSE.md for the details, including the tooling's separate licence.
 
-Images are not included anywhere in this repo. Tolkien Gateway's images keep their own copyright and are not covered by the wiki's text licence, so no image file is ever committed here, and the audit workflow fails the build if one shows up. Every article that references an image records the image's page and its stated licence in its own front matter, and links back to the original instead of copying it.
+This repo holds Markdown only. The wiki's images are CC BY-SA as well, but they are far too large for git, so no image file is ever committed here and the audit workflow fails the build if one shows up. The images are downloaded by the crawler and bundled into the published site at build time, thumbnails for display, with any image that is not bundled loaded from tolkiengateway.net instead. Each file page's front matter records the file's source URL, size, checksum and uploader.
 
 ## Layout
 

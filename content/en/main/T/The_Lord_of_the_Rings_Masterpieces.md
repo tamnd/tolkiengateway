@@ -1,0 +1,86 @@
+---
+title: "The Lord of the Rings Masterpieces"
+display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Masterpieces</span>"
+page_id: 12186
+namespace: 0
+revision_id: 191131
+timestamp: "2012-04-06T16:22:02Z"
+source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings_Masterpieces"
+content_sha256: c09379d2561d4d12805371dc749e35824236941246af176a753860024c4aa28c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Collectibles"
+---
+
+**The Lord of the Rings Masterpieces** are tradeable cards produced by Topps.
+
+## Artists {#Artists}
+
+- Kyle Babbitt (100)
+- Len Bellinger (150)
+- Joseph Booth (xxx)
+- Dennis Budd (100)
+- Jeff Chandler (100)
+- Justin Chung (xxx)
+- Katie Cook (706)
+- Joe Corroney (106)
+- Renae De Liz (50)
+- Thomas Denmark (xxx)
+- Otto Dieffenbach (100)
+- [Ray Dillon](/wiki/Ray_Dillon) (50)
+- [Colleen Doran](/wiki/Colleen_Doran) (200)
+- Dave Dorman (xxx)
+- Michael Duron (206)
+- Brent Engstrom (xxx)
+- Darla Ecklund (200)
+- Davide Fabbri (xxx)
+- Roberto Flores (xxx)
+- Dave Fox (100)
+- Otis Frampton (100)
+- Tess Fowler (xxx)
+- Matthew Goodmanson (400)
+- [Grant Gould](/wiki/Grant_Gould) (100)
+- Kevin Graham (356)
+- Paul Gutierrez (200)
+- Patrick Hamill (206)
+- Gabriel Hernandez (100)
+- Jessica Hickman (250)
+- Thomas Hodges (200)
+- James Hodgkins (50)
+- Josh Howard (200/250)
+- Mary Huang (175)
+- Lee Kohse (306)
+- Jim Kyle (150)
+- Mike Lilly (xxx)
+- Leah Mangue (856)
+- John McCrea (50)
+- Brandon McKinney (150)
+- Steven Miller (100)
+- Rich Molinelli (100)
+- Joanne Mutch (150)
+- Jake Myler (300)
+- Steve Oatney (100)
+- Jon Ocampo (100)
+- Mike Oeming (100)
+- William O'Neill (300)
+- Sean Pence (125)
+- Connie Persampieir (350)
+- Keith Phillips (xxx)
+- Amy Pronovost (150)
+- David Rabbitte (120)
+- Juan Carlos Ramos (xxx)
+- Walter Rice (206)
+- Brian Rood (xxx)
+- Howard Shum (1000)
+- Allison Sohn (80)
+- Cat Staggs (200)
+- Robert Teranishi (xxx)
+- Jerry Vanderstelt (106)
+- Christian Dalla Vecchia (xxx)
+- Ryan Waterhouse (1000)
+- John Watkins-Chow (206)
+- Sarah Wilkinson (500)
+- Russell Walks (xxx)
+- Jeff Zapata (xxx)
+- Chuck Zsolnai (150)

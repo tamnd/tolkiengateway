@@ -1,0 +1,34 @@
+---
+title: "File:Doombound.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Doombound.jpg</span>"
+page_id: 59417
+namespace: 6
+revision_id: 330537
+timestamp: "2021-04-22T15:25:51Z"
+source_url: "https://tolkiengateway.net/wiki/File:Doombound.jpg"
+content_sha256: 24cd8ed8c8f58384fb6620914ec53cc65810d37abc759e0c9df9a85e7a5c0149
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/2/27/Doombound.jpg"
+  mime: "image/jpeg"
+  size: 27677
+  width: 316
+  height: 316
+  sha1: "42f57338d21cf1f4f57b310c3b83f3194e63e327"
+  timestamp: "2021-04-22T15:24:54Z"
+  user: "Tik"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

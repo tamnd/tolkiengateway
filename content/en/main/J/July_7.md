@@ -1,0 +1,13 @@
+---
+title: "July 7"
+page_id: 33825
+namespace: 0
+revision_id: 154068
+source_url: "https://tolkiengateway.net/wiki/July_7"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "7 July"
+---
+
+Redirect to [7 July](/wiki/7_July).

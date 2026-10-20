@@ -1,0 +1,13 @@
+---
+title: "Inevitable Entertainment"
+page_id: 20524
+namespace: 0
+revision_id: 71433
+source_url: "https://tolkiengateway.net/wiki/Inevitable_Entertainment"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Midway Games"
+---
+
+Redirect to [Midway Games](/wiki/Midway_Games).

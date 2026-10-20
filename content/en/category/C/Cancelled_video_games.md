@@ -1,0 +1,17 @@
+---
+title: "Category:Cancelled video games"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cancelled video games</span>"
+page_id: 27673
+namespace: 14
+revision_id: 359752
+timestamp: "2022-10-19T16:57:20Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Cancelled_video_games"
+content_sha256: 6d7fe04d901e817d98f5eebffc47bea95df873cce1be7f32c823effca644ab28
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games"
+  - "Unmade projects"
+---
+
+This category lists all **cancelled video games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.

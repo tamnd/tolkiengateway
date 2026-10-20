@@ -1,0 +1,49 @@
+---
+title: "Letter to George Sayer (28 November 1963)"
+display_title: "Letter to George Sayer <span style=\"font-size:0.7em\">(28 November 1963)</span>"
+page_id: 43933
+namespace: 0
+revision_id: 387959
+timestamp: "2024-03-18T08:31:16Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_George_Sayer_(28_November_1963)"
+content_sha256: e9ccc11c70f4247089ddee129ce3760081eb417ff2c77d3201d0cc1010c33d70
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+  - "Letters to George Sayer"
+sort_keys:
+  "Letters": "Sayer, George (1963-11-28)"
+---
+
+On [28 November](/wiki/28_November) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [George Sayer](/wiki/George_Sayer)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+- **Subject:** Obituaries for [C.S. Lewis](/wiki/C.S._Lewis).
+- **Publication:** A quotation from the letter appeared in *[Christie's 20th Century Books and Manuscripts 16 November 2001](/wiki/Christie%27s_20th_Century_Books_and_Manuscripts_16_November_2001)*. A description of and quotation from the letter appears in *[The J.R.R. Tolkien Companion and Guide: I. Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")*.
+
+## Excerpt {#Excerpt}
+
+*"A Catholic could not possibly say anything sincere about Jack's books without giving widespread offence"*
+
+*"But then Jack \[C. S. Lewis\] never sent me anything. Not even of Screwtape Letters which he dedicated to me (without permission). I was wryly amused to learn from the Daily Telegraph that 'Lewis was never (sic) himself very fond of this work'. I after/often \[this word is especially hard to discern\] wondered why the dedication was made. Now I know—or should."*
+
+## See also {#See_also}
+
+- [Letter to George and Moira Sayer (7 August 1952)](</wiki/Letter_to_George_and_Moira_Sayer_(7_August_1952)>)
+- [Letter to George Sayer (24 June 1953)](</wiki/Letter_to_George_Sayer_(24_June_1953)>)
+- [Letter to George Sayer (21 March 1966)](</wiki/Letter_to_George_Sayer_(21_March_1966)>)
+- [Letter to George and Moira Sayer (11 December 1971)](</wiki/Letter_to_George_and_Moira_Sayer_(11_December_1971)>)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
+<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 612</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=72190" rel="noreferrer noopener" target="_blank">&#34;20th-Century Books and Manuscripts. 2001&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 22 June 2013</span></cite></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Sale 9261</span>. <span class="cite-web-article"><a class="external text" href="http://www.christies.com/lotfinder/Lot/tolkien-john-ronald-reuel-1892-1973-autograph-letter-3815315-details.aspx" rel="noreferrer noopener" target="_blank">&#34;Autograph letter signed (&#39;Ronald Tolkien&#39;) to George Sayer, Headington, Oxford, 28 November 1963&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.christies.com/" rel="noreferrer noopener" target="_blank">Christies</a></span>. <span class="cite-web-accessed">Retrieved 21 August 2020</span></cite></span>
+</li>
+</ol></div>

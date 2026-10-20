@@ -1,0 +1,23 @@
+---
+title: "Middle-earth Calendar 1997 (Finnish)"
+display_title: "<i>Middle-earth Calendar 1997</i> <span style=\"font-size:0.7em\">(Finnish)</span>"
+page_id: 6740
+namespace: 0
+revision_id: 339314
+timestamp: "2021-12-19T13:56:37Z"
+source_url: "https://tolkiengateway.net/wiki/Middle-earth_Calendar_1997_(Finnish)"
+content_sha256: 142a0f638682fd5a08b7f5e221fc292423b3ca013fff40835efc3ba7e9d7644f
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Calendars (real-world)"
+images:
+  - "Middle-earth_Calendar_1997_(Finnish).jpg"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Middle-earth_Calendar_1997_(Finnish).jpg"><img src="/w/images/thumb/3/33/Middle-earth_Calendar_1997_%28Finnish%29.jpg/300px-Middle-earth_Calendar_1997_%28Finnish%29.jpg" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="/w/images/thumb/3/33/Middle-earth_Calendar_1997_%28Finnish%29.jpg/450px-Middle-earth_Calendar_1997_%28Finnish%29.jpg 1.5x, /w/images/3/33/Middle-earth_Calendar_1997_%28Finnish%29.jpg 2x" data-file-width="489" data-file-height="350"/></a><figcaption></figcaption></figure>
+
+**Middle-earth Calendar 1997** was produced by the [Finnish Tolkien Society](/wiki/Finnish_Tolkien_Society) and includes pen and ink illustratoins by <a class="new" href="/w/index.php?title=Sari_Luoto-Tudeer&amp;action=edit&amp;redlink=1" title="Sari Luoto-Tudeer (page does not exist)">Sari Luoto-Tudeer</a>, <a class="new" href="/w/index.php?title=Lotta_Hona_Penelope_Raatikainen&amp;action=edit&amp;redlink=1" title="Lotta Hona Penelope Raatikainen (page does not exist)">Lotta Hona Penelope Raatikainen</a>, <a class="new" href="/w/index.php?title=Ville_Ruotsalainen&amp;action=edit&amp;redlink=1" title="Ville Ruotsalainen (page does not exist)">Ville Ruotsalainen</a>, and <a class="new" href="/w/index.php?title=Teppo_Repo&amp;action=edit&amp;redlink=1" title="Teppo Repo (page does not exist)">Teppo Repo</a>.
+
+- Dimensions: 11 1/2 x 8 1/4 inches
+- Stapled on the fold

@@ -1,0 +1,63 @@
+---
+title: "Letter to G.E. Selby (14 December 1937)"
+display_title: "Letter to G.E. Selby <span style=\"font-size:0.7em\">(14 December 1937)</span>"
+page_id: 42976
+namespace: 0
+revision_id: 404174
+timestamp: "2024-08-21T13:32:50Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_G.E._Selby_(14_December_1937)"
+content_sha256: ab304d10db22392a1bf9a3c73d453aa3995a87790ad35e0cf806158c271ed053
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+  - "Letters to G.E. Selby"
+sort_keys:
+  "Letters": "Selby, G.E. (1937-12-14)"
+images:
+  - "G.E._Selby_14-15_December_1937.jpg"
+---
+
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:G.E._Selby_14-15_December_1937.jpg"><img src="/w/images/thumb/4/45/G.E._Selby_14-15_December_1937.jpg/400px-G.E._Selby_14-15_December_1937.jpg" decoding="async" loading="lazy" width="400" height="315" class="mw-file-element" srcset="/w/images/4/45/G.E._Selby_14-15_December_1937.jpg 1.5x" data-file-width="550" data-file-height="433"/></a><figcaption></figcaption></figure>
+
+On [14 December](/wiki/14_December) [1937](/wiki/1937), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to G.E. Selby**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+- **Subject:** Replying to a letter from Selby dated [28 November](/wiki/28_November), Tolkien discusses various aspects of *[The Hobbit](/wiki/The_Hobbit)*, especially in relation to *[The Silmarillion](/wiki/The_Silmarillion)*.
+- **Publication:** Extracts from the letter appeared in <i><a class="new" href="/w/index.php?title=Sotheby%27s_Nineteenth_Century_and_Modern_First_Editions,_Presentation_Copies,_Autograph_Letters_and_Literary_Manuscripts_28-29_July_1977&amp;action=edit&amp;redlink=1" title="Sotheby&#39;s Nineteenth Century and Modern First Editions, Presentation Copies, Autograph Letters and Literary Manuscripts 28-29 July 1977 (page does not exist)">Sotheby&#39;s Nineteenth Century and Modern First Editions, Presentation Copies, Autograph Letters and Literary Manuscripts 28-29 July 1977</a></i>, and was fully reproduced and transcribed<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> in [1987](/wiki/1987) in *[J.R.R. Tolkien: The Hobbit: The Hobbit Drawings, Watercolors and Manuscripts](/wiki/J.R.R._Tolkien:_The_Hobbit "J.R.R. Tolkien: The Hobbit")*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> In [1988](/wiki/1988), [Christopher Tolkien](/wiki/Christopher_Tolkien) quoted from the letter in his Foreword to *[The Return of the Shadow](/wiki/The_Return_of_the_Shadow)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> A summary of the letter was provided by [Christina Scull](/wiki/Christina_Scull) and [Wayne G. Hammond](/wiki/Wayne_G._Hammond) in *[The J.R.R. Tolkien Companion and Guide: Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+
+## Transcription {#Transcription}
+
+<blockquote class="tg-quote noexcerpt">
+<p>Dear Selby,<br/><br/>It was very nice of you to write to me; and although this was some time ago, I hope you will forgive the delay. I have been ill of late.<br/><br/>I don’t much approve of the Hobbit myself, preferring my own mythology (which is just touched on) with its consistent nomenclature - Elrond, Gondolin, and Esgaroth have escaped out of it - and organized history, to this rabble of Eddaic-named dwarves out of the Völuspá, newfangled hobbits and gollums (invented in an idle hour) and Anglo-Saxon runes. And elves have a more gracious and cunning alphabet which appears on the pot of gold in one of the coloured illustrations of the American <s>introduction</s> edition - if they have chosen that one.<br/><br/>However there it is: I did not offer it for sale. <br/><br/>But as the MS. was discovered (in a nunnery) by one of G. A and Unwin’s people and an offer made for it, I let it go. I knew I was in for trouble. My children, for one thing, do not wholly approve of their private amusements being turned to cash, even to pay for the excessive costs of their education. [That was the hope. Actually I have ear[inserted: n]ed £25 so far - but the publishers write today and say “the first edn. has gone off, and your friends wanting first editions must hurry round to the booksellers”].<br/><br/>Also Oxford was mildly pained: my own college was frankly hurt, until both the Times and the T.L.S. took notice. I am now forgiven, but the matter is not mentioned. We are not in Pembroke expected to descend to the level of a J.B.S. Haldane. Not that I think that I have - except in the matter of illustrations. They are my own, I fear, and with the possible exception of the jacket, bad. As the most intelligent reviewer (Richard Hughes in The New Statesman Dec. 4) frankly says. <br/><br/>All the names are supposed to be pronounced as foreign names (more Latino) except those of Hobbits.† [† And Smaug is of course connected with smjúga since Icelandic was in a foolish moment substituted for the proper language of my tales.]<br/><br/>I cannot say how nice of you it was to write. It cheered me a good deal. I shall now, they say, have to do more. I offered my publishers something good, a complete &amp; heroic history of the Elves - and they clamour for more hobbits. Mr. Baggins had more sense, and properly went into retirement.<br/><br/>I hope this will find you ere Christmas and bring you my best wishes. I am afraid it is rather a scrawl, but I am feeling rather tottery. I hope things go well with you.<br/><br/>Yours ever<br/>JRRT<br/><br/>Your corrections are correct. The thing was many years in the writing, and great care and revision has not achieved the almost impossible task of establishing absolute accuracy &amp; consistency in a long tale. (I wish more <s>lang</s> literary critics would try writing a long tale or poem themselves!) I don’t think Gandalf’s translation (which has same purport) need be in the same words - but I agree that it would be better so. But where for when p. 64 is just an error, and I will correct it, gratefully.<br/>JRRT
+</p>
+</blockquote>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+## See also {#See_also}
+
+- [Letter 80a](/wiki/Letter_80a) (19 September 1944)
+- [Letter to G.E. Selby (7 July 1946)](</wiki/Letter_to_G.E._Selby_(7_July_1946)>)
+- [Letter to G.E. Selby (1955/6)](</wiki/Letter_to_G.E._Selby_(1955/6)>)
+
+## Notes {#Notes}
+
+<span><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/John_D._Rateliff" title="John D. Rateliff">John D. Rateliff</a> has noted an error in the 1987 transcription of the letter, cf. &#34;<a class="external text" href="http://www.tolkiendil.com/essais/tolkien_1892-2012/john_d_rateliff" rel="noreferrer noopener" target="_blank">A Fragment, Detached: <i>The Hobbit</i> and <i>The Silmarillion</i></a>&#34;, first published in French as &#34;Un Fragment, détaché: <i>Bilbo le Hobbit</i> et <i>le Silmarillion</i>&#34; in <i><a href="/wiki/L%27Arc_et_le_Heaume" title="L&#39;Arc et le Heaume">L&#39;Arc et le Heaume: Tolkien 1892-2012</a></i> (July 2012).</span>
+</li>
+</ol></div></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CG_1-0">1.0</a></sup> <sup><a href="#cite_ref-CG_1-1">1.1</a></sup></span> <span class="reference-text">
+<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 207-8</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tripadvisor.com/LocationPhotoDirectLink-g60763-d107356-i73285340-The_Morgan_Library_Museum-New_York_City_New_York.html#64268354" rel="noreferrer noopener" target="_blank">&#34;The Morgan Library &amp; Museum Photo: The Morgan Library &amp; Museum&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tripadvisor.com" rel="noreferrer noopener" target="_blank">Tripadvisor.com</a></span>. <span class="cite-web-accessed">Retrieved 3 March 2014</span></cite></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=63320" rel="noreferrer noopener" target="_blank">&#34;Nineteenth Century and Modern First Editions.1977&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 28 January 2013</span></cite></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Return_of_the_Shadow" title="The Return of the Shadow">The Return of the Shadow</a></i>, &#34;Foreword&#34;, p. 7</span>
+</li>
+</ol></div>

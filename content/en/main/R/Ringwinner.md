@@ -1,0 +1,36 @@
+---
+title: "Ringwinner"
+display_title: "<span class=\"mw-page-title-main\">Ringwinner</span>"
+page_id: 36367
+namespace: 0
+revision_id: 378364
+timestamp: "2023-08-10T18:04:30Z"
+source_url: "https://tolkiengateway.net/wiki/Ringwinner"
+content_sha256: 953498b83718d8535e9e2d8dc2112c8976dc2f186bf010b51f804ac8983f78ab
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Epithets"
+langlinks:
+  - lang: "fi"
+    name: "suomi"
+    title: "Sormuksenottaja"
+    url: "https://kontu.wiki/Sormuksenottaja"
+---
+
+**Ringwinner** was one of the names that [Bilbo Baggins](/wiki/Bilbo_Baggins) used for himself when the dragon [Smaug](/wiki/Smaug) asked him who he was, because he wanted to know his usual name.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bilbo had found [the One Ring](/wiki/The_One_Ring "The One Ring") on the floor of a tunnel in an [orc](/wiki/Orcs "Orcs")-hold of the [Misty Mountains](/wiki/Misty_Mountains) before his encounter with Smaug.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## See also {#See_also}
+
+- [Ring-finder](/wiki/Ring-finder)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/Inside_Information" title="Inside Information">Inside Information</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/Riddles_in_the_Dark" title="Riddles in the Dark">Riddles in the Dark</a>&#34;</span>
+</li>
+</ol></div>

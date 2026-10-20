@@ -1,0 +1,83 @@
+---
+title: "Wonder Tales from Fairy Isles"
+display_title: "<i>Wonder Tales from Fairy Isles</i>"
+page_id: 43031
+namespace: 0
+revision_id: 399977
+timestamp: "2024-07-07T06:42:55Z"
+source_url: "https://tolkiengateway.net/wiki/Wonder_Tales_from_Fairy_Isles"
+content_sha256: 46e50a9e005eb728a46bed266240b35eac1e0f655bef9dc18febcc187029c3ec
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Poetry books"
+  - "Publications by title"
+images:
+  - "Wonder_Tales_from_Fairy_Isles_(1).jpg"
+  - "Wonder_Tales_from_Fairy_Isles_(2).jpg"
+  - "Wonder_Tales_from_Fairy_Isles_(3).jpg"
+  - "Wonder_Tales_from_Fairy_Isles_(4).jpg"
+  - "Wonder_Tales_from_Fairy_Isles_(5).jpg"
+infobox:
+  - label: "Editor"
+    value: "Frances Jenkins Olcott"
+  - label: "Illustrator"
+    value: "Constance Whittemore"
+  - label: "Publisher"
+    value: "Longmans, Green and Co."
+  - label: "Released"
+    value: "1929"
+  - label: "Format"
+    value: "Hardcover"
+  - label: "Pages"
+    value: "235"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(1).jpg"><img src="/w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/320px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="/w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/480px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg 1.5x, /w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/640px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg 2x" data-file-width="1773" data-file-height="2364"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Wonder Tales from Fairy Isles</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a class="external text" href="http://www.mainlesson.com/displayauthor.php?author=olcott" rel="noreferrer noopener" target="_blank">Frances Jenkins Olcott</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Constance Whittemore</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Longman" title="wikipedia:Longman">Longmans, Green and Co.</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/1929" title="1929">1929</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">235<sup id="cite_ref-AM_1-0" class="reference"><a href="#cite_note-AM-1">[1]</a></sup></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>Wonder Tales from Fairy Isles: England, Cornwall, Wales, Scotland, Man and Ireland</b></i> is a collection of poetry, published in [1929](/wiki/1929). The anthology includes [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s poem "[Goblin Feet](/wiki/Goblin_Feet)", differing slightly from the version published in *[Fifty New Poems for Children](/wiki/Fifty_New_Poems_for_Children)* (eg., "gray" for "grey").<sup id="cite_ref-AM_1-1" class="reference"><a href="#cite_note-AM-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Images {#Images}
+
+### Photos of *Wonder Tales from Fairy Isles* {#Photos_of_Wonder_Tales_from_Fairy_Isles}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(1).jpg"><img src="/w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/112px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg" decoding="async" loading="lazy" width="112" height="150" class="mw-file-element" srcset="/w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/169px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg 1.5x, /w/images/thumb/6/63/Wonder_Tales_from_Fairy_Isles_%281%29.jpg/225px-Wonder_Tales_from_Fairy_Isles_%281%29.jpg 2x" data-file-width="1773" data-file-height="2364"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(2).jpg"><img src="/w/images/thumb/f/f9/Wonder_Tales_from_Fairy_Isles_%282%29.jpg/102px-Wonder_Tales_from_Fairy_Isles_%282%29.jpg" decoding="async" loading="lazy" width="102" height="150" class="mw-file-element" srcset="/w/images/thumb/f/f9/Wonder_Tales_from_Fairy_Isles_%282%29.jpg/153px-Wonder_Tales_from_Fairy_Isles_%282%29.jpg 1.5x, /w/images/thumb/f/f9/Wonder_Tales_from_Fairy_Isles_%282%29.jpg/204px-Wonder_Tales_from_Fairy_Isles_%282%29.jpg 2x" data-file-width="1234" data-file-height="1816"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(3).jpg"><img src="/w/images/thumb/2/24/Wonder_Tales_from_Fairy_Isles_%283%29.jpg/164px-Wonder_Tales_from_Fairy_Isles_%283%29.jpg" decoding="async" loading="lazy" width="164" height="150" class="mw-file-element" srcset="/w/images/thumb/2/24/Wonder_Tales_from_Fairy_Isles_%283%29.jpg/245px-Wonder_Tales_from_Fairy_Isles_%283%29.jpg 1.5x, /w/images/thumb/2/24/Wonder_Tales_from_Fairy_Isles_%283%29.jpg/327px-Wonder_Tales_from_Fairy_Isles_%283%29.jpg 2x" data-file-width="1224" data-file-height="1123"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(4).jpg"><img src="/w/images/thumb/2/2a/Wonder_Tales_from_Fairy_Isles_%284%29.jpg/200px-Wonder_Tales_from_Fairy_Isles_%284%29.jpg" decoding="async" loading="lazy" width="200" height="116" class="mw-file-element" srcset="/w/images/thumb/2/2a/Wonder_Tales_from_Fairy_Isles_%284%29.jpg/300px-Wonder_Tales_from_Fairy_Isles_%284%29.jpg 1.5x, /w/images/thumb/2/2a/Wonder_Tales_from_Fairy_Isles_%284%29.jpg/400px-Wonder_Tales_from_Fairy_Isles_%284%29.jpg 2x" data-file-width="1384" data-file-height="802"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wonder_Tales_from_Fairy_Isles_(5).jpg"><img src="/w/images/thumb/8/8f/Wonder_Tales_from_Fairy_Isles_%285%29.jpg/200px-Wonder_Tales_from_Fairy_Isles_%285%29.jpg" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="/w/images/thumb/8/8f/Wonder_Tales_from_Fairy_Isles_%285%29.jpg/300px-Wonder_Tales_from_Fairy_Isles_%285%29.jpg 1.5x, /w/images/thumb/8/8f/Wonder_Tales_from_Fairy_Isles_%285%29.jpg/400px-Wonder_Tales_from_Fairy_Isles_%285%29.jpg 2x" data-file-width="844" data-file-height="633"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+</ul>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-AM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AM_1-0">1.0</a></sup> <sup><a href="#cite_ref-AM_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.amazon.com/Wonder-tales-fairy-isles-Cornwall/dp/B00085RHY4/ref=sr_1_1?ie=UTF8&amp;qid=1360353925&amp;sr=8-1&amp;keywords=wonder+tales+fairy+isles" rel="noreferrer noopener" target="_blank">&#34;Wonder tales from fairy isles,: England, Cornwall, Wales, Scotland, Man and Ireland&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.amazon.com" rel="noreferrer noopener" target="_blank">Amazon.com</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2013</span></cite></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1062&amp;forum=9&amp;post_id=5108#forumpost5108" rel="noreferrer noopener" target="_blank">&#34;&#39;Goblin Feet&#39; sighting&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2013</span></cite></span>
+</li>
+</ol></div>

@@ -1,0 +1,68 @@
+---
+title: "Galadriel's messages"
+display_title: "<span class=\"mw-page-title-main\">Galadriel&#039;s messages</span>"
+page_id: 22118
+namespace: 0
+revision_id: 437529
+timestamp: "2026-04-17T07:21:12Z"
+source_url: "https://tolkiengateway.net/wiki/Galadriel's_messages"
+content_sha256: 667cf48842073e072f3fee1484a2397e2098165630c9810761a7219e4f1f3fc9
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Nameless"
+  - "Poems in The Two Towers"
+  - "Oaths and prophecies"
+images:
+  - "CdxIconInfoFilled.svg"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+</div></div>
+
+<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+
+**[Galadriel](/wiki/Galadriel)'s messages** were messages given by Galadriel to [Gandalf](/wiki/Gandalf) the White during his stay in [Lothlórien](/wiki/Lothl%C3%B3rien) after his [battle](/wiki/Battle_of_the_Peak "Battle of the Peak") with the [Balrog](/wiki/Durin%27s_Bane "Durin's Bane"). She bade him deliver them to [Aragorn](/wiki/Aragorn), [Legolas](/wiki/Legolas), and [Gimli](/wiki/Gimli), which Gandalf accomplished when he met them at last in [Fangorn Forest](/wiki/Fangorn_Forest).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Aragorn's message was prophetic in nature, referring to the meeting of the [Grey Company](/wiki/Grey_Company) and his taking of the [Paths of the Dead](/wiki/Paths_of_the_Dead). Legolas's message would prove to be a warning, for when he was at [Pelargir](/wiki/Pelargir) he heard the cry of the gulls, which awakened the [Sea-longing](/wiki/Sea-longing) dormant in the hearts of Elves.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Gimli's message was one of encouragement, for he bore three locks of Galadriel's hair.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+**Aragorn**
+
+<div style="font-style:italic; margin-left:20px;" class="poem">
+<p>Where now are the Dúnedain, Elessar, Elessar? <br/>
+Why do thy kinsfolk wander afar? <br/>
+Near is the hour when the Lost should come forth, <br/>
+And the Grey Company ride from the North. <br/>
+But dark is the path appointed for thee: <br/>
+The Dead watch the road that leads to the Sea.
+</p>
+</div>
+
+**Legolas**
+
+<div style="font-style:italic; margin-left:20px;" class="poem">
+<p>Legolas Greenleaf long under tree <br/>
+In joy thou hast lived. Beware of the Sea! <br/>
+If thou hearest the cry of the gull on the shore, <br/>
+Thy heart shall then rest in the forest no more.
+</p>
+</div>
+
+**Gimli**
+
+<div style="font-style:italic; margin-left:20px;" class="poem">
+<p>Lock-bearer, wherever thou goest my thought goes with thee. <br/>
+But have a care to lay thine axe to the right tree!&#34;
+</p>
+</div>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/The_White_Rider" title="The White Rider">The White Rider</a>&#34;, p. 502-3</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Last_Debate" title="The Last Debate">The Last Debate</a>&#34;, p. 873</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Farewell_to_L%C3%B3rien" title="Farewell to Lórien">Farewell to Lórien</a>&#34;, p. 376</span>
+</li>
+</ol></div>

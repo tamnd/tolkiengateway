@@ -1,0 +1,38 @@
+---
+title: "File:Nia Kovalevski - The Ring.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nia Kovalevski - The Ring.jpg</span>"
+page_id: 67347
+namespace: 6
+revision_id: 417666
+timestamp: "2025-01-27T08:28:30Z"
+source_url: "https://tolkiengateway.net/wiki/File:Nia_Kovalevski_-_The_Ring.jpg"
+content_sha256: baf2701fe68cb09e5dc8860f21741ec0de5c11198689f0758b6aaadf4792b27c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Nia Kovalevski"
+  - "Images of Frodo Baggins"
+  - "Images of the One Ring"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/e0/Nia_Kovalevski_-_The_Ring.jpg"
+  mime: "image/jpeg"
+  size: 650285
+  width: 1920
+  height: 1673
+  sha1: "6620049ec42aa76adf4782b0ff320dd734f581a8"
+  timestamp: "2024-06-07T12:47:26Z"
+  user: "Hyarion"
+---
+
+## Summary {#Summary}
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Nia Kovalevski</span></span>
+<p>This work is copyrighted and owned by Nia Kovalevski. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Nia Kovalevski</li>
+<li><b>Website:</b> <a class="external text" href="https://www.artstation.com/niakov" rel="noreferrer noopener" target="_blank">Nia Kovalevski&#39;s website</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Nia_Kovalevski" title="Tolkien Gateway:Copyrights/Nia Kovalevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>

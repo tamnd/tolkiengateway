@@ -1,0 +1,16 @@
+---
+title: "Category:PlayStation 4 games"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">PlayStation 4 games</span>"
+page_id: 45523
+namespace: 14
+revision_id: 239862
+timestamp: "2014-02-05T21:16:12Z"
+source_url: "https://tolkiengateway.net/wiki/Category:PlayStation_4_games"
+content_sha256: eecd0f308d01de79bcdf5dd04bd57c14ecf082d25d3cc7b127b9ad78023970c0
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games by platform"
+---
+
+This category lists all **PlayStation 4 games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.

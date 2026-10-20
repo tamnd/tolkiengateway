@@ -1,0 +1,40 @@
+---
+title: "Tolkien in aller Welt"
+display_title: "<i>Tolkien in aller Welt</i>"
+page_id: 36636
+namespace: 0
+revision_id: 407711
+timestamp: "2024-08-23T09:21:46Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_in_aller_Welt"
+content_sha256: 28139ca72347c6b9b9f37a24c9129f9b700fcc49e09c961e42cdd36cba55ed9d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Exhibition catalogues"
+infobox:
+  - label: "Editor"
+    value: "Gisbert Kranz"
+  - label: "Publisher"
+    value: "Öffentliche Bibliothek der Stadt Aachen"
+  - label: "Released"
+    value: "1992"
+  - label: "Format"
+    value: "Exhibition catalogue"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><small>Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Symposions in Aachen.</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gisbert Kranz</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Öffentliche Bibliothek der Stadt Aachen</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/1992" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Exhibition catalogue</td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100</b></i> (German: **Tolkien around the world: An exhibition by the Inklings Society on the occasion of the 100th anniversary**) is an exhibition catalogue from Öffentliche Bibliothek der Stadt <a class="extiw" href="http://en.wikipedia.org/wiki/Aachen" title="wikipedia:Aachen">Aachen</a>.
+
+The catalogue includes a reproduction (p. 12) of a letter from [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") to the [Tolkien Society of America](/wiki/Tolkien_Society_of_America).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=55290" rel="noreferrer noopener" target="_blank">Tolkien in aller Welt. 1992</a> at <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">Tolkienbooks.net</a> (accessed 27 October 2011)</span>
+</li>
+</ol></div>

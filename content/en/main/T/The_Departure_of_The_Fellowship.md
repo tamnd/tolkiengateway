@@ -1,0 +1,53 @@
+---
+title: "The Departure of The Fellowship"
+display_title: "<span class=\"mw-page-title-main\">The Departure of The Fellowship</span>"
+page_id: 35080
+namespace: 0
+revision_id: 442229
+timestamp: "2026-09-10T10:59:06Z"
+source_url: "https://tolkiengateway.net/wiki/The_Departure_of_The_Fellowship"
+content_sha256: f24002a9c88886b3b5f2a4531e61de1e875ae2277f84134ec6428b298e2987ce
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Incomplete Articles"
+  - "The Lord of the Rings: The Fellowship of the Ring scenes"
+sort_keys:
+  "The Lord of the Rings: The Fellowship of the Ring scenes": "30"
+images:
+  - "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png"
+  - "Material_icon_-_Construction.svg"
+infobox:
+  - label: "Scene"
+    value: "30 (extended only)"
+  - label: "Duration"
+    value: "1:17"
+  - label: "Events"
+    value: "The Fellowship of the Ring departs Rivendell"
+  - label: "Characters"
+    value: "Elrond, Fellowship of the Ring ; Arwen"
+  - label: "Previous"
+    value: "Bilbo's Gifts"
+  - label: "Next"
+    value: "The Ring Goes South"
+---
+
+<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
+
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
+</p>
+<p class="tg-quote-footer"><cite><a href="/wiki/Treebeard" title="Treebeard">Treebeard</a></cite></p>
+</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png"><img src="/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png" decoding="async" loading="lazy" width="320" height="134" class="mw-file-element" srcset="/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png 1.5x, /w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Departure_of_the_Fellowship_from_Rivendell.png 2x" data-file-width="2556" data-file-height="1068"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Departure of The Fellowship</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">30 (extended only)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:17</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">The <a href="/wiki/Fellowship_of_the_Ring" title="Fellowship of the Ring">Fellowship of the Ring</a> departs <a href="/wiki/Rivendell" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="/wiki/Elrond" title="Elrond">Elrond</a>, <a href="/wiki/Fellowship_of_the_Ring" title="Fellowship of the Ring">Fellowship of the Ring</a> <br/> <a href="/wiki/Arwen" title="Arwen">Arwen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="/wiki/Bilbo%27s_Gifts" title="Bilbo&#39;s Gifts">Bilbo&#39;s Gifts</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="/wiki/The_Ring_Goes_South_(scene)" title="The Ring Goes South (scene)">The Ring Goes South</a></i></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+**The Departure of the Fellowship** is the thirtieth scene of [*The Lord of the Rings: The Fellowship of the Ring* (extended edition)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)> "The Lord of the Rings: The Fellowship of the Ring (extended edition)"). This scene was not featured in the theatrical release of *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
+
+## Synopsis {#Synopsis}
+
+With the [Fellowship of the Ring](/wiki/Fellowship_of_the_Ring) ready to depart [Rivendell](/wiki/Rivendell), [Elrond](/wiki/Elrond) re-iterates the [Ring-bearer's](/wiki/Frodo "Frodo") quest is for [Mount Doom](/wiki/Mount_Doom) and that there is no obligation for those travelling with him to go further than they wish. He bids them blessings for their journey and [Gandalf](/wiki/Gandalf) then tells [Frodo](/wiki/Frodo) they are ready to leave. The hobbit looks around somewhat nervously as he asks "[Mordor](/wiki/Mordor) Gandalf, is it left or right?" In response, the wizard tells him "Left".
+
+[Aragorn](/wiki/Aragorn) shares a last long look with [Arwen](/wiki/Arwen) before he gives her a slight nod and smile and follows the rest of the [Fellowship](/wiki/Fellowship) over the bridge out of Rivendell.

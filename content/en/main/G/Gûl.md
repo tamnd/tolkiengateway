@@ -1,0 +1,64 @@
+---
+title: "Gûl"
+display_title: "gûl"
+page_id: 30766
+namespace: 0
+revision_id: 405735
+timestamp: "2024-08-23T04:03:05Z"
+source_url: "https://tolkiengateway.net/wiki/Gûl"
+content_sha256: adeaaed1da4616ef3c3d821a15e5b56986e8ad68288d02dc74359f2aced1c637
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Black Speech words"
+  - "Sindarin nouns"
+sort_keys:
+  "Black Speech words": "Gul"
+  "Sindarin nouns": "Gul"
+---
+
+<i><b>gûl</b></i> is a word used in both [Sindarin](/wiki/Sindarin) and the [Black Speech](/wiki/Black_Speech) (derived from the former).<sup id="cite_ref-P4k_1-0" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup><sup id="cite_ref-PE1779_2-0" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
+
+## Etymology {#Etymology}
+
+- [Elvish](/wiki/Elvish) *ngōl-*<sup id="cite_ref-PE1779_2-1" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> (from [root](/wiki/Sundocarme "Sundocarme") [NGOL](/wiki/NGOL))<sup id="cite_ref-Ety377_3-0" class="reference"><a href="#cite_note-Ety377-3">[3]</a></sup><sup id="cite_ref-WJC_4-0" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
+
+## Sindarin {#Sindarin}
+
+In Sindarin, *gûl* originally referred to "secret knowledge, arts"<sup id="cite_ref-WJC_4-1" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> or "the deeper knowledge of the 'wise' or skilled persons".<sup id="cite_ref-PE1779_2-2" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> However, the word came to be associated with [Morgoth](/wiki/Morgoth)'s black arts (as in the compound *[morgul](/wiki/Morgul "Morgul")*).<sup id="cite_ref-WJC_4-2" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> It is therefore also found glossed as "evil or perverted knowledge, necromancy, sorcery".<sup id="cite_ref-P4k_1-1" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup>
+
+## Black Speech {#Black_Speech}
+
+In the Black Speech, *gûl* (or *gūl*) is glossed as "([phantom](/wiki/Phantoms "Phantoms"), shadow of dark [magic](/wiki/Magic "Magic"), necromancer), slave, servant?", "[\[evil\] spirit](/wiki/Demons "Demons")". In *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, *gûl* is translated as "[wraiths](/wiki/Wraiths "Wraiths")" (as in *[Nazgûl](/wiki/Nazg%C3%BBl)*, the Ringwraiths).<sup id="cite_ref-PE1779_2-3" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
+
+## Compounds {#Compounds}
+
+- <i><a href="/wiki/Morgul" title="Morgul">mor<b>gul</b></a></i>
+- <i><a href="/wiki/Nazg%C3%BBl" title="Nazgûl">Naz<b>gûl</b></a></i>
+- <i><a href="/wiki/Guldur" title="Guldur"><b>gul</b>dur</a></i>
+
+## Cognates {#Cognates}
+
+- [Quenya](/wiki/Quenya): *ñóle*<sup id="cite_ref-WJC_4-3" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
+- [Telerin](/wiki/Telerin): *góle, engole*<sup id="cite_ref-WJC_4-4" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
+
+## Other versions of the legendarium {#Other_versions_of_the_legendarium}
+
+In the [*Etymologies*](/wiki/The_Etymologies "The Etymologies") appears the [Noldorin](/wiki/Noldorin) form *gûl* ("magic").<sup id="cite_ref-Ety377_3-1" class="reference"><a href="#cite_note-Ety377-3">[3]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-P4k-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-P4k_1-0">1.0</a></sup> <sup><a href="#cite_ref-P4k_1-1">1.1</a></sup></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="/wiki/Athrabeth_Finrod_ah_Andreth" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: <i>Glossary</i>&#34;, p. 350</span>
+</li>
+<li id="cite_note-PE1779-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE1779_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE1779_2-1">2.1</a></sup> <sup><a href="#cite_ref-PE1779_2-2">2.2</a></sup> <sup><a href="#cite_ref-PE1779_2-3">2.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 11, 79</span>
+</li>
+<li id="cite_note-Ety377-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety377_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ety377_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 377 (root ÑGOL-)</span>
+</li>
+<li id="cite_note-WJC-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WJC_4-0">4.0</a></sup> <sup><a href="#cite_ref-WJC_4-1">4.1</a></sup> <sup><a href="#cite_ref-WJC_4-2">4.2</a></sup> <sup><a href="#cite_ref-WJC_4-3">4.3</a></sup> <sup><a href="#cite_ref-WJC_4-4">4.4</a></sup></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: C. The Clan-names, with notes on other names for divisions of the Eldar&#34;, p. 383</span>
+</li>
+</ol></div>

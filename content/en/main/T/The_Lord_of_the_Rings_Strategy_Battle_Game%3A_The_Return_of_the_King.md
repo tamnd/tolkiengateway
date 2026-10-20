@@ -1,0 +1,63 @@
+---
+title: "The Lord of the Rings Strategy Battle Game: The Return of the King"
+display_title: "<i>The Lord of the Rings Strategy Battle Game: The Return of the King</i>"
+page_id: 36166
+namespace: 0
+revision_id: 399861
+timestamp: "2024-07-07T06:33:24Z"
+source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game:_The_Return_of_the_King"
+content_sha256: 927f4a788f7405d99ead5db64a48a3e65e8359b28e17f1440daaca446a6e077a
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "LOTRSBG books"
+  - "Publications by title"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Lord of the Rings Strategy Battle Game: The Return of the King, The"
+  "LOTRSBG books": "Lord of the Rings Strategy Battle Game: The Return of the King, The"
+  "Publications by title": "Lord of the Rings Strategy Battle Game: The Return of the King, The"
+images:
+  - "The_Lord_of_the_Rings_Strategy_Battle_Game_The_Return_of_the_King.png"
+infobox:
+  - label: "Author"
+    value: "Alessio Cavatore, Matthew Ward"
+  - label: "Editor"
+    value: "Talima Fox, Michelle Barson, John Michelbach"
+  - label: "Illustrator"
+    value: "David Gallagher, Nuala Kennedy"
+  - label: "Publisher"
+    value: "Games Workshop"
+  - label: "Released"
+    value: "31 October 2003"
+  - label: "Format"
+    value: "Softcover (10.8 x 7.7 x 0.6 inches)"
+  - label: "ISBN"
+    value: "978-1841544311"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Strategy_Battle_Game_The_Return_of_the_King.png"><img src="/w/images/thumb/f/f2/The_Lord_of_the_Rings_Strategy_Battle_Game_The_Return_of_the_King.png/320px-The_Lord_of_the_Rings_Strategy_Battle_Game_The_Return_of_the_King.png" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="/w/images/f/f2/The_Lord_of_the_Rings_Strategy_Battle_Game_The_Return_of_the_King.png 1.5x" data-file-width="455" data-file-height="627"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Strategy Battle Game: The Return of the King</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Alessio Cavatore, Matthew Ward<sup id="cite_ref-amazon_1-0" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Talima Fox, Michelle Barson, John Michelbach<sup id="cite_ref-amazon_1-1" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">David Gallagher, Nuala Kennedy<sup id="cite_ref-amazon_1-2" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Games_Workshop" title="Games Workshop">Games Workshop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/2003" title="2003">2003</a><sup id="cite_ref-amazon_1-3" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover (10.8 x 7.7 x 0.6 inches)<sup id="cite_ref-amazon_1-4" class="reference"><a href="#cite_note-amazon-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="/wiki/Special:BookSources/978-1841544311" title="Special:BookSources/978-1841544311">978-1841544311</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>The Lord of the Rings Strategy Battle Game: The Return of the King</b></i> (also known as <i><b>The Return of the King Journeybook</b></i>) is a supplement for [Games Workshop](/wiki/Games_Workshop)'s *[The Lord of the Rings Strategy Battle Game](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game)*.
+
+## From the publisher {#From_the_publisher}
+
+This supplement allows you to fight out the battles and encounters of *The Return of the King* book and film on your own tabletop, painting the miniatures and building the terrain you need as you go.
+
+This is a supplement for Games Workshop's *The Lord of The rings Strategy Battle Game* - you will need a copy of the rules in order to play.
+
+## External links {#External_links}
+
+- <a class="external text" href="http://boardgamegeek.com/boardgameexpansion/71098/the-lord-of-the-rings-strategy-battle-game-the-ret" rel="noreferrer noopener" target="_blank">The Lord of the Rings: Strategy Battle Game: The Return of the King Journeybook</a> at <a class="external text" href="http://boardgamegeek.com/" rel="noreferrer noopener" target="_blank">BoardGameGeek</a>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-amazon-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-amazon_1-0">1.0</a></sup> <sup><a href="#cite_ref-amazon_1-1">1.1</a></sup> <sup><a href="#cite_ref-amazon_1-2">1.2</a></sup> <sup><a href="#cite_ref-amazon_1-3">1.3</a></sup> <sup><a href="#cite_ref-amazon_1-4">1.4</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.amazon.com/Lord-Rings-Return-Strategy-Battle/dp/1841544310/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1316302735&amp;sr=1-1" rel="noreferrer noopener" target="_blank">The Lord of The Rings: The Return of the King Strategy Battle Game</a> at <a class="external text" href="http://www.amazon.com/ref=gno_logo" rel="noreferrer noopener" target="_blank">Amazon.com</a> (accessed 17 September 2011)</span>
+</li>
+</ol></div>

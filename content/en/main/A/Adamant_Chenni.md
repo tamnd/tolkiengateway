@@ -1,0 +1,53 @@
+---
+title: "Adamant Chenni"
+display_title: "<i>Adamant Chenni</i>"
+page_id: 28953
+namespace: 0
+revision_id: 399763
+timestamp: "2024-07-07T06:24:15Z"
+source_url: "https://tolkiengateway.net/wiki/Adamant_Chenni"
+content_sha256: 0ded292eee261d5c4cd4bef9f3cf4895535e2d45e3c149fa3928055fd27b167f
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Fiction books"
+  - "Literary adaptations"
+  - "Publications by title"
+  - "Russian books"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Adamant of Henna"
+  "Fiction books": "Adamant of Henna"
+  "Literary adaptations": "Adamant of Henna"
+  "Publications by title": "Adamant of Henna"
+  "Russian books": "Adamant of Henna"
+images:
+  - "The_Adamant_of_Henna.jpg"
+infobox:
+  - label: "Author"
+    value: "Nick Perumov"
+  - label: "Publisher"
+    value: "Severo-Zapad"
+  - label: "Released"
+    value: "1995"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Adamant_of_Henna.jpg"><img src="/w/images/4/49/The_Adamant_of_Henna.jpg" decoding="async" loading="lazy" width="155" height="250" class="mw-file-element" data-file-width="155" data-file-height="250"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Адамант Хенны</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="/w/index.php?title=Nick_Perumov&amp;action=edit&amp;redlink=1" title="Nick Perumov (page does not exist)">Nick Perumov</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Severo-Zapad</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/1995" title="1995">1995</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>The Adamant of Henna</b></i> ("Адамант Хенны") is a Russian-language fiction book set in [Middle-earth](/wiki/Middle-earth). It is the third and final novel in the [Ring of Darkness](/wiki/Ring_of_Darkness) fantasy series.
+
+## From the publisher<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> {#From_the_publisher[1]}
+
+A few decades after the fall of Olmer and the Grey squadron, strange things begin to happen on the outskirts of the Kingdom, which does not escape Folko Brandybuck and his friends, who promptly break up and head east. This is precisely where the hobbit dagger call them with its magical power. And it is from there that Folko have strange visions, in which light is more merciless and more dangerous than the darkness, and suddenly it appears like the Defenders of Light threaten Middle-earth with an inevitable downfall.
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ersatz.se/forf_perumov.htm" rel="noreferrer noopener" target="_blank">Ersatz Publishers</a> (Swedish), as of 23 September 2010</span>
+</li>
+</ol></div>

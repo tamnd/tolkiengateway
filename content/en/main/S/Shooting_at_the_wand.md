@@ -1,0 +1,25 @@
+---
+title: "Shooting at the wand"
+display_title: "<span class=\"mw-page-title-main\">Shooting at the wand</span>"
+page_id: 22429
+namespace: 0
+revision_id: 201455
+timestamp: "2012-06-26T11:30:48Z"
+source_url: "https://tolkiengateway.net/wiki/Shooting_at_the_wand"
+content_sha256: 9f5dd09d9cf46ee191a292c9515be5e722c365f19da71fa4271ad1550f2dc8f2
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Activities"
+---
+
+**Shooting at the Wand** was a game popular in [the Shire](/wiki/The_Shire "The Shire") which [Bilbo Baggins](/wiki/Bilbo_Baggins) played and at which he was quite proficient.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The game consisted of using a narrow slat as a target for archery.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Douglas_A._Anderson" title="Douglas A. Anderson">Douglas A. Anderson</a> (ed.), (2002) <i><a class="mw-redirect" href="/wiki/The_Annotated_Hobbit:_Revised_and_Expanded_Edition" title="The Annotated Hobbit: Revised and Expanded Edition">The Annotated Hobbit: Revised and Expanded Edition</a></i>, &#34;<a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a>&#34;, Note 13</span>
+</li>
+</ol></div>

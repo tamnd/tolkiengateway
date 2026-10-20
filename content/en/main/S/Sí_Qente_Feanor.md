@@ -1,0 +1,56 @@
+---
+title: "Sí Qente Feanor"
+display_title: "<span class=\"mw-page-title-main\">Sí Qente Feanor</span>"
+page_id: 67120
+namespace: 0
+revision_id: 389636
+timestamp: "2024-04-26T08:22:41Z"
+source_url: "https://tolkiengateway.net/wiki/Sí_Qente_Feanor"
+content_sha256: d99e4a985fd99d5713689f20f321ee3c281b464c4b9b7b5190349246577a8a82
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya texts"
+---
+
+**Sí Qente Feanor** is a section of [*Parma Eldalamberon* 15](/wiki/Parma_Eldalamberon_15 "Parma Eldalamberon 15"). This 13-line passage consists of two sentences uttered by the character [Fëanor](/wiki/F%C3%ABanor), in [Qenya](/wiki/Qenya) and a brief explanation of the circumstances.
+
+<blockquote class="tg-quote noexcerpt">
+<p>&#39;néri ur natsi nostalen máre
+ar váro naltur an ómi karmar<br/>
+– ulqe núsimar&#39; –<br/>
+sí qente Feanor n·istaléra<br/>
+varúse qentier nóvo san i<br/>
+malto ísier i nosta – &#39;Qarda<br/>
+qentien no máre nar i hondor<br/>
+nérinwe ar ómu nalto úsiére<br/>
+i limbelu tuktalla nai mára<br/>
+nalto fustúme ma Melkon i<br/>
+var limpilto var túkielto<br/>
+– en i úmavaisor<br/>
+listanelto in otso qarda.&#39;
+</p>
+</blockquote>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+The translation given is as follows:
+
+<blockquote class="tg-quote noexcerpt">
+<p>&#39;men are not beings good by nature<br/>
+but rather they are to all deeds<br/>
+- evil inclined&#39;<br/>
+now said Feanor the wise<br/>
+in other manner than was said before by those<br/>
+from whom this birth was known - &#39;Less<br/>
+than good, I said, are the hearts<br/>
+of these men and although their having escaped<br/>
+the long search may be good<br/>
+they can be smelled out by Melko whom<br/>
+they are bound to or have looked for<br/>
+- there on the throne of hate<br/>
+they blessed the great evil.&#39;
+</p>
+</blockquote>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>

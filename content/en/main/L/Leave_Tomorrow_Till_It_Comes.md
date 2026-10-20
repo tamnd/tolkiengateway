@@ -1,0 +1,45 @@
+---
+title: "Leave Tomorrow Till It Comes"
+display_title: "<span class=\"mw-page-title-main\">Leave Tomorrow Till It Comes</span>"
+page_id: 46062
+namespace: 0
+revision_id: 346984
+timestamp: "2022-05-11T01:27:42Z"
+source_url: "https://tolkiengateway.net/wiki/Leave_Tomorrow_Till_It_Comes"
+content_sha256: a17dc391805f52c4de2b4cab830024866ced235460324a2e46c2bdff3c7999cf
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "The Return of the King (1980 film) soundtrack"
+---
+
+**Leave Tomorrow Till It Comes** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) and performed by [Glenn Yarbrough](/wiki/Glenn_Yarbrough) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). The song plays as [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") dreams about his and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee")'s triumph over the Ring.
+
+## Lyrics {#Lyrics}
+
+<div style="font-style:italic; margin-left:20px;" class="poem">
+<p>Leave tomorrow till it comes;<br/>
+Sleep will ease your mind.<br/>
+With the dawn, you&#39;ll find<br/>
+Problems realigned a different way<br/>
+Than yesterday.<br/>
+<br/>
+Leave tomorrow till it comes;<br/>
+Time is moving fast.<br/>
+Don&#39;t go pushing past;<br/>
+Endings of the day were meant to last<br/>
+Till yesterday.<br/>
+<br/>
+Tangled dreams unfold,<br/>
+And webs may disappear.<br/>
+Stories are retold,<br/>
+And cloudy thoughts will clear.<br/>
+<br/>
+Leave tomorrow till it comes;<br/>
+Sleep will ease your mind.<br/>
+With the dawn, you&#39;ll find<br/>
+Problems realigned a different way<br/>
+Than yesterday...<br/>
+Than yesterday.
+</p>
+</div>

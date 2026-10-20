@@ -1,0 +1,20 @@
+---
+title: "Ñalta"
+display_title: "ñalta"
+page_id: 24676
+namespace: 0
+revision_id: 219683
+timestamp: "2012-11-09T09:01:28Z"
+source_url: "https://tolkiengateway.net/wiki/Ñalta"
+content_sha256: 93cdad0d92dffdf49e20aaad4f879e2e240b3141030b3286ba2b102eea4e16ed
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya nouns"
+sort_keys:
+  "Quenya nouns": "Nalta"
+---
+
+<i><b>Ñalta</b></i> (later <i><b>nalta</b></i>) is [Quenya](/wiki/Quenya) for "radiance". Compare [Telerin](/wiki/Telerin) *[alata](/wiki/Alata "Alata")* and [Sindarin](/wiki/Sindarin) *[galad](/wiki/Galad "Galad")*. <span></span>
+
+## References {#References}

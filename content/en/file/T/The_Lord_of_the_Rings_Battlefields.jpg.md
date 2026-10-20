@@ -1,0 +1,39 @@
+---
+title: "File:The Lord of the Rings Battlefields.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Battlefields.jpg</span>"
+page_id: 74577
+namespace: 6
+revision_id: 438947
+timestamp: "2026-05-28T10:37:36Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_Battlefields.jpg"
+content_sha256: 5061bace5afc230d61c3c849d74258e7bbcafcf973bf85133d83534a593f9b1a
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by John Howe"
+  - "Images of board games"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/e0/The_Lord_of_the_Rings_Battlefields.jpg"
+  mime: "image/jpeg"
+  size: 273094
+  width: 911
+  height: 900
+  sha1: "9824dbca13b879252a18b7fa4d72ebb574f74045"
+  timestamp: "2026-05-28T10:37:36Z"
+  user: "Grond"
+---
+
+## Summary {#Summary}
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

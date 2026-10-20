@@ -1,0 +1,13 @@
+---
+title: "Gorbelgod"
+page_id: 43156
+namespace: 0
+revision_id: 411617
+source_url: "https://tolkiengateway.net/wiki/Gorbelgod"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Swans of Gorbelgod"
+---
+
+Redirect to [Swans of Gorbelgod](/wiki/Swans_of_Gorbelgod).

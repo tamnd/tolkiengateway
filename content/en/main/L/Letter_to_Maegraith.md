@@ -1,0 +1,88 @@
+---
+title: "Letter to Maegraith"
+display_title: "<span class=\"mw-page-title-main\">Letter to Maegraith</span>"
+page_id: 40754
+namespace: 0
+revision_id: 398862
+timestamp: "2024-07-06T23:48:04Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_Maegraith"
+content_sha256: 40b100626ab30c0cf960b2dae4f7b76117fa6a42988400584bda5193edc62c69
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+sort_keys:
+  "Letters": "Maegraith"
+images:
+  - "Maegraith_2_June_1945_(1).jpg"
+  - "Maegraith_2_June_1945_(2).jpg"
+  - "Maegraith_2_June_1945_(3).jpg"
+  - "Maegraith_2_June_1945_(4).jpg"
+---
+
+On [2 June](/wiki/2_June) [1945](/wiki/1945), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Maegraith**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+
+- **Description:** Handwritten letter.
+- **Publication:** None.
+- **Subject:** Comments on stories written by Maegraith, sent to Tolkien.
+
+## Images {#Images}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(1).jpg"><img src="/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/85px-Maegraith_2_June_1945_%281%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/127px-Maegraith_2_June_1945_%281%29.jpg 1.5x, /w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/169px-Maegraith_2_June_1945_%281%29.jpg 2x" data-file-width="1129" data-file-height="1600"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(2).jpg"><img src="/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/84px-Maegraith_2_June_1945_%282%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/126px-Maegraith_2_June_1945_%282%29.jpg 1.5x, /w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/168px-Maegraith_2_June_1945_%282%29.jpg 2x" data-file-width="1123" data-file-height="1599"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(3).jpg"><img src="/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/84px-Maegraith_2_June_1945_%283%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/126px-Maegraith_2_June_1945_%283%29.jpg 1.5x, /w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/168px-Maegraith_2_June_1945_%283%29.jpg 2x" data-file-width="1124" data-file-height="1600"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(4).jpg"><img src="/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/85px-Maegraith_2_June_1945_%284%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/128px-Maegraith_2_June_1945_%284%29.jpg 1.5x, /w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/170px-Maegraith_2_June_1945_%284%29.jpg 2x" data-file-width="1134" data-file-height="1599"/></a></span></div>
+			<div class="gallerytext">
+			</div>
+		</li>
+</ul>
+
+## Transcription {#Transcription}
+
+I ought to have acknowledged your packet at once; but I thought you'd like to have it back soon, with some comment. However, things have been pretty sticky all through May, with an endless series of small extra jobs, exam work and also death. Especially the sudden death of my very dear friend [Charles Williams](/wiki/Charles_Williams), the author, which has thrown all our little circle into deep mourning\[.\] Professors, too, seem dying or retiring everywhere, and as I am now (as a survivor) an elector or advisor in half a dozen places, I have had a hell of a lot of letters to write.
+
+I don't know that I can do or say a lot that would be helpful, as I am not a professional critic, merely an occasional writer — and that sort of man is apt simply to feel what he (with his own mode and habits) would have done in such and such a place: not always a good thing in some \[sic\] one else's work. And in any case, you say you don't want to publish merely to amuse yourself (and friends). Well, in order to say anything, I have to imagine these things as offered for publication and anonymous. On those conditions: I should say that the ideas, general and particular, are good: I mean the general idea of a series of incredible tales told by the old sot major is an excellent link; and the central idea of each of the three stories is good for such a series. (???? the BBC ?type ?which a????? "setting" to bring it into line)
+
+But reworking art ?in detail could be criticized (as I think you feel) I should not select "jerkiness" (your word, I think) as the salient fault. I should say that they seem to me rushed and overheated, rather. Everything is slightly exaggerated—and to my mind that is not desirable, when you're dealing with what is incredible, \_\_\_\_\_\_ \_\_\_\_\_\_. The major's meanness, though doubtless actually shameless, needs to be a little less obviously thrust at one. Then in the actual stories the language and expressions (whoever is telling 'em in theory does not matter: from the point of view of your reader, they're just being told to him, whether by your A. J. Alan) want, to my taste, to be toned down.
+
+I'll try and exemplify all this from the President's Spoon, the major piece. This story is I think is overstrained in tone. It would I think be more effective if the colour was laid on thinner. For instance, I should myself knock out soulsearing (before bitterness) on p. 2; and similarly electric before joy, and ?sim'ly elsewhere; and think of something milder and more closely pictorial for thrashed out an epileptic miracle on p. 4.
+
+Where you could have let yourself go more, I think, was at the end. Those I should have made more of the lynching, and suggested more (or more clearly) that the crowd was driven by some horrible demon rage, something beyond mere ?embarqed sport. A general weakness of this story, and perhaps the most difficult to surmount is this. The real centre of it is the fantastic behaviour of Chamberlain's ball, after Hick's suicide. But Hick's suicide—I am sorry, but though you may think this makes readers very dull, you must make that point clearer than just dropping the casual word inquest—has to be caused by an "unfair" defeat.
+
+Very well: but this must not be allowed to spoil the really exciting final Open match. It does. The thing has become too repetitive. The way out is either (a) to make Chamberlain cheat in some way, (b) --- (better I think) to make the P.Spoon match much less miraculous. You need one fatal "hole in one" by a fluke to bring on the later terrible retribution of ?endless "holes in one". But you must limit it to one. The P.S match should be won by a ?flirting, but not sheerly impossible hole in one on the last hole.
+
+Two small points of detail. Don't make things incredible in detail in an incredible tale. Hicks and Chamberlain are normal names. Withersnatchy may be a real name, too, for all I know, but it does not sound like one (even in Scotland). Why not have one that does? Personally, I don't believe in "British inconsistency" - for the simple reason that "the British" don't exist, except as a political fiction, and are not a psychological, social or cultural unit. In any case, granting the situation depicted, the psychology is not "inconsistency" but the reverse. The ?tenacity of H. and C. must be supposed to proceed from a worship (typical of certain limited circles in this island) of Sport or Games that places them above other feelings and/or from a consistent ?tenacity of habit.
+
+The Raft story is least to my liking, simply on account of its name; though it is perhaps the least incredible, except in the assumed preservation from death of both the main actors. The ?kernel here is I suppose: I was alone for a bit with a naked man on a raft ... What a pity he wasn't a gentleman" \[It sounds a bit old fashioned to me and I can't imagine such a young woman as you depict ever saying it, but have it your own way: I'm not criticising your psychology or social satire, only the way of your narration\]
+
+\[\[only last paragraph of page 4 included below\]\]
+
+I am afraid little of this will be legible—but I've had to scribble at great speed. And what you can read will not I expect be of much use. Anyway here's to you, and I hope you'll accept it as a token of friendship. Here's to our next shared pints.
+
+## External links {#External_links}
+
+- <a class="external text" href="http://tolkienletter.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkien &#39;Lord of the Rings&#39; letter</a>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
+<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 292</span>
+</li>
+</ol></div>

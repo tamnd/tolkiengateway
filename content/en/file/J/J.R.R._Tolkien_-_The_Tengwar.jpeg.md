@@ -1,0 +1,40 @@
+---
+title: "File:J.R.R. Tolkien - The Tengwar.jpeg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Tengwar.jpeg</span>"
+page_id: 63869
+namespace: 6
+revision_id: 364048
+timestamp: "2022-12-05T22:08:25Z"
+source_url: "https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Tengwar.jpeg"
+content_sha256: 2b20752ec1f1b023b0c603b4f77908607e36d9b271d41268fad42dfdc142d302
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by J.R.R. Tolkien"
+  - "Images of Tengwar"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/a/a7/J.R.R._Tolkien_-_The_Tengwar.jpeg"
+  mime: "image/jpeg"
+  size: 147438
+  width: 1264
+  height: 1458
+  sha1: "c65f8071edc84da50ca16b9bee907a3fb858d88d"
+  timestamp: "2022-12-05T22:06:33Z"
+  user: "Quentandil"
+---
+
+## Summary {#Summary}
+
+"The Tengwar" table, included in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, [Appendix E](/wiki/Appendix_E), (i) The Fëanorian Letters.
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

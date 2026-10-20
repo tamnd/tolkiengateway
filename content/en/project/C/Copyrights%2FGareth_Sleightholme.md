@@ -1,0 +1,20 @@
+---
+title: "Tolkien Gateway:Copyrights/Gareth Sleightholme"
+display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Gareth Sleightholme</span>"
+page_id: 73610
+namespace: 4
+revision_id: 435025
+timestamp: "2026-02-16T08:55:58Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme"
+content_sha256: 383f05c59078d3b86e59e0baddcfa10ed489399d50bbaeb14fea452d4c29cd1c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Sleightholme, Gareth"
+---
+
+- Gareth Sleightholme has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Gareth_Sleightholme "Category:Images by Gareth Sleightholme") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Date: 14 February 2026
+- User who sought the permission via email: [User:Paccyd33](/wiki/User:Paccyd33)

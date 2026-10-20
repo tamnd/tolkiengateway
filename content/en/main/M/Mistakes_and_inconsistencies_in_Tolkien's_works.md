@@ -1,0 +1,13 @@
+---
+title: "Mistakes and inconsistencies in Tolkien's works"
+page_id: 66505
+namespace: 0
+revision_id: 384302
+source_url: "https://tolkiengateway.net/wiki/Mistakes_and_inconsistencies_in_Tolkien's_works"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Possible inconsistencies in the legendarium"
+---
+
+Redirect to [Possible inconsistencies in the legendarium](/wiki/Possible_inconsistencies_in_the_legendarium).

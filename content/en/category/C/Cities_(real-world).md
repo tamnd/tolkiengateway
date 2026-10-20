@@ -1,0 +1,18 @@
+---
+title: "Category:Cities (real-world)"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cities (real-world)</span>"
+page_id: 21987
+namespace: 14
+revision_id: 335488
+timestamp: "2021-09-22T12:31:35Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Cities_(real-world)"
+content_sha256: 1dce976b54e9274e82c46880a652f7459737d6d610f686ab566bba9fbe899754
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Locations by type (real-world)"
+---
+
+<dl><dd><i>For cities found in Arda see <a href="/wiki/Category:Cities,_towns_and_villages" title="Category:Cities, towns and villages">Category:Cities, towns and villages</a>.</i></dd></dl>
+
+Cities that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).

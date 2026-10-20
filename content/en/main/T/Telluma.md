@@ -1,0 +1,50 @@
+---
+title: "Telluma"
+display_title: "telluma"
+page_id: 17548
+namespace: 0
+revision_id: 259618
+timestamp: "2014-11-30T13:52:44Z"
+source_url: "https://tolkiengateway.net/wiki/Telluma"
+content_sha256: 00e39bbc88b7a7860f5e8c8c1c08682f1a8c7843bf191317af93cf418a5e20fe
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya nouns"
+---
+
+<i><b>telluma</b></i> is a [Quenya](/wiki/Quenya) word meaning "dome" or "vault".
+
+As a name, it referred to [Ilmarin](/wiki/Ilmarin), or the [Dome of Varda](/wiki/Dome_of_Varda) above [Valinor](/wiki/Valinor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## Etymology {#Etymology}
+
+It was derived from the [Quenya](/wiki/Quenya) word *teluma* with influence from the [Valarin](/wiki/Valarin) word *delgūmā*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Examples {#Examples}
+
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<p>Andúnë pella, Vardo tellumar (&#39;beyond the West, beneath the blue vaults of Varda&#39;)
+</p>
+<p class="tg-quote-footer"><cite><i><a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië</a></i></cite></p>
+</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix D. *<i>Kwen</i>, <i>Quenya</i>, and the Elvish (especially Ñoldorin) words for &#39;Language&#39;: Note on the &#39;Language of the Valar&#39;&#34;, p. 399</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Author&#39;s Notes to Quendi and Eldar&#34;, note 15</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, “<a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i></span>
+</li>
+</ol></div>

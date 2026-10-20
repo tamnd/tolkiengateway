@@ -1,0 +1,65 @@
+---
+title: "File:Ben Wootten - Balrog.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ben Wootten - Balrog.jpg</span>"
+page_id: 74565
+namespace: 6
+revision_id: 438884
+timestamp: "2026-05-27T02:48:58Z"
+source_url: "https://tolkiengateway.net/wiki/File:Ben_Wootten_-_Balrog.jpg"
+content_sha256: d37d8e78bc0d0a1a1555eb701f5b5793ad74a3d10d92d9599ae108ec67525c91
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Ben Wootten"
+  - "Images of Durin's Bane"
+  - "Images of Gandalf"
+  - "Images of Glamdring"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/7/74/Ben_Wootten_-_Balrog.jpg"
+  mime: "image/jpeg"
+  size: 542253
+  width: 1920
+  height: 1319
+  sha1: "ffc99996c1e88c8eeb5baeeed5b921702b6e48bd"
+  timestamp: "2026-05-27T02:48:58Z"
+  user: "Paccyd33"
+---
+
+## Summary {#Summary}
+
+<table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
+<tbody><tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Ben Wootten - Balrog.jpg</span></th>
+<td class="description">
+<p>Illustration of <a href="/wiki/Durin%27s_Bane" title="Durin&#39;s Bane">Durin&#39;s Bane</a> by <a href="/wiki/Ben_Wootten" title="Ben Wootten">Ben Wootten</a>, created as concept artwork for <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>
+</p>
+</td>
+</tr>
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
+<td><a class="external free" href="https://wetaworkshopdesignstudio.artstation.com/projects/mD2ore" rel="noreferrer noopener" target="_blank">https://wetaworkshopdesignstudio.artstation.com/projects/mD2ore</a></td>
+</tr>
+<!-- -->
+</tbody></table>
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="https://cara.app/benwootten" rel="noreferrer noopener" target="_blank">Ben Wootten</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.newline.com/" rel="noreferrer noopener" target="_blank">New Line Cinema</a>, a subsidiary of <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros. Entertainment</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

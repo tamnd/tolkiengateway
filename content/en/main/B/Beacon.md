@@ -1,0 +1,13 @@
+---
+title: "Beacon"
+page_id: 23371
+namespace: 0
+revision_id: 86582
+source_url: "https://tolkiengateway.net/wiki/Beacon"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Warning beacons of Gondor"
+---
+
+Redirect to [Warning beacons of Gondor](/wiki/Warning_beacons_of_Gondor).

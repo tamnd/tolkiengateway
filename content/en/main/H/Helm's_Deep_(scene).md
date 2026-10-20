@@ -1,0 +1,51 @@
+---
+title: "Helm's Deep (scene)"
+display_title: "Helm's Deep <span style=\"font-size:0.7em\">(scene)</span>"
+page_id: 41211
+namespace: 0
+revision_id: 442168
+timestamp: "2026-09-09T21:27:27Z"
+source_url: "https://tolkiengateway.net/wiki/Helm's_Deep_(scene)"
+content_sha256: a2a9e9811c150900a26e1354877e160a115cf59e81945985321b19596892e0be
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Stubs"
+  - "The Lord of the Rings: The Two Towers scenes"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "The Lord of the Rings: The Two Towers scenes": "35"
+images:
+  - "The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png"
+  - "CdxIconEdit.svg"
+  - "CdxIconArticleDisambiguation.svg"
+infobox:
+  - label: "Scene"
+    value: "26 (theatrical); 35 (extended)"
+  - label: "Duration"
+    value: "2:40"
+  - label: "Previous"
+    value: "The Wolves of Isengard"
+  - label: "Next"
+    value: "Isengard Unleashed"
+---
+
+<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
+
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Helm%27s_Deep_(scene)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
+</p>
+<p class="tg-quote-footer"><cite><a href="/wiki/Gl%C3%B3in" title="Glóin">Glóin</a></cite></p>
+</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Helm&#39;s Deep</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/Helm%27s_Deep_(disambiguation)" title="Helm&#39;s Deep (disambiguation)">Helm&#39;s Deep (disambiguation)</a></b>.</div></div>
+
+<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png"><img src="/w/images/thumb/2/2f/The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="/w/images/thumb/2/2f/The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png 1.5x, /w/images/2/2f/The_Lord_of_the_Rings_-_The_Two_Towers_-_Helm_Hammerhand.png 2x" data-file-width="623" data-file-height="418"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Helm&#39;s Deep</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">26 (theatrical)<br/>
+           35 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">2:40</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="/wiki/The_Wolves_of_Isengard" title="The Wolves of Isengard">The Wolves of Isengard</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="/wiki/Isengard_Unleashed" title="Isengard Unleashed">Isengard Unleashed</a></i></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+**Helm's Deep** is the twenty-sixth scene of *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)* and the thirty-fifth scene of [*The Lord of the Rings: The Two Towers* (extended edition)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(extended_edition)> "The Lord of the Rings: The Two Towers (extended edition)"). This scene was extended in the latter edition.

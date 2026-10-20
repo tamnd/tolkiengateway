@@ -1,0 +1,33 @@
+---
+title: "File:Eagles.png"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eagles.png</span>"
+page_id: 31090
+namespace: 6
+revision_id: 165029
+timestamp: "2011-07-22T04:38:19Z"
+source_url: "https://tolkiengateway.net/wiki/File:Eagles.png"
+content_sha256: 321cae6bfce17da3ad3cd982c3ab320b52d918713f0d69224d3149d463bff101
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Portal images"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/b/bf/Eagles.png"
+  mime: "image/png"
+  size: 60543
+  width: 150
+  height: 150
+  sha1: "d0e7c203df48ab6a6c49b7845f37d610cbcd4aba"
+  timestamp: "2011-01-19T01:37:00Z"
+  user: "KingAragorn"
+---
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

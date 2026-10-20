@@ -1,0 +1,85 @@
+---
+title: "The One Ring – The Lord of the Rings Roleplaying Game"
+display_title: "<span class=\"mw-page-title-main\">The One Ring – The Lord of the Rings Roleplaying Game</span>"
+page_id: 75007
+namespace: 0
+revision_id: 442680
+timestamp: "2026-09-29T13:26:02Z"
+source_url: "https://tolkiengateway.net/wiki/The_One_Ring_–_The_Lord_of_the_Rings_Roleplaying_Game"
+content_sha256: a9252c6f4e1d32191f85a7d2866b56c7d3670f71a9042809868c75c17917177d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Unmade projects"
+  - "The One Ring (role-playing game)"
+images:
+  - "The_One_Ring_Cubicle_7_Second_Edition.jpg"
+infobox:
+  - label: "Author"
+    value: "Francesco Nepitello"
+  - label: "Cover art"
+    value: "Johan Grenier"
+  - label: "Cartography"
+    value: "Jared Blando"
+  - label: "Illustrator"
+    value: "Giulio Perozziello, Federica Costantini, Nicola Angius, Andrea Tentori Montalto & JG O’ Donoughue"
+  - label: "Publisher"
+    value: "Cubicle 7 Entertainment"
+  - label: "Pages"
+    value: "352"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_One_Ring_Cubicle_7_Second_Edition.jpg"><img src="/w/images/thumb/2/2a/The_One_Ring_Cubicle_7_Second_Edition.jpg/320px-The_One_Ring_Cubicle_7_Second_Edition.jpg" decoding="async" loading="lazy" width="320" height="404" class="mw-file-element" srcset="/w/images/thumb/2/2a/The_One_Ring_Cubicle_7_Second_Edition.jpg/480px-The_One_Ring_Cubicle_7_Second_Edition.jpg 1.5x, /w/images/thumb/2/2a/The_One_Ring_Cubicle_7_Second_Edition.jpg/640px-The_One_Ring_Cubicle_7_Second_Edition.jpg 2x" data-file-width="709" data-file-height="895"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The One Ring – The Lord of the Rings Roleplaying Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="/wiki/Francesco_Nepitello" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cover art</th><td class="tg-infobox-data">Johan Grenier</td></tr><tr><th scope="row" class="tg-infobox-label">Cartography</th><td class="tg-infobox-data">Jared Blando</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Giulio Perozziello, <a class="new" href="/w/index.php?title=Federica_Costantini&amp;action=edit&amp;redlink=1" title="Federica Costantini (page does not exist)">Federica Costantini</a>, Nicola Angius, <a class="new" href="/w/index.php?title=Andrea_Tentori_Montalto&amp;action=edit&amp;redlink=1" title="Andrea Tentori Montalto (page does not exist)">Andrea Tentori Montalto</a> &amp; JG O’ Donoughue</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7 Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">352</td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>The One Ring – The Lord of the Rings Roleplaying Game</b></i> was an unreleased second edition of [Cubicle 7 Entertainment](/wiki/Cubicle_7_Entertainment)'s [*The One Ring* Roleplaying Game](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)").<sup id="cite_ref-cover_1-0" class="reference"><a href="#cite_note-cover-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+This book moved the timeline up to [T.A.](/wiki/Third_Age "Third Age") [2965](/wiki/Third_Age_2965 "Third Age 2965"), while its setting would shift towards the south. Two additional supplements would have rounded this new setting out even further: *Minas Tirith – The Tower of Guard*, detailing the city and its surroundings, and *The Errantries of the King*, a campaign book which would presumably have featured [Aragorn](/wiki/Aragorn)'s adventures as [Thorongil](/wiki/Thorongil).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+In late [2019](/wiki/2019), Cubicle 7 announced the end of its licensing agreement with [Sophisticated Games](/wiki/Sophisticated_Games). This meant the cancellation of the second edition of *The One Ring* and refunds for all preorders.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Eventually, a [second edition](</wiki/Core_Rules_(The_One_Ring)> "Core Rules (The One Ring)") would be released by [Free League Publishing](/wiki/Free_League_Publishing).
+
+## From the publisher {#From_the_publisher}
+
+<blockquote class="tg-quote noexcerpt">
+<p>The One Ring – The Lord of the Rings™ Roleplaying game is the second edition of the award winning tabletop roleplaying game set in the world of The Hobbit™ and The Lord of the Rings™. The 352 page core features updated rules based on years of feedback, stunning new art, and a beautifully illustrated map of Middle-earth. 
+</p><p>The game contains everything you and your friends will need to adventure in the lands of Middle-earth, including:
+</p>
+<ul><li>A complete set of rules for roleplaying in Middle-earth</li>
+<li>Instructions for how to create your character and forge your own fellowship</li>
+<li>11 unique Cultures and 6 different Callings to choose from</li>
+<li>A bestiary of enemies to face, from creeping Giant Spiders and hungry Wargs, to vicious Orcs and terrifying Stone-trolls</li>
+<li>Advice for telling stories that evoke the spirit and feeling of the  The Hobbit™ and The Lord of the Rings™</li>
+<li>A complete Tale of Years spanning from the death of Smaug up to the year 2965 of the Third Age<sup id="cite_ref-cover_1-1" class="reference"><a href="#cite_note-cover-1">[1]</a></sup></li></ul>
+</blockquote>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+## Legacy {#Legacy}
+
+While none of the artwork created for this version would end up used, <a class="new" href="/w/index.php?title=Federica_Costantini&amp;action=edit&amp;redlink=1" title="Federica Costantini (page does not exist)">Federica Costantini</a> returned to illustrate for the second edition rulebook by Free League. Later on <a class="new" href="/w/index.php?title=Andrea_Tentori_Montalto&amp;action=edit&amp;redlink=1" title="Andrea Tentori Montalto (page does not exist)">Andrea Tentori Montalto</a> provided illustrations for *[Moria - Through the Doors of Durin](/wiki/Moria_-_Through_the_Doors_of_Durin)*.
+
+[Jared Blando](/wiki/Jared_Blando) sells the map he designed for this book on his website.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+
+## External links {#External_links}
+
+- <a class="external text" href="https://www.artstation.com/artwork/w85LJZ" rel="noreferrer noopener" target="_blank">Art by JG O&#39;Donoghue</a>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-cover-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cover_1-0">1.0</a></sup> <sup><a href="#cite_ref-cover_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20190721101241/https://www.cubicle7games.com/the-one-ring-the-lord-of-the-rings-cover-reveal/" rel="noreferrer noopener" target="_blank">&#34;The One Ring – The Lord of the Rings™ Cover Reveal!&#34;</a>, archived from the <a class="external text" href="https://www.cubicle7games.com/the-one-ring-the-lord-of-the-rings-cover-reveal/" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website"><a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7 Games</a></span></cite></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20190822085646/https://www.cubicle7games.com/tor-collectors-edition-rulebook/" rel="noreferrer noopener" target="_blank">&#34;The One Ring Collector’s Edition Reveal!&#34;</a>, archived from the <a class="external text" href="https://www.cubicle7games.com/tor-collectors-edition-rulebook/" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website"><a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7 Games</a></span></cite></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20190717062539/https://www.cubicle7games.com/torsday-art-reveal/" rel="noreferrer noopener" target="_blank">&#34;#TORsday Art Reveal!&#34;</a>, archived from the <a class="external text" href="https://www.cubicle7games.com/torsday-art-reveal/" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website"><a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7 Games</a></span></cite></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://cubicle7games.com/en_EU/blog/unexpected-tor2-update" rel="noreferrer noopener" target="_blank">&#34;Unexpected TOR2 Update&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7 Games</a></span></cite></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Jared Blando</span>. <span class="cite-web-article"><a class="external text" href="https://jaredblando.com/prints/p/middle-earth-the-lands-and-regions-of-the-lotr" rel="noreferrer noopener" target="_blank">&#34;Middle Earth: The Lands and Regions of the LotR&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://jaredblando.com" rel="noreferrer noopener" target="_blank">jaredblando.com</a></span></cite></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Morrus (2019)</span>. <span class="cite-web-article"><a class="external text" href="https://www.enworld.org/threads/look-at-this-gorgeous-map-for-the-one-ring-2e.668046/" rel="noreferrer noopener" target="_blank">&#34;Look At This Gorgeous Map For The One Ring 2E!&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.enworld.org" rel="noreferrer noopener" target="_blank">www.enworld.org</a></span></cite></span>
+</li>
+</ol></div>

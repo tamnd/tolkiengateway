@@ -1,0 +1,54 @@
+---
+title: "Tië"
+display_title: "tië"
+page_id: 17554
+namespace: 0
+revision_id: 422422
+timestamp: "2025-07-29T14:19:18Z"
+source_url: "https://tolkiengateway.net/wiki/Tië"
+content_sha256: 1bf482c3aa12c5801ae14293d22a9db508ee28d560b8b90f816e4a9c4ab0d016
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Qenya nouns"
+  - "Quenya nouns"
+sort_keys:
+  "Qenya nouns": "Tie"
+  "Quenya nouns": "Tie"
+---
+
+<i><b>tië</b></i> (pl. *tier*) is a [Quenya](/wiki/Quenya) word meaning "path; road, way; course, line, direction".<sup id="cite_ref-Namarie_1-0" class="reference"><a href="#cite_note-Namarie-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-Ety_3-0" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
+
+## Etymology {#Etymology}
+
+The word derives from [Primitive Quendian](/wiki/Primitive_Quendian) <i><a class="new" href="/w/index.php?title=Te%C8%9D%C4%93&amp;action=edit&amp;redlink=1" title="Teȝē (page does not exist)">teȝē</a></i>, from [root](/wiki/Sundocarme "Sundocarme") [TEȜ](/wiki/TEN "TEN"). Note that this stem was changed by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") to [TEÑ](/wiki/TE%C3%91).<sup id="cite_ref-Ety_3-1" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
+
+## Examples {#Examples}
+
+- <i><a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">ilyë<b>tier</b> undulávë lumbulë</a></i> = "all **paths** are drowned deep in shadow"
+- <i><a href="/wiki/Anar_kaluva_tielyanna" title="Anar kaluva tielyanna">Anar kaluva <b>tie</b>lyanna</a></i> = "The [Sun](/wiki/Sun) will shine upon your **path**"
+
+## Inspiration {#Inspiration}
+
+The word appears to be a direct loan from [Finnish](/wiki/Finnish) <i><a class="extiw" href="http://en.wiktionary.org/wiki/tie#Finnish" title="wiktionary:tie">tie</a></i> ("road, way").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+## Other versions of the legendarium {#Other_versions_of_the_legendarium}
+
+In the *Qenya Lexicon* appears the [Qenya](/wiki/Qenya) word *tie* ("line, direction, route, road").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Namarie-1"><span class="mw-cite-backlink"><a href="#cite_ref-Namarie_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, &#34;<a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië</a>&#34; (HarperCollins 2002; pp. 23, 67; forms: <i>tier</i>/<i>tiër</i>)</span>
+</li>
+<li id="cite_note-PE17-2"><span class="mw-cite-backlink"><a href="#cite_ref-PE17_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 73 (forms: <i>tie</i>/<i>tier</i>; <i>tië</i>/<i>tiër</i>)</span>
+</li>
+<li id="cite_note-Ety-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ety_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 391 (form: <i>tie</i>)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Harri Perälä, &#34;<a class="external text" href="http://www.sci.fi/~alboin/finn_que.htm" rel="noreferrer noopener" target="_blank">Are High Elves Finno-Ugric?</a>&#34; (see especially the chapter &#34;Vocabulary&#34;), dated 7 May 2005, at <a class="external text" href="http://www.sci.fi/~alboin/jrrtmenu.htm" rel="noreferrer noopener" target="_blank">Studies on the Works of J.R.R. Tolkien</a> (accessed 13 June 2011)</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>)</span>
+</li>
+</ol></div>

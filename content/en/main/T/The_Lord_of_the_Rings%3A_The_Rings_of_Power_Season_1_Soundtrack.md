@@ -1,0 +1,13 @@
+---
+title: "The Lord of the Rings: The Rings of Power Season 1 Soundtrack"
+page_id: 62540
+namespace: 0
+revision_id: 353290
+source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_Season_1_Soundtrack"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"
+---
+
+Redirect to [The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_(Season_One:_Amazon_Original_Series_Soundtrack)).

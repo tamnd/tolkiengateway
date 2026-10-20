@@ -1,0 +1,18 @@
+---
+title: "Category:Republic of China"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Republic of China</span>"
+page_id: 35337
+namespace: 14
+revision_id: 166583
+timestamp: "2011-07-28T18:23:19Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Republic_of_China"
+content_sha256: 2a03cd3bc088ed5054b17fbf01ccc43ceb5fe9bea85e6f37e88e8e9f8069f55d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Countries"
+sort_keys:
+  "Countries": "China, Republic of China"
+---
+
+This category contains articles about the <a class="extiw" href="http://en.wikipedia.org/wiki/Republic" title="wikipedia:Republic">Republic of China</a> (commonly known as <a class="extiw" href="http://en.wikipedia.org/wiki/Taiwan" title="wikipedia:Taiwan">Taiwan</a>).

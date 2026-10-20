@@ -1,0 +1,26 @@
+---
+title: "Traveller's Tales"
+display_title: "<span class=\"mw-page-title-main\">Traveller&#039;s Tales</span>"
+page_id: 63359
+namespace: 0
+revision_id: 407733
+timestamp: "2024-08-23T09:26:06Z"
+source_url: "https://tolkiengateway.net/wiki/Traveller's_Tales"
+content_sha256: c19c7e862812272582f0f776397144bb57dd7453b5962856496738752a88f073
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "British businesses"
+  - "Video Game publishers"
+images:
+  - "Traveller's_Tales_Logo.png"
+---
+
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Traveller%27s_Tales_Logo.png"><img src="/w/images/5/53/Traveller%27s_Tales_Logo.png" decoding="async" loading="lazy" width="160" height="160" class="mw-file-element" data-file-width="160" data-file-height="160"/></a><figcaption>Traveller&#39;s Tales logo</figcaption></figure>
+
+**Traveller's Tales** is a British videogame developer. It co-operates through videogames with *The Lego Group*, the company that creates [Lego](/wiki/Lego) games. It has developed the [Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game) (2012) and the [Lego The Hobbit](/wiki/Lego_The_Hobbit:_The_Video_Game "Lego The Hobbit: The Video Game") (2014) with [Warner Bros. Interactive Entertainment](/wiki/Warner_Bros._Interactive_Entertainment).
+
+## External links {#External_links}
+
+- <a class="external text" href="https://www.ttgames.com/" rel="noreferrer noopener" target="_blank">Official Website</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Traveller%27s_Tales" title="wikipedia:Traveller&#39;s Tales">Traveller&#39;s Tales</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

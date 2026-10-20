@@ -1,0 +1,34 @@
+---
+title: "Letter to Paul Barnetson"
+display_title: "<span class=\"mw-page-title-main\">Letter to Paul Barnetson</span>"
+page_id: 37552
+namespace: 0
+revision_id: 387878
+timestamp: "2024-03-18T08:30:19Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_Paul_Barnetson"
+content_sha256: 0ae9845b497b0ba1a1a6a88328a262abc7fe96146a44a83f8c3f64dcdd7d68e3
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+sort_keys:
+  "Letters": "Barnetson, Paul"
+images:
+  - "Paul_Barnetson_13_November_1961.png"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Paul_Barnetson_13_November_1961.png"><img src="/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/300px-Paul_Barnetson_13_November_1961.png" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/450px-Paul_Barnetson_13_November_1961.png 1.5x, /w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/600px-Paul_Barnetson_13_November_1961.png 2x" data-file-width="667" data-file-height="827"/></a><figcaption></figcaption></figure>
+
+On [13 November](/wiki/13_November) [1961](/wiki/1961), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Paul Barnetson**.<sup id="cite_ref-Fraser_1-0" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
+
+- **Subject(s):** Influences (German and Icelandic folklore, the Niebelung story); the words [*orc* and *goblin*](/wiki/Orcs#Orcs_and_Goblins "Orcs").<sup id="cite_ref-Fraser_1-1" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
+- **Publication:** None.
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Fraser-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Fraser_1-0">1.0</a></sup> <sup><a href="#cite_ref-Fraser_1-1">1.1</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.frasersautographs.com/frasers/view/product/frproductcatalog/11470/11549/PF12695" rel="noreferrer noopener" target="_blank">Stock code F76122</a> at <a class="external text" href="http://www.frasersautographs.com/" rel="noreferrer noopener" target="_blank">FrasersAutographs.com</a> (accessed 25 December 2011)</span>
+</li>
+</ol></div>

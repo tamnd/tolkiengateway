@@ -1,0 +1,95 @@
+---
+title: "Mythlore 23"
+display_title: "<i>Mythlore</i> 23"
+page_id: 65720
+namespace: 0
+revision_id: 406651
+timestamp: "2024-08-23T06:14:25Z"
+source_url: "https://tolkiengateway.net/wiki/Mythlore_23"
+content_sha256: 6931887daa74490d164459b4b36537757c88e8da7cce8eb57d156a4b88a97ee1
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Mythlore"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Mythlore 023"
+  "Mythlore": "Mythlore 023"
+images:
+  - "Mythlore_23.gif"
+  - "WikimediaUI-ArrowPrevious-ltr.svg"
+  - "WikimediaUI-ArrowNext-ltr.svg"
+infobox:
+  - label: "Editor"
+    value: "Gracia Fay Ellwood"
+  - label: "Publisher"
+    value: "Mythopoeic Society"
+  - label: "Released"
+    value: "Winter 1982"
+  - label: "Format"
+    value: "Paperback"
+  - label: "Pages"
+    value: "47"
+  - label: "Preceded by"
+    value: "Mythlore 22"
+  - label: "Followed by"
+    value: "Mythlore 24"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mythlore_23.gif"><img src="/w/images/a/a2/Mythlore_23.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 23</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Mythopoeic_Society" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="/wiki/1982" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="/wiki/Mythlore_22" title="Mythlore 22">Mythlore 22</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="/wiki/Mythlore_24" title="Mythlore 24">Mythlore 24</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<b><i>Mythlore</i> 23</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol7/iss1/" rel="noreferrer noopener" target="_blank">Volume 7, Issue 1</a>) is an issue of the [Mythlore](/wiki/Mythlore) journal, published by the [Mythopoeic Society](/wiki/Mythopoeic_Society).
+
+## Contents {#Contents}
+
+#### Articles {#Articles}
+
+- Marchesani, Diane. "Tolkien's Lore: The Songs of Middle-Earth." 3-5.
+- Dowdy, David. "The Figure of Taliessin." 6-13.
+- Neuleib, Janice. "Love's Alchemy: Jane in That Hideous Strength." 16-17, 19.
+- Howard, Thomas. "The Uses of Myth." 20-23, 35.
+- Sammons, Martha C. "Christian Doctrines 'Transposed' in C.S. Lewis' Till We Have Faces." 31-35.
+
+#### Features {#Features}
+
+- Speth, Lee. "Cavalier Treatment: Questions of Taste." Review of *The Life of Brian* (movie). Hooper, Walter. *They Stand Together*. 14-15.
+- Smith, Christine. Mythcon Report. 15.
+- Ellwood, Gracia Fay. Editorial. 18+.
+- Letters. 36+.
+- GoodKnight, Glen. Founder's Focus. 40.
+- Christopher, Joe R. "An Inklings Bibliography (12)." 41-45.
+
+#### Reviews {#Reviews}
+
+- Patterson, Nancy-Lou. "The Heirarchy of Light." Review of Hillegas, March R., ed. *Shadows of Imagination: The Fantasies of C.S. Lewis, J.R.R. Tolkien, and Charles Williams*. 24.
+- Patterson, Nancy-Lou. "Evoking Wonder." Review of *Manlove, C.N. Modern Fantasy -- Five Studies.* 24-25.
+- Speth, Lee. "The Perfect Place." Review of Baum, L. Frank. *Oz* series (Del Rey reprints). 25-26.
+- Patterson, Nancy-Lou. "Neither Confounding the Persons." Review of Payne, Leanne. *Real Presence: The Holy Spirit in the Works of C.S. Lewis*. 26-27.
+- Patterson, Nancy-Lou. "Past Watchful Dragons." Review of Hooper, Walter. *Past Watchful Dragons*. 28-29.
+- Patterson, Nancy-Lou. "They Stand Together." Review of Lewis, C.S. *They Stand Together: The Letters of C.S. Lewis to Arthur Greeves.* 29-30.
+
+#### Poems {#Poems}
+
+- Christopher, Joe R. "Dorothy L. Sayers at Fifty." 40.
+- Berman, Ruth. "Robin's Summonses." 47.
+
+#### Art {#Art}
+
+- Lisa Cowan: 34
+- Edith Crowe: Front Cover
+- Beryl de Folo: 21, 22, 23
+- Louis Dwarshuis: 27
+- Melodie Grandy: 37
+- Mary Janis Johnson: Front Cover
+- Michael Logan: 47
+- Thadara Ottobris: 8, 9, 10, Back Cover
+- Annalee Peoples: 5, 11, 19
+- John Pivovarnick: 32
+- Kevin S.: 45
+
+<style data-mw-deduplicate="TemplateStyles:r414667">.mw-parser-output .template-prevnext{margin:var(--space-md)0;padding:var(--space-xxs);background-color:var(--color-surface-2);border-radius:var(--border-radius-medium);font-size:var(--font-size-small);line-height:var(--line-height-sm);display:grid;align-items:center;grid-template-areas:"prev current next";grid-template-columns:minmax(max-content,1fr)minmax(max-content,1fr)minmax(max-content,1fr)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__next{position:relative;border-radius:var(--border-radius-base);display:flex;align-items:center;gap:var(--space-sm)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__current,.mw-parser-output .template-prevnext__next{padding:var(--space-xs)}.mw-parser-output .template-prevnext__prev{grid-area:prev}.mw-parser-output .template-prevnext__current{grid-area:current;text-align:center}.mw-parser-output .template-prevnext__next{grid-area:next;justify-content:flex-end;text-align:end}.mw-parser-output .template-prevnext__link:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-prevnext__link:hover>.template-prevnext__icon{opacity:var(--opacity-icon-base--hover)}.mw-parser-output .template-prevnext__prev:hover>.template-prevnext__icon{transform:translateX(-2px)}.mw-parser-output .template-prevnext__next:hover>.template-prevnext__icon{transform:translateX(2px)}.mw-parser-output .template-prevnext__link:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-prevnext__link:active>.template-prevnext__icon{opacity:var(--opacity-icon-base--selected)}.mw-parser-output .template-prevnext__icon{opacity:var(--opacity-icon-base);transition:transform 250ms ease}.mw-parser-output .template-prevnext__icon img{filter:var(--filter-invert)}.mw-parser-output .template-prevnext__title{color:var(--color-emphasized);font-weight:500}.mw-parser-output .template-prevnext__link .template-prevnext__title{color:var(--color-progressive)}.mw-parser-output .template-prevnext__link--new .template-prevnext__title{color:var(--color-link-new)}.mw-parser-output .template-prevnext__desc{color:var(--color-subtle);font-size:var(--font-size-x-small)}.mw-parser-output .template-prevnext__linkoverlay{position:absolute;top:0;left:0;right:0;bottom:0}.mw-parser-output .template-prevnext__linkoverlay>a{display:block;font-size:0;height:100%}@media screen and (max-width:639px){.mw-parser-output .template-prevnext{grid-template-areas:"current current""prev next";grid-template-columns:auto}.mw-parser-output .template-prevnext__current{border-bottom:1px solid var(--border-color-base)}}</style>
+
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 22</div></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Mythlore_22" title="Mythlore 22">Mythlore 22</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 23</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mythlore 24</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Mythlore_24" title="Mythlore 24">Mythlore 24</a></div></div></div>

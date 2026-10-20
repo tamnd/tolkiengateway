@@ -1,0 +1,40 @@
+---
+title: "Gwathren"
+display_title: "gwathren"
+page_id: 30850
+namespace: 0
+revision_id: 216217
+timestamp: "2012-10-19T21:06:18Z"
+source_url: "https://tolkiengateway.net/wiki/Gwathren"
+content_sha256: 5bac1ac28d85c2589578a80580074cd4579293e27565601b7d29e90e14a0223a
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Sindarin adjectives"
+---
+
+<i><b>gwathren</b></i> (plural *gwethrin*) is a [Sindarin](/wiki/Sindarin) word meaning "shadowy, dim".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+
+## Etymology {#Etymology}
+
+- [Root](/wiki/Sundocarme "Sundocarme") [WATH](/wiki/WATH)<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+
+## Examples {#Examples}
+
+- <i><a href="/wiki/Ered_Wethrin" title="Ered Wethrin">Ered <b>Wethrin</b></a></i><sup id="cite_ref-Hiswe_2-0" class="reference"><a href="#cite_note-Hiswe-2">[2]</a></sup>
+
+## Cognates {#Cognates}
+
+- Sindarin *[gwathui](/wiki/Gwathui "Gwathui")*
+- Sindarin *[gwath](/wiki/Gwath "Gwath")*
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-VT42-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT42_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT42_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 9</span>
+</li>
+<li id="cite_note-Hiswe-2"><span class="mw-cite-backlink"><a href="#cite_ref-Hiswe_2-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en-strict.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> (accessed 31 December 2010)</span>
+</li>
+</ol></div>

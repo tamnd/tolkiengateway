@@ -1,0 +1,48 @@
+---
+title: "Tirin"
+display_title: "tirin"
+page_id: 61576
+namespace: 0
+revision_id: 407673
+timestamp: "2024-08-23T09:12:55Z"
+source_url: "https://tolkiengateway.net/wiki/Tirin"
+content_sha256: 2514e4f593f81cbaddeccadb38b92ae911e8c05db278aa657c6df148623b3bb3
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Gnomish nouns"
+  - "Qenya nouns"
+---
+
+<i><b>tirin</b></i> is both a [Qenya](/wiki/Qenya) and [Gnomish](/wiki/Gnomish) noun applied to towers.<sup id="cite_ref-Kortirion_1-0" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+
+## Qenya {#Qenya}
+
+*tirin* (stem *tirind-*) in Qenya means "tall tower, turret, minaret".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+### Examples {#Examples}
+
+- <i><a href="/wiki/Estirin" title="Estirin">Es<b>tirin</b></a></i> = "Outer Tower"
+- <i><a class="mw-redirect" href="/wiki/Ingil%27s_Tirin" title="Ingil&#39;s Tirin">Ingil&#39;s <b>Tirin</b></a></i> = "Tower of Ingil"
+
+## Gnomish {#Gnomish}
+
+*tirin* in Gnomish means "watch-tower, turret, tower".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The Qenya cognate was *[tirion](/wiki/Tirion "Tirion")*.<sup id="cite_ref-Kortirion_1-1" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+
+### Examples {#Examples_2}
+
+- <i><a class="mw-redirect" href="/wiki/Tirimbrithla" title="Tirimbrithla"><b>Tirim</b>brithla</a></i> = "Tower of Pearl"
+- <i><a href="/wiki/Tirin_na_Gilweth" title="Tirin na Gilweth"><b>Tirin</b> na Gilweth</a></i> = "Tower of Gilweth"
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Kortirion-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kortirion_1-0">1.0</a></sup> <sup><a href="#cite_ref-Kortirion_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;<a href="/wiki/Kortirion" title="Kortirion">Kortirion</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 93</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="/wiki/Parma_Eldalamberon_11" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 71</span>
+</li>
+</ol></div>

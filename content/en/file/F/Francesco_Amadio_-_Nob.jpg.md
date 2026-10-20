@@ -1,0 +1,35 @@
+---
+title: "File:Francesco Amadio - Nob.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Francesco Amadio - Nob.jpg</span>"
+page_id: 48449
+namespace: 6
+revision_id: 258798
+timestamp: "2014-11-13T14:05:16Z"
+source_url: "https://tolkiengateway.net/wiki/File:Francesco_Amadio_-_Nob.jpg"
+content_sha256: b13de00398e0ec004b1f3de7cb73e4a8c373b6b11d38975d59dc32f90e4fb744
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Francesco Amadio"
+  - "Images of Nob"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/9/96/Francesco_Amadio_-_Nob.jpg"
+  mime: "image/jpeg"
+  size: 239882
+  width: 800
+  height: 1140
+  sha1: "51fc7e0156525950fc9b06001e4d563832e43ed3"
+  timestamp: "2014-11-13T14:05:16Z"
+  user: "Mith"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Francesco Amadio</span></span>
+<p>This work is copyrighted and owned by Francesco Amadio. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Francesco Amadio</li>
+<li><b>Website:</b> <a class="external text" href="http://tolmancotton.deviantart.com/" rel="noreferrer noopener" target="_blank">Francesco Amadio on DeviantArt</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Francesco_Amadio" title="Tolkien Gateway:Copyrights/Francesco Amadio">Permission for use on Tolkien Gateway</a></b></li></ul></div>

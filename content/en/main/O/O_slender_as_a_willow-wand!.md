@@ -1,0 +1,40 @@
+---
+title: "O slender as a willow-wand!"
+display_title: "<span class=\"mw-page-title-main\">O slender as a willow-wand!</span>"
+page_id: 44032
+namespace: 0
+revision_id: 309488
+timestamp: "2020-01-12T16:03:17Z"
+source_url: "https://tolkiengateway.net/wiki/O_slender_as_a_willow-wand!"
+content_sha256: 5f1aa3687e9613849fd153f1264e49baad2cb2f0222c1ba236bed49d98326dbf
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Poems in The Fellowship of the Ring"
+  - "Songs"
+---
+
+**O slender as a willow-wand!** was a poem [Frodo Baggins](/wiki/Frodo_Baggins) sang to [Goldberry](/wiki/Goldberry).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## The poem {#The_poem}
+
+<div class="poem">
+<p><i>O slender as a willow-wand! O clearer than clear water!</i><br/>
+<i>O reed by the living pool! Fair River-daughter!</i><br/>
+<i>O spring-time and summer-time, and spring again after!</i><br/>
+<i>O wind on the waterfall, and the leaves&#39; laughter!</i>
+</p>
+</div>
+
+## See also {#See_also}
+
+- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/In_the_House_of_Tom_Bombadil" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;</span>
+</li>
+</ol></div>

@@ -1,0 +1,26 @@
+---
+title: "Ray Dillon"
+display_title: "<span class=\"mw-page-title-main\">Ray Dillon</span>"
+page_id: 5071
+namespace: 0
+revision_id: 407066
+timestamp: "2024-08-23T07:10:30Z"
+source_url: "https://tolkiengateway.net/wiki/Ray_Dillon"
+content_sha256: cc722c74728a9d060ed3b94a652c58440f0e075950e4d113ea08e53a0edcecd4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Artists"
+  - "American people"
+  - "People by name"
+sort_keys:
+  "Artists": "Dillon, Ray"
+  "American people": "Dillon, Ray"
+  "People by name": "Dillon, Ray"
+---
+
+**Ray Dillon** ([June 28](/wiki/28_June "28 June"), [1982](/wiki/1982)) is an artist who is currently working on the <a class="new" href="/w/index.php?title=Lord_of_the_Rings:_Evolution_Sketch_Cards&amp;action=edit&amp;redlink=1" title="Lord of the Rings: Evolution Sketch Cards (page does not exist)">Lord of the Rings: Evolution Sketch Cards</a>.
+
+## External links {#External_links}
+
+- <b><a class="external text" href="http://www.raydillon.com/" rel="noreferrer noopener" target="_blank">Official Website</a></b>

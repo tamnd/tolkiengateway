@@ -1,0 +1,27 @@
+---
+title: "Manuscript notes in Dictionary in Englysshe and Welshe"
+display_title: "Manuscript notes in <i>Dictionary in Englysshe and Welshe</i>"
+page_id: 40777
+namespace: 0
+revision_id: 207096
+timestamp: "2012-07-30T23:45:53Z"
+source_url: "https://tolkiengateway.net/wiki/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe"
+content_sha256: a66ca6ca4edd35572559f6ab6a0126201c49803251ec1843a1752e3060dfbaeb
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Unpublished material"
+---
+
+<b>Manuscript notes in <i>Dictionary in Englysshe and Welshe</i></b> refers to a page of [unpublished notes](/wiki/Index:Unpublished_material "Index:Unpublished material") by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) inserted in his copy of *[Dictionary in Englysshe and Welshe](/wiki/List_of_books_in_Tolkien%27s_library#Dictionary_in_Englysshe_and_Welshe "List of books in Tolkien's library")*. The manuscript consists of a translation of the opening of the [Welsh](/wiki/Welsh) prologue.<sup id="cite_ref-TW_1-0" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup id="cite_ref-Add_2-0" class="reference"><a href="#cite_note-Add-2">[2]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-TW-1"><span class="mw-cite-backlink"><a href="#cite_ref-TW_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/Carl_Phelpstead" title="Carl Phelpstead">Carl Phelpstead</a>, <i><a href="/wiki/Tolkien_and_Wales" title="Tolkien and Wales">Tolkien and Wales</a></i>, &#34;Encountering Welsh&#34;, &#34;Tolkien&#39;s Celtic Library&#34;, pp. 9-12</span>
+</li>
+<li id="cite_note-Add-2"><span class="mw-cite-backlink"><a href="#cite_ref-Add_2-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 31 July 2012</span></cite></span>
+</li>
+</ol></div>

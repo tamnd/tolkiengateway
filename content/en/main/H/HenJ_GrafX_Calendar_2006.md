@@ -1,0 +1,26 @@
+---
+title: "HenJ GrafX Calendar 2006"
+display_title: "<i>HenJ GrafX Calendar 2006</i>"
+page_id: 6815
+namespace: 0
+revision_id: 339284
+timestamp: "2021-12-19T13:48:07Z"
+source_url: "https://tolkiengateway.net/wiki/HenJ_GrafX_Calendar_2006"
+content_sha256: 648bf42c94622e1af813fad3caff817ddafce2b78990caa8829734334fc14d8f
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Calendars (real-world)"
+sort_keys:
+  "Calendars (real-world)": "2006, HenJ"
+images:
+  - "HenJ_GrafX_Calendar_2006.jpg"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:HenJ_GrafX_Calendar_2006.jpg"><img src="/w/images/thumb/e/e2/HenJ_GrafX_Calendar_2006.jpg/300px-HenJ_GrafX_Calendar_2006.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="/w/images/e/e2/HenJ_GrafX_Calendar_2006.jpg 1.5x" data-file-width="349" data-file-height="350"/></a><figcaption></figcaption></figure>
+
+**HenJ GrafX Calendar 2006** was produced by [Henning Janssen](/wiki/Henning_Janssen) and features illustrations by Henning Janssen. The calendar was produced in a limited edition run of 111.
+
+- Dimensions: 11 3/4 x 11 3/4 inches
+- Wire bound
+- Heavy wire hanging loop

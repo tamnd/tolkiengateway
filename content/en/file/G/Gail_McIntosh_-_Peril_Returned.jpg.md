@@ -1,0 +1,68 @@
+---
+title: "File:Gail McIntosh - Peril Returned.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gail McIntosh - Peril Returned.jpg</span>"
+page_id: 31904
+namespace: 6
+revision_id: 441083
+timestamp: "2026-08-06T16:34:28Z"
+source_url: "https://tolkiengateway.net/wiki/File:Gail_McIntosh_-_Peril_Returned.jpg"
+content_sha256: d3367f7af6baeebb9b00178bd3c2fd56e528f43402f7b89f4d1c33820ab1a8de
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of Middle-earth: The Dragons"
+  - "Images by Gail McIntosh"
+  - "Images of undead"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/1/11/Gail_McIntosh_-_Peril_Returned.jpg"
+  mime: "image/jpeg"
+  size: 39323
+  width: 295
+  height: 250
+  sha1: "d7772e2cc969e0e36577ae30a6067303ba1da0f2"
+  timestamp: "2011-03-13T13:22:35Z"
+  user: "Morgan"
+---
+
+## Summary {#Summary}
+
+<div class="fileinfotpl">
+<table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
+<tbody><tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gail McIntosh - Peril Returned.jpg</span></th>
+<td class="description">
+<p><i>Peril Returned</i>. 
+Created for <a href="/wiki/Middle-earth:_The_Dragons" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
+the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+</p>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
+<td><a href="/wiki/1996" title="1996">1996</a></td>
+</tr>
+<!-- -->
+<!-- -->
+<tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
+<td>Gail McIntosh</td>
+</tr>
+<tr style="vertical-align: top">
+<th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
+<td>Extracted from a card scan</td>
+</tr>
+<!-- -->
+</tbody></table>
+</div>
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

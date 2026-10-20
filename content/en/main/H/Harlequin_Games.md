@@ -1,0 +1,42 @@
+---
+title: "Harlequin Games"
+display_title: "<span class=\"mw-page-title-main\">Harlequin Games</span>"
+page_id: 36467
+namespace: 0
+revision_id: 190134
+timestamp: "2012-03-23T12:31:43Z"
+source_url: "https://tolkiengateway.net/wiki/Harlequin_Games"
+content_sha256: c9ad854268f3b73e5dab1f895e1b9e551885e19967eb5195c877a4b8ba85987a
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "British businesses"
+images:
+  - "Legends_One_Ring.png"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Legends_One_Ring.png"><img src="/w/images/thumb/b/b2/Legends_One_Ring.png/300px-Legends_One_Ring.png" decoding="async" loading="lazy" width="300" height="428" class="mw-file-element" srcset="/w/images/b/b2/Legends_One_Ring.png 1.5x" data-file-width="414" data-file-height="591"/></a><figcaption><i>Legends: The One Ring</i> module</figcaption></figure>
+
+**Harlequin Games** is a British firm established in 1984.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The company maintains <a class="external text" href="http://middleearthgames.com/" rel="noreferrer noopener" target="_blank">Middle-earth Strategic Gaming</a> (related to the [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and also produces a game module called *Legends: The One Ring*, under license from the [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises) through [Game Systems Inc.](/wiki/Game_Systems_Inc.).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+During the 1990s, Harlequin Games produced the [Harlequin Miniatures](/wiki/Harlequin_Miniatures) *Lord of the Rings* figures.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+## External links {#External_links}
+
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Harlequin_Games" title="wikipedia:Harlequin Games">Harlequin Games</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.harlequingames.com/index.html" rel="noreferrer noopener" target="_blank">Official website</a>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.harlequingames.com/harl.html" rel="noreferrer noopener" target="_blank">About Harlequin</a> at <a class="external text" href="http://www.harlequingames.com/index.html" rel="noreferrer noopener" target="_blank">HarlequinGames.com</a> (accessed 9 October 2011)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://middleearthgames.com/abhist.html" rel="noreferrer noopener" target="_blank">Our History</a> at <a class="external text" href="http://middleearthgames.com/index.html" rel="noreferrer noopener" target="_blank">Middle-earth Strategic Gaming</a> (accessed 8 October 2011)</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.harlequingames.com/legor.html" rel="noreferrer noopener" target="_blank">The One Ring</a> at <a class="external text" href="http://www.harlequingames.com/index.html" rel="noreferrer noopener" target="_blank">HarlequinGames.com</a> (accessed 9 October 2011)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienshop.com/contents/en-uk/d177.html" rel="noreferrer noopener" target="_blank">Harlequin Miniatures</a> at <a class="external text" href="http://www.tolkienshop.com/index.html" rel="noreferrer noopener" target="_blank">TolkienShop.com</a> (accessed 9 October 2011)</span>
+</li>
+</ol></div>

@@ -1,0 +1,75 @@
+---
+title: "Arne Zettersten"
+display_title: "<span class=\"mw-page-title-main\">Arne Zettersten</span>"
+page_id: 25626
+namespace: 0
+revision_id: 404749
+timestamp: "2024-08-23T02:03:24Z"
+source_url: "https://tolkiengateway.net/wiki/Arne_Zettersten"
+content_sha256: 43f4c80f9697e73b566e2733cf913790fdff0481170f9737ada353d2f9560f91
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Academics"
+  - "Authors"
+  - "JRRTE contributors"
+  - "Swedish people"
+  - "People by name"
+sort_keys:
+  "Academics": "Zettersten, Arne"
+  "Authors": "Zettersten, Arne"
+  "JRRTE contributors": "Zettersten, Arne"
+  "Swedish people": "Zettersten, Arne"
+  "People by name": "Zettersten, Arne"
+infobox:
+  - label: "Born"
+    value: "10 January, 1934"
+  - label: "Died"
+    value: "21 September, 2015"
+  - label: "Occupation"
+    value: "Academic, author"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Arne Zettersten</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/10_January" title="10 January">10 January</a>, <a href="/wiki/1934" title="1934">1934</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="/wiki/21_September" title="21 September">21 September</a>, <a href="/wiki/2015" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Academic, author</td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+**Arne Zettersten** ([1934](/wiki/1934)-[2015](/wiki/2015)) was a Swedish professor emeritus. Before retirement, Zettersten was Head of Department and Professor in English at the University of Copenhagen.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+In [1965](/wiki/1965), Zettersten presented his doctoral thesis on the [AB language](/wiki/AB_language), a medieval literary dialect first identified by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). And during the 1960s in [Oxford](/wiki/Oxford), Zettersten became a friend and colleague of Tolkien, as they both shared an interest in a certain collection of medieval manuscripts (the "<a class="extiw" href="http://en.wikipedia.org/wiki/Katherine_Group" title="wikipedia:Katherine Group">Katherine Group</a>"). Their contact continued throughout the last 13 years of Tolkien's life. Arne Zettersten died 2015, aged 81.
+
+## Bibliography {#Bibliography}
+
+Selected bibliography of works concerned with J.R.R. Tolkien.
+
+### Articles {#Articles}
+
+- [1966](/wiki/1966): *English Studies 47* (Amsterdam)
+    - "J.R.R. Tolkien. The English Text of the Ancrene Riwle - Ancrene Wisse" (pp. 290–292; \[Review\])
+- [2004](/wiki/2004): *[The Invented Worlds of J.R.R. Tolkien](/wiki/The_Invented_Worlds_of_J.R.R._Tolkien)* \[also published in *[The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder](/wiki/The_Lord_of_the_Rings_1954-2004 "The Lord of the Rings 1954-2004")* (2006)\]
+    - "The AB Language Lives"
+- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entries:
+    - "AB Language"
+    - "Ancrene Wisse"
+    - "Katherine Group"
+- [2008](/wiki/2008): *[Lembas Extra: Proceedings of the 5th Unquendor Lustrum](/wiki/Lembas_Extra:_Proceedings_of_the_5th_Unquendor_Lustrum)*
+    - "Discussing language history with J.R.R. Tolkien"
+
+### Books {#Books}
+
+- [2008](/wiki/2008): *[Tolkien - min vän Ronald och hans världar](/wiki/Tolkien_-_min_v%C3%A4n_Ronald_och_hans_v%C3%A4rldar)*
+- [2011](/wiki/2011): *[J.R.R. Tolkien's Double Worlds and Creative Process](/wiki/J.R.R._Tolkien%27s_Double_Worlds_and_Creative_Process)*
+
+## External links {#External_links}
+
+- <a class="external text" href="http://universitypost.dk/article/obituary-arne-zettersten-1934-2015" rel="noreferrer noopener" target="_blank">Obituary at University of Copenhagen</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/963-Tolkien_Double_Worlds_Creative_Process.php" rel="noreferrer noopener" target="_blank">Tolkien&#39;s Double Worlds and Creative Process by Arne Zettersten</a>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">&#34;Foreword&#34;, in <i>Worlds of Words. A Tribute to Arne Zettersten. Nordic Journal of English Studies.</i> Special Issue, Volume 3, No. 1 (2004; editor: Cay Dollerup).</span>
+</li>
+</ol></div>

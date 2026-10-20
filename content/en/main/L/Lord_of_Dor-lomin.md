@@ -1,0 +1,13 @@
+---
+title: "Lord of Dor-lomin"
+page_id: 6111
+namespace: 0
+revision_id: 330102
+source_url: "https://tolkiengateway.net/wiki/Lord_of_Dor-lomin"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Lord of Dor-lómin"
+---
+
+Redirect to [Lord of Dor-lómin](/wiki/Lord_of_Dor-lómin).

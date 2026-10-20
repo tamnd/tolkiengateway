@@ -1,0 +1,27 @@
+---
+title: "Shagram"
+display_title: "<span class=\"mw-page-title-main\">Shagram</span>"
+page_id: 57823
+namespace: 0
+revision_id: 336265
+timestamp: "2021-10-14T19:35:50Z"
+source_url: "https://tolkiengateway.net/wiki/Shagram"
+content_sha256: a3b9c74761988101ce25d868a4c3af6147ee3121071de19eb2bcbbab836621f5
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Orcs"
+  - "Servants of Sauron"
+  - "Third Age characters"
+---
+
+**Shagram** was an [Orc](/wiki/Orc) of [Kirith Ungol](/wiki/Cirith_Ungol "Cirith Ungol") in the drafts for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.<sup id="cite_ref-War_1-0" class="reference"><a href="#cite_note-War-1">[1]</a></sup> According to [Christopher Tolkien](/wiki/Christopher_Tolkien), an Orc called "old Nûzu" in even earlier drafts is the same one as Shagram.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-War-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-War_1-0">1.0</a></sup> <sup><a href="#cite_ref-War_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i>, &#34;Part Two: The Ring Goes East&#34;, &#34;VIII. <a class="new" href="/w/index.php?title=Kirith_Ungol&amp;action=edit&amp;redlink=1" title="Kirith Ungol (page does not exist)">Kirith Ungol</a>&#34;, p. 218</span>
+</li>
+</ol></div>

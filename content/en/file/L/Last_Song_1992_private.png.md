@@ -1,0 +1,36 @@
+---
+title: "File:Last Song 1992 private.png"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Last Song 1992 private.png</span>"
+page_id: 61961
+namespace: 6
+revision_id: 349233
+timestamp: "2022-06-18T08:22:42Z"
+source_url: "https://tolkiengateway.net/wiki/File:Last_Song_1992_private.png"
+content_sha256: 0522347b543f7d6011007868f1221f83fe5646821c61b5e0331bae2604800844
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of books"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/2/29/Last_Song_1992_private.png"
+  mime: "image/png"
+  size: 89532
+  width: 350
+  height: 500
+  sha1: "3b1d716fdc7af344053b4753ac02c2c98a97341d"
+  timestamp: "2022-06-16T06:48:15Z"
+  user: "Luotiansha"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

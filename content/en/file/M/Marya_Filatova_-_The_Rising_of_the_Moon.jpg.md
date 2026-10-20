@@ -1,0 +1,34 @@
+---
+title: "File:Marya Filatova - The Rising of the Moon.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Marya Filatova - The Rising of the Moon.jpg</span>"
+page_id: 39130
+namespace: 6
+revision_id: 192469
+timestamp: "2012-04-29T17:46:07Z"
+source_url: "https://tolkiengateway.net/wiki/File:Marya_Filatova_-_The_Rising_of_the_Moon.jpg"
+content_sha256: 807184ae9e72631d1b088c67450ade9c833979ed5fb7a8f54a590b89d12d3890
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Marya Filatova"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/1/17/Marya_Filatova_-_The_Rising_of_the_Moon.jpg"
+  mime: "image/jpeg"
+  size: 289790
+  width: 1000
+  height: 697
+  sha1: "b5e0b0c7914e6db91ccdfe6477891f3d15ddf669"
+  timestamp: "2012-04-29T17:46:07Z"
+  user: "Mith"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Marya Filatova</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Marya_Filatova" title="Marya Filatova">Marya Filatova</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Marya_Filatova" title="Marya Filatova">Marya Filatova</a></li>
+<li><b>Website:</b> <a class="external text" href="http://filat.deviantart.com" rel="noreferrer noopener" target="_blank">Marya Filatova on deviantArt</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Marya_Filatova" title="Tolkien Gateway:Copyrights/Marya Filatova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

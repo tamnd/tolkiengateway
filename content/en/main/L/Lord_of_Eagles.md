@@ -1,0 +1,13 @@
+---
+title: "Lord of Eagles"
+page_id: 2011
+namespace: 0
+revision_id: 440272
+source_url: "https://tolkiengateway.net/wiki/Lord_of_Eagles"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Lord of the Eagles"
+---
+
+Redirect to [Lord of the Eagles](/wiki/Lord_of_the_Eagles).

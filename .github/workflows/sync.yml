@@ -1,0 +1,53 @@
+name: sync
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: corpus-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # The runner must hold a persistent Chrome profile that has been opened by
+    # a user. GitHub-hosted runners are intentionally not used: they have no
+    # durable browser session and cannot complete a site verification flow.
+    runs-on: [self-hosted, linux]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: tamnd/tolkiengateway-reader
+          path: .reader
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: .reader/go.mod
+
+      - name: refresh changed pages
+        working-directory: .reader
+        env:
+          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+          TOLKIENGATEWAY_BROWSER_PROFILE: ${{ vars.TOLKIENGATEWAY_BROWSER_PROFILE }}
+          TOLKIENGATEWAY_BROWSER_HEADLESS: "true"
+        run: go run ./cmd/tgw sync
+
+      - name: open corpus update pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Sync changed Tolkien Gateway pages"
+          title: "Sync changed Tolkien Gateway pages"
+          body: |
+            Automated revision sync from Tolkien Gateway.
+
+            The reader stores the sync high-water mark and writes only pages
+            reported by MediaWiki recentchanges.
+          branch: automation/tolkiengateway-sync
+          delete-branch: true

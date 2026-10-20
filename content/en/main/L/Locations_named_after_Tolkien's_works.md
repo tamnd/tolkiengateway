@@ -1,0 +1,146 @@
+---
+title: "Locations named after Tolkien's works"
+display_title: "<span class=\"mw-page-title-main\">Locations named after Tolkien&#039;s works</span>"
+page_id: 42660
+namespace: 0
+revision_id: 417393
+timestamp: "2025-01-24T23:38:50Z"
+source_url: "https://tolkiengateway.net/wiki/Locations_named_after_Tolkien's_works"
+content_sha256: 750a601162dc96765c464866d003185a63824d8eb77df3d996c9cf2a582ee225
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Pages using ISBN magic links"
+  - "Articles needing expansion"
+  - "Lists"
+  - "Locations (real-world)"
+images:
+  - "CdxIconEdit.svg"
+---
+
+<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
+
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Locations_named_after_Tolkien%27s_works&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
+</p>
+<p class="tg-quote-footer"><cite><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a></cite></p>
+</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+
+Several locations have been given names after fictional locations and characters of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s [Middle-earth](/wiki/Middle-earth) and wider [Legendarium](/wiki/Legendarium).
+
+## Cities {#Cities}
+
+### Geldrop {#Geldrop}
+
+[Geldrop](/wiki/Geldrop) is a Dutch town with a neighbourhood whose streets are all related to Tolkien and his Legendarium.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+### Jacksonville {#Jacksonville}
+
+[Jacksonville](/wiki/Jacksonville) is a city in Florida that has a neighbourhood with street names based on [The Lord of the Rings](/wiki/The_Lord_of_the_Rings) and [The Hobbit](/wiki/The_Hobbit).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Geographical features {#Geographical_features}
+
+### Mountains {#Mountains}
+
+- Mount [Shadowfax](/wiki/Shadowfax).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Mount [Gandalf](/wiki/Gandalf).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Mount [Aragorn](/wiki/Aragorn).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+### Seamounts {#Seamounts}
+
+- [Eriador](/wiki/Eriador) Seamount.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [Rohan](/wiki/Rohan) Seamount.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- [Gondor](/wiki/Gondor) Seamount.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- [Eye of Sauron](/wiki/Eye_of_Sauron) Seamount.<sup id="cite_ref-EOS_9-0" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Barad-dûr](/wiki/Barad-d%C3%BBr) Seamount.<sup id="cite_ref-EOS_9-1" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Ered Lithui](/wiki/Ered_Lithui) Seamount.<sup id="cite_ref-EOS_9-2" class="reference"><a href="#cite_note-EOS-9">[9]</a></sup>
+- [Fangorn](/wiki/Fangorn_Forest "Fangorn Forest") Bank.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+- [Edoras](/wiki/Edoras) Bank.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- [Isengard](/wiki/Isengard) Ridge.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+
+## Astronomy {#Astronomy}
+
+### Titan {#Titan}
+
+[Titan](/wiki/Titan) is one of <a class="extiw" href="http://en.wikipedia.org/wiki/Saturn" title="wikipedia:Saturn">Saturn</a>'s moons. Its mountains (*Montes*) are named after mountains in [Arda](/wiki/Arda) and hills (*colles*) after characters.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+
+The named *montes* of Titan are: [Angmar Montes](/wiki/Mountains_of_Angmar "Mountains of Angmar"), [Dolmed Montes](/wiki/Dolmed "Dolmed"), [Doom Mons](/wiki/Mount_Doom "Mount Doom"), [Echoriat Montes](/wiki/Echoriad "Echoriad"), [Erebor Mons](/wiki/Erebor "Erebor"), [Gram Montes](/wiki/Mount_Gram "Mount Gram"), [Irensaga Montes](/wiki/Irensaga "Irensaga"), [Merlock Montes](/wiki/Merlock_Mountains "Merlock Mountains"), [Mindolluin Montes](/wiki/Mindolluin "Mindolluin"), [Misty Montes](/wiki/Misty_Mountains "Misty Mountains"), [Mithrim Montes](/wiki/Mountains_of_Mithrim "Mountains of Mithrim"), [Rerir Montes](/wiki/Rerir "Rerir"), [Taniquetil Montes](/wiki/Taniquetil "Taniquetil").
+
+### Asteroids {#Asteroids}
+
+- 2991 [Bilbo](/wiki/Bilbo).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+- 2675 Tolkien.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+- 378214 [Sauron](/wiki/Sauron).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+
+### Other {#Other}
+
+- Kuiper Belt object 385446 [Manwë](/wiki/Manw%C3%AB) and its moon [Thorondor](/wiki/Thorondor).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+- Trans-Neptunian object 174567 [Varda](/wiki/Varda) and its moon [Ilmarë](/wiki/Ilmar%C3%AB).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+- A series of regions of Pluto called [Balrog](/wiki/Balrog) Macula.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+- The Eye of Sauron is a nickname given to many objects due to a similar appearance including, the nebulae M 1-42,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Helix Nebula,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> star system HR 4796A,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> and Seyfert galaxy NGC 4151.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/WHL0137-LS" title="wikipedia:WHL0137-LS">Earendel</a>, a star in the constellation of <a class="extiw" href="http://en.wikipedia.org/wiki/Cetus" title="wikipedia:Cetus">Cetus</a>. Even though it is an Anglo-Saxon name that predates Tolkien, the researches involved in its discovery were fans of his works and chose the name for that reason.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[note 1]</a></sup>
+
+## See also {#See_also}
+
+- [Species named after Tolkien's works](/wiki/Species_named_after_Tolkien%27s_works)
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Storm_%C3%89owyn" title="wikipedia:Storm Éowyn">Storm Éowyn</a>
+
+## Notes {#Notes}
+
+<span><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a class="extiw" href="http://en.wiktionary.org/wiki/Earendel" title="wiktionary:Earendel">Earendel</a> is an <a href="/wiki/Old_English" title="Old English">Old English</a> name referring to the morning star. It was borrowed verbatim by Tolkien for his earliest legendarium (<i><a href="/wiki/The_Book_of_Lost_Tales" title="The Book of Lost Tales">The Book of Lost Tales</a></i>) but envisioned as <a href="/wiki/Qenya" title="Qenya">Qenya</a>; it changed to <i>Earendil</i> in the mid-1940s.</span>
+</li>
+</ol></div></span>
+
+## References {#References}
+
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Frank Jacobs (13 February 2016)</span>. <span class="cite-web-article"><a class="external text" href="https://bigthink.com/strange-maps/has-middle-earth-joined-the-eurozone/" rel="noreferrer noopener" target="_blank">&#34;Suburb Designs Its Neighborhood around J.R.R. Tolkien’s Middle-Earth&#34;</a></span>. <span class="cite-web-website">BigThing.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Ennis Davis (5 December 2016)</span>. <span class="cite-web-article"><a class="external text" href="https://www.thejaxsonmag.com/article/10-jax-neighborhoods-with-thematic-street-names-page-2/" rel="noreferrer noopener" target="_blank">&#34;10 Jax neighborhoods with thematic street names&#34;</a></span>. <span class="cite-web-website">TheJaxsonMag.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://apps.gov.bc.ca/pub/bcgnws/names/58360.html" rel="noreferrer noopener" target="_blank">&#34;Mount Shadowfax&#34;</a></span>. <span class="cite-web-website">www2.gov.bc.ca/</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://apps.gov.bc.ca/pub/bcgnws/names/58340.html" rel="noreferrer noopener" target="_blank">&#34;Mount Gandalf&#34;</a></span>. <span class="cite-web-website">www2.gov.bc.ca/</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://apps.gov.bc.ca/pub/bcgnws/names/9159.html" rel="noreferrer noopener" target="_blank">&#34;Mount Aragorn&#34;</a></span>. <span class="cite-web-website">www2.gov.bc.ca/</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.marineregions.org/gazetteer.php?p=details&amp;id=4216" rel="noreferrer noopener" target="_blank">&#34;Eriador Seamount&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://marineregions.org/gazetteer.php?p=details&amp;id=4964" rel="noreferrer noopener" target="_blank">&#34;Rohan Seamount&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://marineregions.org/gazetteer.php?p=details&amp;id=4965" rel="noreferrer noopener" target="_blank">&#34;Gondor Seamount&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-EOS-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-EOS_9-0">9.0</a></sup> <sup><a href="#cite_ref-EOS_9-1">9.1</a></sup> <sup><a href="#cite_ref-EOS_9-2">9.2</a></sup></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Harry Baker (23 July 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.livescience.com/eye-of-sauron-deep-sea-volcano.html" rel="noreferrer noopener" target="_blank">&#34;Eye of Sauron&#39; volcano and other deep-sea structures discovered in underwater &#39;Mordor&#34;</a></span>. <span class="cite-web-website">livescience.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.marineregions.org/gazetteer.php?p=details&amp;id=4963" rel="noreferrer noopener" target="_blank">&#34;Fangorn Bank&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.marineregions.org/gazetteer.php?p=details&amp;id=4217" rel="noreferrer noopener" target="_blank">&#34;Edoras Bank&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://marineregions.org/gazetteer.php?p=details&amp;id=4962" rel="noreferrer noopener" target="_blank">&#34;Isengard Ridge&#34;</a></span>. <span class="cite-web-website">MarineRegions.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Gabrielle Barone</span>. <span class="cite-web-article"><a class="external text" href="https://airandspace.si.edu/stories/editorial/unexpected-journey-tolkien-titan" rel="noreferrer noopener" target="_blank">&#34;The Unexpected Journey from Tolkien to Titan&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://airandspace.si.edu" rel="noreferrer noopener" target="_blank">airandspace.si.edu</a></span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">IAU Minor Planet Center (3 August 2018)</span>. <span class="cite-web-article"><a class="external text" href="http://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=2991" rel="noreferrer noopener" target="_blank">&#34;(2991) Bilbo = 1975 JC = 1979 SY3 = 1982 HV = 1982 KB2&#34;</a></span>. <span class="cite-web-website">MinorPlanetCenter.net</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Schmadel, Lutz D. (2007). &#34;(2675) Tolkien&#34;. Dictionary of Minor Planet Names – (2675) Tolkien. Springer Berlin Heidelberg. p. 219. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9783540002383">ISBN 978-3-540-00238-3</a>.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">IAU Minor Planet Center</span>. <span class="cite-web-article"><a class="external text" href="https://minorplanetcenter.net/db_search/show_object?object_id=378214" rel="noreferrer noopener" target="_blank">&#34;(378214) Sauron = 2007 AP11&#34;</a></span>. <span class="cite-web-website">MinorPlanetCenter.net</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://academic-accelerator.com/encyclopedia/385446-manwe" rel="noreferrer noopener" target="_blank">&#34;385446 Manwe&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://academic-accelerator.com" rel="noreferrer noopener" target="_blank">academic-accelerator.com</a></span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">IAU Minor Planet Center</span>. <span class="cite-web-article"><a class="external text" href="https://www.minorplanetcenter.net/db_search/show_object?object_id=174567" rel="noreferrer noopener" target="_blank">&#34;(174567) Varda = 2003 MW12&#34;</a></span>. <span class="cite-web-website">MinorPlanetCenter.net</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Adam Rogers</span>. <span class="cite-web-article"><a class="external text" href="https://www.wired.com/2015/07/new-nerdy-mythology-plutos-place-names/" rel="noreferrer noopener" target="_blank">&#34;The New, Nerdy Mythology of Pluto&#39;s Place Names&#34;</a></span>. <span class="cite-web-website">Wired.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://tgdaily.com/science/space/69866-the-eye-of-sauron-is-nebula-eso-456-67/" rel="noreferrer noopener" target="_blank">&#34;The Eye Of Sauron Is Nebula ESO 456-67&#34;</a></span>. <span class="cite-web-website">tgdaily.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Paulo Lobao</span>. <span class="cite-web-article"><a class="external text" href="https://skyandtelescope.org/online-gallery/the-eye-of-sauron-aka-ngc7293/" rel="noreferrer noopener" target="_blank">&#34;The Eye of Sauron (AKA NGC7293)&#34;</a></span>. <span class="cite-web-website">SkyandTelescope.org</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Flora Graham</span>. <span class="cite-web-article"><a class="external text" href="https://www.newscientist.com/article/dn25676-eye-of-sauron-star-spotted-by-planet-hunting-camera/" rel="noreferrer noopener" target="_blank">&#34;Eye of Sauron star spotted by planet-hunting camera&#34;</a></span>. <span class="cite-web-website">NewScientist.com</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://chandra.harvard.edu/photo/2011/n4151/" rel="noreferrer noopener" target="_blank">&#34;NGC 4151: An Active Black Hole in the &#34;Eye of Sauron&#34;&#34;</a></span>. <span class="cite-web-website">chandra.Harvard.edu</span>. <span class="cite-web-accessed">Retrieved 4 February 2024</span></cite></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.space.com/hubble-most-distant-star-tolkien-name-earendil" rel="noreferrer noopener" target="_blank">Meet Earendel: Hubble telescope&#39;s most distant star discovery gets a Tolkien-inspired name</a>, space.com (accessed 6 February 2024)</span>
+</li>
+</ol></div>

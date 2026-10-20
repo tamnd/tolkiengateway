@@ -1,0 +1,31 @@
+---
+title: "Cāno"
+display_title: "cāno"
+page_id: 43081
+namespace: 0
+revision_id: 387368
+timestamp: "2024-03-11T06:34:21Z"
+source_url: "https://tolkiengateway.net/wiki/Cāno"
+content_sha256: 6ec454faeb5fa4a66e2a64fbe644d85714c351f314c830f66cb3b911110d6d3b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Telerin nouns"
+sort_keys:
+  "Telerin nouns": "Cano"
+---
+
+<i><b>cāno</b></i> means "herald" in [Telerin](/wiki/Telerin).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+
+## Etymology {#Etymology}
+
+- [Root](/wiki/Sundocarme "Sundocarme"): [Common Eldarin](/wiki/Common_Eldarin) [KAN](/wiki/KAN)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XI. <a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>&#34; p. 362</span>
+</li>
+</ol></div>

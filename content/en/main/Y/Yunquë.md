@@ -1,0 +1,77 @@
+---
+title: "Yunquë"
+display_title: "yunquë"
+page_id: 23246
+namespace: 0
+revision_id: 434796
+timestamp: "2026-02-13T12:17:42Z"
+source_url: "https://tolkiengateway.net/wiki/Yunquë"
+content_sha256: 5f8ca9cacf503b04d35d0a5cd1e2c0acc134aa0b9f0d211b6b8577311f00f5de
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya numbers"
+sort_keys:
+  "Quenya numbers": "012"
+---
+
+<table align="right" cellpadding="6" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size:normalborder-radius:var(--tg-border-radius-large);border-radius:var(--tg-border-radius-large);">
+<tbody><tr>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px"><a href="/wiki/Quenya_numbers" title="Quenya numbers">Quenya numbers</a>
+</th></tr>
+<tr>
+<td>
+<p><small>
+</small></p><small>
+<ul><li><i><b><a href="/wiki/Min%C3%AB" title="Minë">minë</a></b></i> = one</li>
+<li><i><b><a href="/wiki/Atta" title="Atta">atta</a></b></i> = two</li>
+<li><i><b><a href="/wiki/Neld%C3%AB" title="Neldë">neldë</a></b></i> = three</li>
+<li><i><b><a href="/wiki/Canta" title="Canta">canta</a></b></i> = four</li>
+<li><i><b><a href="/wiki/Lemp%C3%AB" title="Lempë">lempë</a></b></i> = five</li>
+<li><i><b><a href="/wiki/Enqu%C3%AB" title="Enquë">enquë</a></b></i> = six</li>
+<li><i><b><a href="/wiki/Otso" title="Otso">otso</a></b></i> = seven</li>
+<li><i><b><a href="/wiki/Tolto" title="Tolto">tolto</a></b></i> = eight</li>
+<li><i><b><a href="/wiki/Nert%C3%AB" title="Nertë">nertë</a></b></i> = nine</li>
+<li><i><b><a href="/wiki/Cainen" title="Cainen">cainen</a></b></i> = ten</li>
+<li><i><b><a href="/wiki/Minqu%C3%AB" title="Minquë">minquë</a></b></i> = eleven</li>
+<li><i><b><a class="mw-selflink selflink">yunquë</a></b></i> = twelve</li>
+<li><i><b><a href="/wiki/Haran" title="Haran">haran</a></b></i> = one hundred</li></ul>
+</small><p><small></small>
+</p>
+</td></tr></tbody></table>
+
+**yunquë** is the [Quenya](/wiki/Quenya) word for the number twelve.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Etymology {#Etymology}
+
+It is a composite from <i><a class="new" href="/w/index.php?title=Y%C3%BA&amp;action=edit&amp;redlink=1" title="Yú (page does not exist)">yú</a> + <a class="new" href="/w/index.php?title=Ence&amp;action=edit&amp;redlink=1" title="Ence (page does not exist)">ence</a></i> "double six". [PQ](/wiki/PQ) form given also as *yu-(e)neke* &gt; *yunuk(w)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> &gt; *yunke*.
+
+Note that both *ence* and *yunce* were later changed to *enque* and *yunque* due to the influence of *[minquë](/wiki/Minqu%C3%AB "Minquë")*. After that, *yunque* is perceived as *yú + enque*
+
+## Cognates {#Cognates}
+
+- [Telerin](/wiki/Telerin) <i><a class="new" href="/w/index.php?title=Yumpe&amp;action=edit&amp;redlink=1" title="Yumpe (page does not exist)">yumpe</a></i> (from original <i><a class="new" href="/w/index.php?title=Yunece&amp;action=edit&amp;redlink=1" title="Yunece (page does not exist)">yunece</a></i>)
+- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Yneb&amp;action=edit&amp;redlink=1" title="Yneb (page does not exist)">yneb</a></i> (from original <i><a class="new" href="/w/index.php?title=Yneg&amp;action=edit&amp;redlink=1" title="Yneg (page does not exist)">yneg</a></i>)
+
+## Other versions {#Other_versions}
+
+An earlier word for "twelve" was *rasta*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> seen in the word <i><a class="new" href="/w/index.php?title=Y%C3%BArasta&amp;action=edit&amp;redlink=1" title="Yúrasta (page does not exist)">yúrasta</a></i> "24; double-12".
+
+It was also supported by the stem <a class="new" href="/w/index.php?title=R%C3%81SAT&amp;action=edit&amp;redlink=1" title="RÁSAT (page does not exist)">RÁSAT</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Two&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>: Appendix: The Eldarin numerals&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 24</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>: Editorial Notes&#34; (by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001,  p. 31</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Early Qenya and The Valmaric Script&#34;, in <a href="/wiki/Parma_Eldalamberon_14" title="Parma Eldalamberon 14"><i>Parma Eldalamberon</i> XIV</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>), p. 17, note 6.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://www.uib.no/People/hnohf/numerals.htm" rel="noreferrer noopener" target="_blank">Quenya numbers</a>&#34; at <a class="external text" href="http://www.uib.no/People/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a>, as of 27 September 2010</span>
+</li>
+</ol></div>

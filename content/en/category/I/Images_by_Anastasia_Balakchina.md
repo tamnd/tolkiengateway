@@ -1,0 +1,18 @@
+---
+title: "Category:Images by Anastasia Balakchina"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Anastasia Balakchina</span>"
+page_id: 72778
+namespace: 14
+revision_id: 431422
+timestamp: "2026-01-25T14:47:01Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_by_Anastasia_Balakchina"
+content_sha256: fe5d443ff9f8bf2578c0db6ea03a4c2051426281156f71f4a1745f3364bbe881
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by artist"
+sort_keys:
+  "Images by artist": "Balakchina, Anastasia"
+---
+
+This category lists all **images by [Anastasia Balakchina](/wiki/Anastasia_Balakchina)**.

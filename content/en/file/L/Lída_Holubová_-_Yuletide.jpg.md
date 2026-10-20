@@ -1,0 +1,36 @@
+---
+title: "File:Lída Holubová - Yuletide.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lída Holubová - Yuletide.jpg</span>"
+page_id: 60512
+namespace: 6
+revision_id: 339525
+timestamp: "2021-12-23T20:34:50Z"
+source_url: "https://tolkiengateway.net/wiki/File:Lída_Holubová_-_Yuletide.jpg"
+content_sha256: 7445755a5f9a5cf8cbbcc9226861794e0593e92bb3c1d14cd1143ad9af9bc77e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Lída Holubová"
+  - "Images of Hobbits"
+  - "Images of the Shire"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/e5/L%C3%ADda_Holubov%C3%A1_-_Yuletide.jpg"
+  mime: "image/jpeg"
+  size: 513368
+  width: 1377
+  height: 1737
+  sha1: "a8a17ee2ff358abd5f525d42ba2c9d49625e0694"
+  timestamp: "2021-12-23T20:31:36Z"
+  user: "Quentandil"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Lída Holubová</span></span>
+<p>This work is copyrighted and owned by Lída Holubová‎. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Lída Holubová‎</li>
+<li><b>Website:</b> <a class="external text" href="http://aegeri.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="http://www.facebook.com/aegeri.illustration/" rel="noreferrer noopener" target="_blank">Facebook</a> · <a class="external text" href="http://aegeribelegore.blog.cz/" rel="noreferrer noopener" target="_blank">Blog</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C3%ADda_Holubov%C3%A1" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

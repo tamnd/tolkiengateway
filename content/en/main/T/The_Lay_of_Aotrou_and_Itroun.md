@@ -1,0 +1,339 @@
+---
+title: "The Lay of Aotrou and Itroun"
+display_title: "<i>The Lay of Aotrou and Itroun</i>"
+page_id: 7326
+namespace: 0
+revision_id: 439246
+timestamp: "2026-06-10T09:36:42Z"
+source_url: "https://tolkiengateway.net/wiki/The_Lay_of_Aotrou_and_Itroun"
+content_sha256: 5e789c4d203dec3df53eb75265ee48978a0910623f7a020a1d15ac1c87c28d32
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Books by J.R.R. Tolkien"
+  - "Books by Verlyn Flieger"
+  - "Poems by J.R.R. Tolkien"
+  - "Poetry books"
+  - "Fiction books"
+  - "Posthumous publications"
+  - "Publications by title"
+  - "Pages using ISBN magic links"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Lay of Aotrou and Itroun, The"
+  "Books by J.R.R. Tolkien": "Lay of Aotrou and Itroun, The"
+  "Books by Verlyn Flieger": "Lay of Aotrou and Itroun, The"
+  "Poems by J.R.R. Tolkien": "Lay of Aotrou and Itroun, The"
+  "Poetry books": "Lay of Aotrou and Itroun, The"
+  "Fiction books": "Lay of Aotrou and Itroun, The"
+  "Posthumous publications": "Lay of Aotrou and Itroun, The"
+  "Publications by title": "Lay of Aotrou and Itroun, The"
+  "Pages using ISBN magic links": "Lay of Aotrou and Itroun, The"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "The Lay of Aotrou and Itroun"
+    url: "https://www.ardapedia.org/wiki/The_Lay_of_Aotrou_and_Itroun"
+  - lang: "fi"
+    name: "suomi"
+    title: "The Lay of Aotrou and Itroun"
+    url: "https://kontu.wiki/The_Lay_of_Aotrou_and_Itroun"
+images:
+  - "The_Lay_of_Aotrou_and_Itroun.jpg"
+  - "Welsh_Review_1945.jpeg"
+  - "Pesma_o_Otruu_i_Itrun.jpg"
+  - "Pesma_o_Otruu_i_Itrun_2015.jpg"
+  - "The_Lay_of_Aotrou_and_Itroun_paperback.jpeg"
+  - "The_Lay_of_Aotrou_and_Itroun_2026.jpg"
+  - "J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg"
+infobox:
+  - label: "Author"
+    value: "J.R.R. Tolkien"
+  - label: "Editor"
+    value: "Verlyn Flieger"
+  - label: "Publisher"
+    value: "HarperCollins"
+  - label: "Released"
+    value: "December 1945; Separate book: 3 November 2016"
+  - label: "Format"
+    value: "Hardcover; paperback"
+  - label: "Pages"
+    value: "128"
+  - label: "ISBN"
+    value: "0008202133"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lay_of_Aotrou_and_Itroun.jpg"><img src="/w/images/thumb/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg/307px-The_Lay_of_Aotrou_and_Itroun.jpg" decoding="async" loading="lazy" width="307" height="480" class="mw-file-element" srcset="/w/images/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg 1.5x" data-file-width="415" data-file-height="648"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lay of Aotrou and Itroun,<br/><small>together with the Corrigan Poems</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="/wiki/1945" title="1945">1945</a><br/>Separate book: <a href="/wiki/3_November" title="3 November">3 November</a> <a href="/wiki/2016" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="/wiki/Special:BookSources/0008202133" title="Special:BookSources/0008202133">0008202133</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>The Lay of Aotrou and Itroun, together with the Corrigan Poems</b></i> is a book presenting a long poem written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in [1930](/wiki/1930), first published in *[The Welsh Review](</wiki/The_Welsh_Review_(Vol.IV,_No.4)> "The Welsh Review (Vol.IV, No.4)")* in December [1945](/wiki/1945). It was published in its own volume in [2016](/wiki/2016), edited by [Verlyn Flieger](/wiki/Verlyn_Flieger), together with two shorter poems.
+
+*Aotrou* and *Itroun* are <a class="extiw" href="http://en.wikipedia.org/wiki/Breton_language" title="wikipedia:Breton language">Breton</a> words for "lord" and "lady". The poem is modelled on the genre of the "<a class="extiw" href="http://en.wikipedia.org/wiki/Breton_lai" title="wikipedia:Breton lai">Breton lay</a>" popular in Middle English literature of the 12th century, and it explores the conflict of heroic or chivalric values and Christianity, and their relation to the institution of marriage.
+
+## Contents {#Contents}
+
+- Cover
+- Title Page
+- Copyright
+- List of Plates
+- Epitaph
+- Note on the Text
+- Introduction
+- Acknowledgments
+
+- Part One: *The Lay of Aotrou and Itroun*
+    - *The Lay of Aotrou and Itroun*
+    - Notes and Commentary
+
+- Part Two: *The Corrigan* Poems
+    - Introduction
+    - 'The Corrigan' I
+    - Notes and Commentary
+    - 'The Corrigan' II: A Breton Lay - after: 'Aotrou Nann Hag ar Gorrigan' a lay of Leon
+    - Notes and Commentary
+
+- Part Three: The Fragment, Manuscript Drafts and Typescript
+    - The Fragment
+    - The Manuscript Drafts
+    - *Aotrou &amp; Itroun* (fair copy manuscript)
+    - Notes and Commentary
+    - The Typescript
+    - Commentary
+
+- Part Four: Comparative Verses
+    - Comparative Verses
+    - *Opening verses: Breton, French, English*; Tolkien
+    - *Closing verses: Breton, French, English*; Tolkien
+- Footnotes
+- Works Cited
+- About the Author and Editor
+- Works by J.R.R. Tolkien
+- Read More from J.R.R. Tolkien
+
+## Sources {#Sources}
+
+A major source for the poem has been identified as the Breton song *An Aotrou Nann hag ar Gorigann* (Lord Nann and the Fairy), which Tolkien probably knew through Wimberly's *Folklore in the English and Scottish Ballads* (1928).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien adds to his source a stern moral – repudiation of all traffic with the supernatural.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+## Theme {#Theme}
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg"><img src="/w/images/thumb/0/09/J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg/300px-J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg" decoding="async" loading="lazy" width="300" height="381" class="mw-file-element" srcset="/w/images/thumb/0/09/J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg/450px-J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg 1.5x, /w/images/thumb/0/09/J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg/600px-J.R.R._Tolkien_-_Aotrou_and_Itroun.jpg 2x" data-file-width="945" data-file-height="1200"/></a><figcaption>First folio of the manuscript</figcaption></figure>
+
+In the poem, Aotrou and Itroun are a couple of Breton nobility. They are childless, and Aotrou seeks the help of a witch. When Itroun is with child, the witch reappears, revealing herself as the Corrigan, and asks for Aotrou's love as payment. Aotrou sacrifices his knightly honour to Christian values, and breaks his word.
+
+<blockquote class="tg-quote noexcerpt">
+<p>&#34;I gave no love. My love is wed;<br/>
+my wife now lieth in child-bed,<br/>
+and I curse the beast that cheated me<br/>
+and drew me to this dell to thee.&#34;
+</p>
+</blockquote>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+Cursed by the Corrigan to die in three days, Aotrou takes the consequences and places his trust in Providence:
+
+<blockquote class="tg-quote noexcerpt">
+<p>In three days I shall live at ease<br/>
+and die but when it God doth please<br/>
+in eld, or in some time to come<br/>
+in the brave wars of Christendom.
+</p>
+</blockquote>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
+
+Aotrou died after three days, followed by his wife with a broken heart. They are buried together, and they do not live to see their offspring grow up.
+
+## Relation to the legendarium {#Relation_to_the_legendarium}
+
+While not being among Tolkien's works on the [legendarium](/wiki/Legendarium "Legendarium"), *The Lay of Aotrou and Itroun* includes aspects which appear to have inspired his tales of [Arda](/wiki/Arda):
+
+- It has been noted that Tolkien [re-used a phrase from the poem](/wiki/Ere_iron_was_found_or_tree_was_hewn#Inspiration "Ere iron was found or tree was hewn") in *[The Two Towers](/wiki/The_Two_Towers)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- The *corrigan* has been recognized as a pre-cursor of [Galadriel](/wiki/Galadriel).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+## Publication history and gallery {#Publication_history_and_gallery}
+
+Initially *The Lay of Aotrou and Itroun* was published in *[The Welsh Review](</wiki/The_Welsh_Review_(Vol.IV,_No.4)> "The Welsh Review (Vol.IV, No.4)")* vol.IV, no.4 in [1945](/wiki/1945).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+More than 50 years later, the poem was first reprinted as a bilingual (Serbian/English) standalone book *[Pesma o Otruu i Itrun](/wiki/Pesma_o_Otruu_i_Itrun)* in [2002](/wiki/2002), in a limited edition of 500 copies.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> An expanded edition of it was published in June [2015](/wiki/2015).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+
+The poem was published fully in English on 3 November [2016](/wiki/2016), edited by Verlyn Flieger.
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Welsh_Review_1945.jpeg" title="1945 Welsh Review vol. IV, no. 4"><img alt="1945 Welsh Review vol. IV, no. 4" src="/w/images/thumb/d/df/Welsh_Review_1945.jpeg/109px-Welsh_Review_1945.jpeg" decoding="async" loading="lazy" width="109" height="125" class="mw-file-element" srcset="/w/images/thumb/d/df/Welsh_Review_1945.jpeg/164px-Welsh_Review_1945.jpeg 1.5x, /w/images/thumb/d/df/Welsh_Review_1945.jpeg/218px-Welsh_Review_1945.jpeg 2x" data-file-width="650" data-file-height="744"/></a></span></div>
+			<div class="gallerytext">
+<p>1945 <i>Welsh Review</i> vol. IV, no. 4
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Pesma_o_Otruu_i_Itrun.jpg" title="2002 Serbian/ English edition"><img alt="2002 Serbian/ English edition" src="/w/images/thumb/1/13/Pesma_o_Otruu_i_Itrun.jpg/78px-Pesma_o_Otruu_i_Itrun.jpg" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="/w/images/thumb/1/13/Pesma_o_Otruu_i_Itrun.jpg/118px-Pesma_o_Otruu_i_Itrun.jpg 1.5x, /w/images/thumb/1/13/Pesma_o_Otruu_i_Itrun.jpg/156px-Pesma_o_Otruu_i_Itrun.jpg 2x" data-file-width="499" data-file-height="797"/></a></span></div>
+			<div class="gallerytext">
+<p>2002 Serbian/<br/>English edition
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Pesma_o_Otruu_i_Itrun_2015.jpg" title="2015 Serbian/ English edition"><img alt="2015 Serbian/ English edition" src="/w/images/thumb/0/04/Pesma_o_Otruu_i_Itrun_2015.jpg/88px-Pesma_o_Otruu_i_Itrun_2015.jpg" decoding="async" loading="lazy" width="88" height="125" class="mw-file-element" srcset="/w/images/thumb/0/04/Pesma_o_Otruu_i_Itrun_2015.jpg/133px-Pesma_o_Otruu_i_Itrun_2015.jpg 1.5x, /w/images/thumb/0/04/Pesma_o_Otruu_i_Itrun_2015.jpg/177px-Pesma_o_Otruu_i_Itrun_2015.jpg 2x" data-file-width="318" data-file-height="450"/></a></span></div>
+			<div class="gallerytext">
+<p>2015 Serbian/<br/>English edition
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Lay_of_Aotrou_and_Itroun.jpg" title="2016 hardcover"><img alt="2016 hardcover" src="/w/images/thumb/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg/80px-The_Lay_of_Aotrou_and_Itroun.jpg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="/w/images/thumb/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg/120px-The_Lay_of_Aotrou_and_Itroun.jpg 1.5x, /w/images/thumb/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg/160px-The_Lay_of_Aotrou_and_Itroun.jpg 2x" data-file-width="415" data-file-height="648"/></a></span></div>
+			<div class="gallerytext">
+<p>2016 hardcover
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Lay_of_Aotrou_and_Itroun_paperback.jpeg" title="2019 paperback"><img alt="2019 paperback" src="/w/images/thumb/4/44/The_Lay_of_Aotrou_and_Itroun_paperback.jpeg/81px-The_Lay_of_Aotrou_and_Itroun_paperback.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="/w/images/thumb/4/44/The_Lay_of_Aotrou_and_Itroun_paperback.jpeg/122px-The_Lay_of_Aotrou_and_Itroun_paperback.jpeg 1.5x, /w/images/thumb/4/44/The_Lay_of_Aotrou_and_Itroun_paperback.jpeg/163px-The_Lay_of_Aotrou_and_Itroun_paperback.jpeg 2x" data-file-width="500" data-file-height="768"/></a></span></div>
+			<div class="gallerytext">
+<p>2019 paperback
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 160px">
+			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Lay_of_Aotrou_and_Itroun_2026.jpg" title="2026 hardcover (boxed set)"><img alt="2026 hardcover (boxed set)" src="/w/images/thumb/3/3a/The_Lay_of_Aotrou_and_Itroun_2026.jpg/94px-The_Lay_of_Aotrou_and_Itroun_2026.jpg" decoding="async" loading="lazy" width="94" height="125" class="mw-file-element" srcset="/w/images/thumb/3/3a/The_Lay_of_Aotrou_and_Itroun_2026.jpg/141px-The_Lay_of_Aotrou_and_Itroun_2026.jpg 1.5x, /w/images/thumb/3/3a/The_Lay_of_Aotrou_and_Itroun_2026.jpg/187px-The_Lay_of_Aotrou_and_Itroun_2026.jpg 2x" data-file-width="3024" data-file-height="4032"/></a></span></div>
+			<div class="gallerytext">
+<p>2026 hardcover (boxed set)
+</p>
+			</div>
+		</li>
+</ul>
+
+- Cardiff: Penmark Press Ltd. paperback ([1945](/wiki/1945))
+- Snoviđenja: paperback ([2002](/wiki/2002)), pp. 88. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/8690282939">ISBN 8690282939</a>
+- Snoviđenja: hardcover ([2015](/wiki/2015)), pp. 287. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/8691884509">ISBN 8691884509</a>
+- [HarperCollins](/wiki/HarperCollins) hardcover ([2016](/wiki/2016)), pp. 128. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0008202133">ISBN 0008202133</a>
+- [HarperCollins](/wiki/HarperCollins) paperback ([2019](/wiki/2019)), <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/000820215X">ISBN 000820215X</a>
+- [HarperCollins](/wiki/HarperCollins) hardcover with reversable dustjacket ([2026](/wiki/2026)), <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780008795184">ISBN 978-0008795184</a> (box) - ([Myths &amp; Legends](/wiki/Christopher_Tolkien_Centenary_Boxed_Sets "Christopher Tolkien Centenary Boxed Sets") #2)
+
+## See also {#See_also}
+
+- *[The Story of Kullervo](/wiki/The_Story_of_Kullervo)*
+- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+
+## External links {#External_links}
+
+- [Dimitra Fimi](/wiki/Dimitra_Fimi), <a class="external text" href="https://muse.jhu.edu/article/678504" rel="noreferrer noopener" target="_blank">Review of the book</a>, [Tolkien Studies. 14](/wiki/Tolkien_Studies:_Volume_14 "Tolkien Studies: Volume 14")
+- <a class="external text" href="http://ae-lib.org.ua/texts-c/tolkien__the_lay_of_aotrou_and_itroun__en.htm" rel="noreferrer noopener" target="_blank">The Lay of Aotrou and Itroun</a> full text
+- <a class="external text" href="http://lingwe.blogspot.com/2015/08/a-standalone-edition-of-lay-of-aotrou.html" rel="noreferrer noopener" target="_blank">2015 Serbian/English edition</a> review
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tom Shippey, <i><a href="/wiki/The_Road_to_Middle-earth" title="The Road to Middle-earth">The Road to Middle-earth</a></i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tom Shippey, <i><a href="/wiki/J.R.R._Tolkien:_Author_of_the_Century" title="J.R.R. Tolkien: Author of the Century">J.R.R. Tolkien: Author of the Century</a></i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Alan Reynolds (5 December 2016)</span>. <span class="cite-web-article"><a class="external text" href="http://www.facebook.com/groups/TheTolkienSociety.EducationalCharity/permalink/10154585138321068/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Society Facebook group post&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.facebook.com" rel="noreferrer noopener" target="_blank">Facebook</a></span>. <span class="cite-web-accessed">Retrieved 5 December 2016</span></cite></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a> (ed.), <i><a class="mw-selflink selflink">The Lay of Aotrou and Itroun, together with the Corrigan Poems</a></i>, &#34;Introduction&#34;, p. xvi</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=31350" rel="noreferrer noopener" target="_blank">&#34;Welsh Review. 1945&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 22 June 2013</span></cite></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.unesco.org/xtrans/bsresult.aspx?lg=0&amp;a=Tolkien&amp;l=srp&amp;fr=10" rel="noreferrer noopener" target="_blank">&#34;Index Translationum (search result for Tolkien + Serbian)&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.unesco.org" rel="noreferrer noopener" target="_blank">Unesco.org</a></span>. <span class="cite-web-accessed">Retrieved 22 June 2013</span></cite></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.art-anima.com/pesma-o-otruu-i-itrun/" rel="noreferrer noopener" target="_blank">PESMA O OTRUU I ITRUN – Dž.R.R. Tolkin</a> on Art-Anima</span>
+</li>
+</ol></div>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<!-- -->
+<tbody><tr>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>A <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> book guide</b>
+</th></tr>
+<tr>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by or mainly by Tolkien</b>
+</td></tr>
+<tr>
+<th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="/wiki/Arda" title="Arda">Arda</a>
+</th>
+<th width="120px" align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Authored by<br/>J.R.R. Tolkien
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i><br/>(i.<i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> · ii.<i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i> · iii.<i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>) ·<br/><i><a href="/wiki/The_Adventures_of_Tom_Bombadil" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i> · <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i> · <i><a href="/wiki/Bilbo%27s_Last_Song_(at_the_Grey_Havens)" title="Bilbo&#39;s Last Song (at the Grey Havens)">Bilbo&#39;s Last Song</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a>
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">The History of Middle-earth</a></i> series<br/>(i.<i><a href="/wiki/The_Book_of_Lost_Tales:_Part_One" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="/wiki/The_Book_of_Lost_Tales:_Part_Two" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="/wiki/The_Lays_of_Beleriand" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="/wiki/The_Shaping_of_Middle-earth" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="/wiki/The_Return_of_the_Shadow" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="/wiki/Sauron_Defeated" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="/wiki/The_History_of_Middle-earth_Index" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="/wiki/Beren_and_L%C3%BAthien" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="/wiki/The_Fall_of_Gondolin" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by others
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Annotated_Hobbit" title="The Annotated Hobbit">The Annotated Hobbit</a></i> · <i><a href="/wiki/The_History_of_The_Hobbit" title="The History of The Hobbit">The History of The Hobbit</a></i> · <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> · <i><a href="/wiki/The_Fall_of_N%C3%BAmenor" title="The Fall of Númenor">The Fall of Númenor</a></i>
+</td></tr>
+<tr>
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Not on Arda
+</th>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Short stories<br/>and others
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/Leaf_by_Niggle" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="/wiki/Farmer_Giles_of_Ham" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="/wiki/Smith_of_Wootton_Major" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="/wiki/Letters_from_Father_Christmas" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a href="/wiki/Mr._Bliss" title="Mr. Bliss">Mr. Bliss</a></i> · <i><a href="/wiki/Roverandom" title="Roverandom">Roverandom</a></i> · <i><a href="/wiki/Tree_and_Leaf" title="Tree and Leaf">Tree and Leaf</a></i> (compilation) · <i><a href="/wiki/Tales_from_the_Perilous_Realm" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (compilation) · <i><a href="/wiki/The_Bovadium_Fragments:_together_with_The_Origin_of_Bovadium" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Fictional works
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Legend_of_Sigurd_and_Gudr%C3%BAn" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i> · <i><a href="/wiki/The_Fall_of_Arthur" title="The Fall of Arthur">The Fall of Arthur</a></i> · <i><a href="/wiki/The_Story_of_Kullervo" title="The Story of Kullervo">The Story of Kullervo</a></i> · <i><a class="mw-selflink selflink">The Lay of Aotrou and Itroun</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Translations and academic works
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo" title="Sir Gawain and the Green Knight, Pearl, and Sir Orfeo">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</a></i> · <i><a href="/wiki/The_Old_English_Exodus" title="The Old English Exodus">The Old English Exodus</a></i> · <i><a href="/wiki/Finn_and_Hengest:_The_Fragment_and_the_Episode" title="Finn and Hengest: The Fragment and the Episode">Finn and Hengest</a></i> ·<br/><i><a href="/wiki/The_Monsters_and_the_Critics,_and_Other_Essays" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i> · <i><a href="/wiki/Beowulf_and_the_Critics" title="Beowulf and the Critics">Beowulf and the Critics</a></i> · <i><a href="/wiki/Tolkien_On_Fairy-stories" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a></i> ·<br/><i><a href="/wiki/Beowulf:_A_Translation_and_Commentary" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></i> · <i><a href="/wiki/A_Secret_Vice:_Tolkien_on_Invented_Languages" title="A Secret Vice: Tolkien on Invented Languages">A Secret Vice</a></i> · <i><a href="/wiki/The_Battle_of_Maldon:_together_with_The_Homecoming_of_Beorhtnoth" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Letters &amp; poems
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> · <i><a href="/wiki/The_Collected_Poems_of_J.R.R._Tolkien" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Other<br/>academic works
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/A_Middle_English_Reader_and_Vocabulary" title="A Middle English Reader and Vocabulary">A Middle English Vocabulary</a></i> · <i><a href="/wiki/Sir_Gawain_and_the_Green_Knight_(edition)" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i> · <i><a href="/wiki/Ancrene_Wisse" title="Ancrene Wisse">Ancrene Wisse</a></i>
+</td></tr>
+<tr>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by other authors</b>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Books on Arda
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i> ·<br/><i><a href="/wiki/The_Maps_of_Middle-earth" title="The Maps of Middle-earth">The Maps of Middle-earth</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tolkien biographies
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/J.R.R._Tolkien:_A_Biography" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i> · <i><a href="/wiki/The_Inklings_(book)" title="The Inklings (book)">The Inklings</a></i> · <i><a href="/wiki/Tolkien_and_the_Great_War" title="Tolkien and the Great War">Tolkien and the Great War</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly books
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/The_Road_to_Middle-earth" title="The Road to Middle-earth">The Road to Middle-earth</a></i> · <i><a href="/wiki/The_Keys_of_Middle-earth" title="The Keys of Middle-earth">The Keys of Middle-earth</a></i> · <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> ·<br/><i><a href="/wiki/The_Ring_of_Words" title="The Ring of Words">The Ring of Words</a></i> · <i><a href="/wiki/A_Companion_to_J.R.R._Tolkien" title="A Companion to J.R.R. Tolkien">A Companion to J.R.R. Tolkien</a></i> · <i><a href="/wiki/Tolkien%27s_Lost_Chaucer" title="Tolkien&#39;s Lost Chaucer">Tolkien&#39;s Lost Chaucer</a></i> · <i><a href="/wiki/Tolkien%27s_Library:_An_Annotated_Checklist" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library</a></i> · <i><a href="/wiki/The_Great_Tales_Never_End" title="The Great Tales Never End">The Great Tales Never End</a></i> · <i><a href="/wiki/Tolkien_on_Chaucer,_1913-1959" title="Tolkien on Chaucer, 1913-1959">Tolkien on Chaucer, 1913-1959</a></i>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly journals
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/Tolkien_Studies_(journal)" title="Tolkien Studies (journal)">Tolkien Studies</a></i> · (<i><a href="/wiki/The_Chronology_of_The_Lord_of_the_Rings" title="The Chronology of The Lord of the Rings">The Chronology</a></i>)
+</td></tr>
+<tr>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Other works by Tolkien</b>
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Linguistic journals
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/Vinyar_Tengwar" title="Vinyar Tengwar">Vinyar Tengwar</a></i> various issues · <i><a href="/wiki/Parma_Eldalamberon" title="Parma Eldalamberon">Parma Eldalamberon</a></i> issue 11-23
+</td></tr>
+<tr>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Collections of artwork<br/>and manuscripts
+</th>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="/wiki/Pictures_by_J.R.R._Tolkien" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> · <i><a href="/wiki/J.R.R._Tolkien:_Life_and_Legend" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> · <i><a href="/wiki/J.R.R._Tolkien:_Artist_and_Illustrator" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> ·<br/><i><a href="/wiki/The_Art_of_The_Hobbit" title="The Art of The Hobbit">The Art of The Hobbit</a></i> · <i><a href="/wiki/The_Art_of_The_Lord_of_the_Rings" title="The Art of The Lord of the Rings">The Art of The Lord of the Rings</a></i> · <i><a href="/wiki/Tolkien:_Maker_of_Middle-earth" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> ·<br/><i><a href="/wiki/Tolkien:_Treasures" title="Tolkien: Treasures">Tolkien: Treasures</a></i> · <i><a href="/wiki/J.R.R._Tolkien:_The_Art_of_the_Manuscript" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a></i>
+</td></tr>
+<tr>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">For a fuller bibliography of Tolkien, see <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">here</a> or <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">here</a>. See also a list of <a href="/wiki/User:Luotiansha/3" title="User:Luotiansha/3">all materials by Tolkien</a>.
+</td></tr></tbody></table>

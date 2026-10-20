@@ -1,0 +1,94 @@
+---
+title: "First War"
+display_title: "<span class=\"mw-page-title-main\">First War</span>"
+page_id: 19411
+namespace: 0
+revision_id: 422792
+timestamp: "2025-08-10T12:53:00Z"
+source_url: "https://tolkiengateway.net/wiki/First_War"
+content_sha256: 451aa2264e6616c0d14e85c8d3df13d0c88c1d30d236527facb077b13f4dd650
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Wars"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Erster Krieg"
+    url: "https://www.ardapedia.org/wiki/Erster_Krieg"
+  - lang: "fi"
+    name: "suomi"
+    title: "Ensimmäinen Sota"
+    url: "https://kontu.wiki/Ensimm%C3%A4inen_Sota"
+images:
+  - "Stefan_Meisl_-_Melkor.jpg"
+---
+
+<table class="tginfobox" border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse; font-size:95%; float:right; margin: 0 0 1em 1em; clear:right;"> <tbody><tr><td colspan="2"><small><b>Previous war</b>: None</small></td></tr> <tr><td colspan="2"><small><b>Next war</b>: <a href="/wiki/Battle_of_the_Powers" title="Battle of the Powers">Battle of the Powers</a></small></td></tr> <tr><th colspan="2" style="text-align: center; background:var(--tg-color-surface-3)"><b>First War with Melkor</b></th></tr> <tr><td colspan="2" style="font-size: 90%; text-align: center; padding: 0;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Stefan_Meisl_-_Melkor.jpg"><img src="/w/images/thumb/5/56/Stefan_Meisl_-_Melkor.jpg/300px-Stefan_Meisl_-_Melkor.jpg" decoding="async" loading="lazy" width="300" height="179" class="mw-file-element" srcset="/w/images/thumb/5/56/Stefan_Meisl_-_Melkor.jpg/450px-Stefan_Meisl_-_Melkor.jpg 1.5x, /w/images/thumb/5/56/Stefan_Meisl_-_Melkor.jpg/600px-Stefan_Meisl_-_Melkor.jpg 2x" data-file-width="1476" data-file-height="879"/></a></span></td></tr> <tr><td><small><b>Beginning</b>: <a href="/wiki/Days_before_days" title="Days before days">V.Y.</a> <a class="mw-redirect" href="/wiki/Valian_Year_1" title="Valian Year 1">1</a></small></td><td><small><b>End</b>: <a href="/wiki/Days_before_days" title="Days before days">V.Y.</a> <a class="mw-redirect" href="/wiki/Valian_Year_1500" title="Valian Year 1500">1500</a></small></td></tr> <tr><td colspan="2"><small><b>Place</b>: All of Arda</small></td></tr> <tr><td colspan="2"><small><b>Outcome</b>: Victory for the <a href="/wiki/Valar" title="Valar">Valar</a>, Formation of <a href="/wiki/Arda" title="Arda">Arda</a></small></td></tr> <tr><td colspan="2"><small><b>Major battles</b>: Many and various</small></td></tr> <tr><th colspan="2" style="text-align: center; background:var(--tg-color-surface-3)">Combatants</th></tr> <tr><td width="50%" valign="top"><small>
+<p>Valar and Maiar
+</p>
+</small></td><td width="50%" valign="top"><small>
+<p>Melkor and <a href="/wiki/%C3%9Amaiar" title="Úmaiar">Úmaiar</a>
+</p>
+</small></td></tr> <tr><th colspan="2" style="text-align: center; background:var(--tg-color-surface-3)">Commanders</th></tr> <tr><td width="50%" valign="top"><small>
+<p><a href="/wiki/Manw%C3%AB" title="Manwë">Manwë</a>
+</p>
+</small></td><td width="50%" valign="top"><small>
+<p><a class="mw-redirect" href="/wiki/Melkor" title="Melkor">Melkor</a>
+</p>
+</small></td></tr></tbody></table>
+
+The **First War** was a titanic struggle between the [Valar](/wiki/Valar) and [Melkor](/wiki/Melkor) at the beginning of [Arda](/wiki/Arda) for its dominion.<sup id="cite_ref-ainu_1-0" class="reference"><a href="#cite_note-ainu-1">[1]</a></sup>
+
+## History {#History}
+
+### Prelude {#Prelude}
+
+When the [Ainur](/wiki/Ainur) came to [Arda](/wiki/Arda), before it was fully formed, [Melkor](/wiki/Melkor) claimed it for himself. [Manwë](/wiki/Manw%C3%AB) denied this because Arda was the labour of all the [Ainur](/wiki/Ainur). Many [spirits](/wiki/Spirits "Spirits"), including [Varda](/wiki/Varda),<sup id="cite_ref-vala_2-0" class="reference"><a href="#cite_note-vala-2">[2]</a></sup> came to Manwë's side from the deeps of [Ea](/wiki/Ea).<sup id="cite_ref-ainu_1-1" class="reference"><a href="#cite_note-ainu-1">[1]</a></sup>
+
+### War {#War}
+
+Numerous undocumented battles began for the dominion of Arda.<sup id="cite_ref-ainu_1-2" class="reference"><a href="#cite_note-ainu-1">[1]</a></sup>
+
+While the [Valar](/wiki/Valar) formed Arda, Melkor undid or marred whatever they made, demolishing mountains they created, raising up their valleys and spilling their seas, ever hindering their plans.<sup id="cite_ref-ainu_1-3" class="reference"><a href="#cite_note-ainu-1">[1]</a></sup> Melkor ruined most the works of [Aulë](/wiki/Aul%C3%AB), who grew weary repairing the damage and tumults.<sup id="cite_ref-vala_2-1" class="reference"><a href="#cite_note-vala-2">[2]</a></sup>
+
+Melkor prevailed for ages until news of the War reached far in heaven where other spirits remained. Learning of the War, [Tulkas](/wiki/Tulkas) finally descended to Arda in [Valian Year](/wiki/Valian_Years "Valian Years") 1499. Hearing his mighty laughter, Melkor fled before Tulkas's anger and escaped beyond the [Walls of the Night](/wiki/Walls_of_the_Night).<sup id="cite_ref-s1_3-0" class="reference"><a href="#cite_note-s1-3">[3]</a></sup>
+
+### Aftermath {#Aftermath}
+
+The result of the War was that [Arda was marred](/wiki/Arda_Marred "Arda Marred"). The completion of the world was hindered and its plan was altered. Tulkas and Aulë laboured much to restore Arda and extinguish the fires. There was peace for a long time and thenceforth Tulkas was counted among the Valar. Melkor forsook Arda and brooded in the outer darkness for some time, and held a hatred of Tulkas forever after.<sup id="cite_ref-s1_3-1" class="reference"><a href="#cite_note-s1-3">[3]</a></sup>
+
+[Aulë](/wiki/Aul%C3%AB) created the [Two Lamps](/wiki/Two_Lamps) for the illumination of all Arda and the vegetation of [Yavanna](/wiki/Yavanna), who planted her seeds that sprouted. The [Spring of Arda](/wiki/Spring_of_Arda) began, and the earth was filled with plants from mosses to large trees.<sup id="cite_ref-s1_3-2" class="reference"><a href="#cite_note-s1-3">[3]</a></sup>
+
+Of that primordial duel the [Elves](/wiki/Elves) knew only what the Powers told them of it.<sup id="cite_ref-ainu_1-4" class="reference"><a href="#cite_note-ainu-1">[1]</a></sup>
+
+## Other versions of the legendarium {#Other_versions_of_the_legendarium}
+
+In Tolkien's latest writings where Arda was a [round world](/wiki/Round_World_version_of_the_Silmarillion "Round World version of the Silmarillion") from its beginning, this period of fire and cataclysm is said to correspond roughly with the earth's primeval epochs before this world became habitable for organic life. During these battles, it is said, the earth was given its elliptic orbit and the Moon broke away from the earth, both of which were caused by Melkor, though another version tells that the Valar wrought the Moon from the earth to counteract the night when Melkor was most active.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+In an essay written in the late 1950s, the First War and its outcome were modified somewhat, along with the nature of Melkor: in this version, Melkor is not merely a mighty Ainu or first among equal powers, but greater than all the rest of the Valar combined, and he singlehandedly drives them into retreat. It is unclear if Melkor himself ever had to retreat beyond the Walls of the Night in this version, but he appears triumphant, holding dominion over much of Arda and forming [Utumno](/wiki/Utumno) openly. The Valar do not attempt to face him again until the [Battle of the Powers](/wiki/Battle_of_the_Powers), which itself is changed.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-ainu-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ainu_1-0">1.0</a></sup> <sup><a href="#cite_ref-ainu_1-1">1.1</a></sup> <sup><a href="#cite_ref-ainu_1-2">1.2</a></sup> <sup><a href="#cite_ref-ainu_1-3">1.3</a></sup> <sup><a href="#cite_ref-ainu_1-4">1.4</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Ainulindal%C3%AB" title="Ainulindalë"><i>Ainulindalë:</i> The Music of the Ainur</a>&#34;</span>
+</li>
+<li id="cite_note-vala-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-vala_2-0">2.0</a></sup> <sup><a href="#cite_ref-vala_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Valaquenta" title="Valaquenta">Valaquenta</a></i>: Of the Valar&#34;</span>
+</li>
+<li id="cite_note-s1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-s1_3-0">3.0</a></sup> <sup><a href="#cite_ref-s1_3-1">3.1</a></sup> <sup><a href="#cite_ref-s1_3-2">3.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_the_Beginning_of_Days" title="Of the Beginning of Days">Of the Beginning of Days</a>&#34;</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Five. <a href="/wiki/Myths_Transformed" title="Myths Transformed">Myths Transformed</a>&#34;, &#34;[Text] II&#34;</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Five. <a href="/wiki/Myths_Transformed" title="Myths Transformed">Myths Transformed</a>&#34;, &#34;[Text] VI&#34;</span>
+</li>
+</ol></div>
+
+<div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
+<tbody><tr><td width="27.5%"><div class="tg-seq-label">Preceded by</div><div class="tg-seq-value"><a href="/wiki/Music_of_the_Ainur" title="Music of the Ainur">Music of the Ainur</a></div></td><td width="45%"><div class="tg-seq-value">Major events of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></div><div class="tg-seq-label"><a href="/wiki/Days_before_days" title="Days before days">V.Y.</a> <a class="mw-redirect" href="/wiki/Valian_Year_1" title="Valian Year 1">1</a> - <a class="mw-redirect" href="/wiki/Valian_Year_1500" title="Valian Year 1500">1500</a></div></td><td width="27.5%"><div class="tg-seq-label">Followed by</div><div class="tg-seq-value"><a href="/wiki/Spring_of_Arda" title="Spring of Arda">Spring of Arda</a></div></td></tr>
+</tbody></table></div>
+
+<style data-mw-deduplicate="TemplateStyles:r404115">.mw-parser-output .tg-seq-table{width:100%;font-size:var(--tg-font-size-small);text-align:center}.mw-parser-output .tg-seq .citizen-overflow-wrapper{max-width:none}.mw-parser-output .tg-seq-head{background-color:var(--tg-color-surface-2)}.mw-parser-output .tg-seq-title{color:var(--tg-color-emphasized);font-family:var(--tg-font-family-heading);font-size:var(--tg-font-size-x-large);font-weight:var(--tg-font-weight-semibold)}.mw-parser-output .tg-seq-label{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-seq-value{color:var(--tg-color-emphasized);font-weight:var(--tg-font-weight-medium)}</style>

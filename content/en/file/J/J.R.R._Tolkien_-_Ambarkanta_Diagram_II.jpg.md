@@ -1,0 +1,40 @@
+---
+title: "File:J.R.R. Tolkien - Ambarkanta Diagram II.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ambarkanta Diagram II.jpg</span>"
+page_id: 52845
+namespace: 6
+revision_id: 384633
+timestamp: "2024-01-12T11:41:56Z"
+source_url: "https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Ambarkanta_Diagram_II.jpg"
+content_sha256: db8c46ff11241dec60c4e8f02ff7e6f5ccff411ded6e6ff8ffdc8515050a4157
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Maps by J.R.R. Tolkien"
+  - "Maps of Arda"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/c/c0/J.R.R._Tolkien_-_Ambarkanta_Diagram_II.jpg"
+  mime: "image/jpeg"
+  size: 100727
+  width: 500
+  height: 608
+  sha1: "eb790a8a5a1719e64241f2d24564f70cc65d7607"
+  timestamp: "2016-05-02T18:12:44Z"
+  user: "Edrastel"
+---
+
+## Summary {#Summary}
+
+The [*Ambarkanta* Diagram II](/wiki/Ambarkanta_maps "Ambarkanta maps"), by J.R.R. Tolkien.
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

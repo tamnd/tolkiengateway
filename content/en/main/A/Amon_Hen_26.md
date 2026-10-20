@@ -1,0 +1,29 @@
+---
+title: "Amon Hen 26"
+display_title: "<i>Amon Hen</i> 26"
+page_id: 11259
+namespace: 0
+revision_id: 281431
+timestamp: "2015-09-24T16:41:37Z"
+source_url: "https://tolkiengateway.net/wiki/Amon_Hen_26"
+content_sha256: 2d2852ed68d275523c5f3a246846ce0b4b3b4c609578f27c17cce860d07e4176
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Amon Hen (journal)"
+sort_keys:
+  "Amon Hen (journal)": "Amon Hen 026"
+images:
+  - "WikimediaUI-ArrowPrevious-ltr.svg"
+  - "WikimediaUI-ArrowNext-ltr.svg"
+---
+
+<b><i>Amon Hen</i> 26</b> is the twenty-sixth issue of the [Amon Hen journal](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)") by [The Tolkien Society](/wiki/The_Tolkien_Society).
+
+<br>
+
+## Contents {#Contents}
+
+<style data-mw-deduplicate="TemplateStyles:r414667">.mw-parser-output .template-prevnext{margin:var(--space-md)0;padding:var(--space-xxs);background-color:var(--color-surface-2);border-radius:var(--border-radius-medium);font-size:var(--font-size-small);line-height:var(--line-height-sm);display:grid;align-items:center;grid-template-areas:"prev current next";grid-template-columns:minmax(max-content,1fr)minmax(max-content,1fr)minmax(max-content,1fr)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__next{position:relative;border-radius:var(--border-radius-base);display:flex;align-items:center;gap:var(--space-sm)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__current,.mw-parser-output .template-prevnext__next{padding:var(--space-xs)}.mw-parser-output .template-prevnext__prev{grid-area:prev}.mw-parser-output .template-prevnext__current{grid-area:current;text-align:center}.mw-parser-output .template-prevnext__next{grid-area:next;justify-content:flex-end;text-align:end}.mw-parser-output .template-prevnext__link:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-prevnext__link:hover>.template-prevnext__icon{opacity:var(--opacity-icon-base--hover)}.mw-parser-output .template-prevnext__prev:hover>.template-prevnext__icon{transform:translateX(-2px)}.mw-parser-output .template-prevnext__next:hover>.template-prevnext__icon{transform:translateX(2px)}.mw-parser-output .template-prevnext__link:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-prevnext__link:active>.template-prevnext__icon{opacity:var(--opacity-icon-base--selected)}.mw-parser-output .template-prevnext__icon{opacity:var(--opacity-icon-base);transition:transform 250ms ease}.mw-parser-output .template-prevnext__icon img{filter:var(--filter-invert)}.mw-parser-output .template-prevnext__title{color:var(--color-emphasized);font-weight:500}.mw-parser-output .template-prevnext__link .template-prevnext__title{color:var(--color-progressive)}.mw-parser-output .template-prevnext__link--new .template-prevnext__title{color:var(--color-link-new)}.mw-parser-output .template-prevnext__desc{color:var(--color-subtle);font-size:var(--font-size-x-small)}.mw-parser-output .template-prevnext__linkoverlay{position:absolute;top:0;left:0;right:0;bottom:0}.mw-parser-output .template-prevnext__linkoverlay>a{display:block;font-size:0;height:100%}@media screen and (max-width:639px){.mw-parser-output .template-prevnext{grid-template-areas:"current current""prev next";grid-template-columns:auto}.mw-parser-output .template-prevnext__current{border-bottom:1px solid var(--border-color-base)}}</style>
+
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 25</div></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Amon_Hen_25" title="Amon Hen 25">Amon Hen 25</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 26</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 27</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Amon_Hen_27" title="Amon Hen 27">Amon Hen 27</a></div></div></div>

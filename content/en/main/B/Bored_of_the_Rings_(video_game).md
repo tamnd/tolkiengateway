@@ -1,0 +1,70 @@
+---
+title: "Bored of the Rings (video game)"
+display_title: "<i>Bored of the Rings</i> <span style=\"font-size:0.7em\">(video game)</span>"
+page_id: 25611
+namespace: 0
+revision_id: 400754
+timestamp: "2024-07-09T18:56:41Z"
+source_url: "https://tolkiengateway.net/wiki/Bored_of_the_Rings_(video_game)"
+content_sha256: c16a59f44296850a150b6eac3dcc9554c3422616570c2101eed42b1a45ccc3bb
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Articles needing expansion"
+  - "Amstrad CPC games"
+  - "Commodore 64 games"
+  - "Text-Adventure video games"
+  - "ZX Spectrum games"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+images:
+  - "Bored-1-.jpg"
+  - "CdxIconEdit.svg"
+  - "CdxIconArticleDisambiguation.svg"
+infobox:
+  - label: "Developer"
+    value: "Delta 4 Software (briefly), Silver Soft, CRL Group PLC, Zenobi Software"
+  - label: "Publisher"
+    value: "Delta 4 Software"
+  - label: "Platform"
+    value: "Amstrad CPC, BBC B, Commodore 64, Sinclair QL, ZX Spectrum"
+  - label: "Release Date"
+    value: "1985"
+  - label: "Genre"
+    value: "Text-Adventure with illustrations"
+---
+
+<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
+
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Bored_of_the_Rings_(video_game)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
+</p>
+<p class="tg-quote-footer"><cite><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a></cite></p>
+</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Bored of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/Bored_of_the_Rings_(disambiguation)" title="Bored of the Rings (disambiguation)">Bored of the Rings (disambiguation)</a></b>.</div></div>
+
+<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Bored-1-.jpg"><img src="/w/images/b/b6/Bored-1-.jpg" decoding="async" loading="lazy" width="183" height="272" class="mw-file-element" data-file-width="183" data-file-height="272"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bored of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="/wiki/Delta_4_Software" title="Delta 4 Software">Delta 4 Software</a> (briefly), <a href="/wiki/Silver_Soft" title="Silver Soft">Silver Soft</a>, <a href="/wiki/CRL_Group_PLC" title="CRL Group PLC">CRL Group PLC</a>, <a href="/wiki/Zenobi_Software" title="Zenobi Software">Zenobi Software</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Delta_4_Software" title="Delta 4 Software">Delta 4 Software</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Amstrad_CPC" title="wikipedia:Amstrad CPC">Amstrad CPC</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/BBC_Micro" title="wikipedia:BBC Micro">BBC B</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Commodore_64" title="wikipedia:Commodore 64">Commodore 64</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sinclair_QL" title="wikipedia:Sinclair QL">Sinclair QL</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/ZX_Spectrum" title="wikipedia:ZX Spectrum">ZX Spectrum</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="/wiki/1985" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Text-Adventure with illustrations</td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>Bored of the Rings</b></i> is a 1985 video game published for several platforms, influenced by the novel [of the same name](</wiki/Bored_of_the_Rings_(book)> "Bored of the Rings (book)"). It is the first of the series <i><a class="new" href="/w/index.php?title=Hairy_Toes&amp;action=edit&amp;redlink=1" title="Hairy Toes (page does not exist)">Hairy Toes</a></i>,<sup id="cite_ref-El_Anillo_1-0" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup> the other part is *[The Boggit](/wiki/The_Boggit)*.<sup id="cite_ref-El_Anillo_1-1" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup> It was written with The Quill.<sup id="cite_ref-Spectrum_2-0" class="reference"><a href="#cite_note-Spectrum-2">[2]</a></sup>
+
+## Gameplay {#Gameplay}
+
+Unlike the book, character names are more reminiscent of the original work. *Grandalf* is [Gandalf](/wiki/Gandalf), *Bimbo* is [Bilbo Baggins](/wiki/Bilbo_Baggins) and *Fordo* is [Frodo Baggins](/wiki/Frodo_Baggins), among others. The game is divided into four parts; unlocking a new part requires a password received at the end of the previous part.<sup id="cite_ref-Tolkien_Games_3-0" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> The game is only playable in a single player mode.<sup id="cite_ref-Spectrum_2-1" class="reference"><a href="#cite_note-Spectrum-2">[2]</a></sup> The authors of the game are [Fergus McNeill](/wiki/Fergus_McNeill),<sup id="cite_ref-Spectrum_2-2" class="reference"><a href="#cite_note-Spectrum-2">[2]</a></sup><sup id="cite_ref-Tolkien_Games_3-1" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> [Judith Child](/wiki/Judith_Child)<sup id="cite_ref-Tolkien_Games_3-2" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup> and [Ian Willis](/wiki/Ian_Willis).<sup id="cite_ref-Tolkien_Games_3-3" class="reference"><a href="#cite_note-Tolkien_Games-3">[3]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-El_Anillo-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-El_Anillo_1-0">1.0</a></sup> <sup><a href="#cite_ref-El_Anillo_1-1">1.1</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.meristation.com/v3/des_articulo.php?pic=CON&amp;id=2254&amp;idj=&amp;idp=&amp;tipo=art&amp;c=1&amp;pos=4" rel="noreferrer noopener" target="_blank">Meristation, El Anillo Interactivo</a> p. 5 (retrieved 21 September 2010)</span>
+</li>
+<li id="cite_note-Spectrum-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Spectrum_2-0">2.0</a></sup> <sup><a href="#cite_ref-Spectrum_2-1">2.1</a></sup> <sup><a href="#cite_ref-Spectrum_2-2">2.2</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.worldofspectrum.org/infoseekid.cgi?id=0006036" rel="noreferrer noopener" target="_blank">Bored of the Rings</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/World_of_Spectrum" title="wikipedia:World of Spectrum">World of Spectrum</a> (retrieved 21 September 2010)</span>
+</li>
+<li id="cite_note-Tolkien_Games-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Tolkien_Games_3-0">3.0</a></sup> <sup><a href="#cite_ref-Tolkien_Games_3-1">3.1</a></sup> <sup><a href="#cite_ref-Tolkien_Games_3-2">3.2</a></sup> <sup><a href="#cite_ref-Tolkien_Games_3-3">3.3</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/bored.html" rel="noreferrer noopener" target="_blank">Bored of the Rings</a> at Tolkien Games (retrieved 21 September 2010)</span>
+</li>
+</ol></div>

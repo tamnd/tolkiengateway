@@ -1,0 +1,36 @@
+---
+title: "File:Anke Eißmann - Gandalf and Shadowfax.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anke Eißmann - Gandalf and Shadowfax.jpg</span>"
+page_id: 50702
+namespace: 6
+revision_id: 275459
+timestamp: "2015-07-24T17:58:30Z"
+source_url: "https://tolkiengateway.net/wiki/File:Anke_Eißmann_-_Gandalf_and_Shadowfax.jpg"
+content_sha256: 32c15661b7c2a3c853c748b04bb757461dd7b3ce79144f88c09267040836e2e4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Anke Eißmann"
+  - "Images of Gandalf"
+  - "Images of Shadowfax"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/c/cb/Anke_Ei%C3%9Fmann_-_Gandalf_and_Shadowfax.jpg"
+  mime: "image/jpeg"
+  size: 781146
+  width: 1125
+  height: 850
+  sha1: "e25b81cb0feea988901e95fb91f0a1fe1d98b928"
+  timestamp: "2015-07-24T17:58:30Z"
+  user: "Mith"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Anke Eißmann</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Anke_Ei%C3%9Fmann" title="Anke Eißmann">Anke Eißmann</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Anke_Ei%C3%9Fmann" title="Anke Eißmann">Anke Eißmann</a></li>
+<li><b>Website:</b> <a class="external text" href="http://anke.edoras-art.de/anke_home.html" rel="noreferrer noopener" target="_blank">Anke Eißmann&#39;s website</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anke_Ei%C3%9Fmann" title="Tolkien Gateway:Copyrights/Anke Eißmann">Permission for use on Tolkien Gateway</a></b></li></ul></div>

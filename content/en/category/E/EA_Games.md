@@ -1,0 +1,16 @@
+---
+title: "Category:EA Games"
+display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">EA Games</span>"
+page_id: 19122
+namespace: 14
+revision_id: 196048
+timestamp: "2012-06-13T18:55:12Z"
+source_url: "https://tolkiengateway.net/wiki/Category:EA_Games"
+content_sha256: d0564a6a8ed5539c33e8114f81ff34f52a76e2139659672e9a95e5769b20b69b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Video games by publisher"
+---
+
+This category lists all games by **EA games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.

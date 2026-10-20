@@ -1,0 +1,33 @@
+---
+title: "File:Ted Nasmith - Through the Forest.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ted Nasmith - Through the Forest.jpg</span>"
+page_id: 39392
+namespace: 6
+revision_id: 193991
+timestamp: "2012-06-07T19:13:28Z"
+source_url: "https://tolkiengateway.net/wiki/File:Ted_Nasmith_-_Through_the_Forest.jpg"
+content_sha256: 778681355a59d1216757597c0f9d4c2f474350f2ccf88a6e147a0bd0175b3f07
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Ted Nasmith"
+  - "Images of Bilbo Baggins"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/d/d5/Ted_Nasmith_-_Through_the_Forest.jpg"
+  mime: "image/jpeg"
+  size: 36728
+  width: 450
+  height: 324
+  sha1: "0fbc6e920c66f28d00629fe2eace14e70c5b5911"
+  timestamp: "2012-06-07T19:13:28Z"
+  user: "KingAragorn"
+---
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Ted Nasmith</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></li>
+<li><b>Website:</b> <a class="external text" href="http://www.tednasmith.com/" rel="noreferrer noopener" target="_blank">Ted Nasmith&#39;s website</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ted_Nasmith" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>

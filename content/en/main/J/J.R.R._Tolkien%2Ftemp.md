@@ -1,0 +1,252 @@
+---
+title: "J.R.R. Tolkien/temp"
+display_title: "<span class=\"mw-page-title-main\">J.R.R. Tolkien/temp</span>"
+page_id: 20432
+namespace: 0
+revision_id: 400405
+timestamp: "2024-07-07T07:32:47Z"
+source_url: "https://tolkiengateway.net/wiki/J.R.R._Tolkien/temp"
+content_sha256: db692fe092e86f4c83d00ab6c4569803cd03e139424cf245a2318940cae7fd3f
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+images:
+  - "CdxIconArticleDisambiguation.svg"
+  - "Photograph_of_J.R.R._Tolkien.jpg"
+  - "CdxIconArticle.svg"
+  - "A_Question_of_God_-_Tolkien,_Lewis_and_Dyson.JPG"
+infobox:
+  - label: "Born"
+    value: "January 3, 1892"
+  - label: "Died"
+    value: "September 2, 1973"
+  - label: "Education"
+    value: "University of Oxford"
+  - label: "Occupation"
+    value: "Professor of Old and Middle English"
+  - label: "Location"
+    value: "Oxford, Leeds, England"
+  - label: "Website"
+    value: "The Tolkien Estate"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>J.R.R. Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/J.R.R._Tolkien_(disambiguation)" title="J.R.R. Tolkien (disambiguation)">J.R.R. Tolkien (disambiguation)</a></b>.</div></div>
+
+<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/Tolkien_(disambiguation)" title="Tolkien (disambiguation)">Tolkien (disambiguation)</a></b>.</div></div>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r398211"/>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Photograph_of_J.R.R._Tolkien.jpg"><img src="/w/images/thumb/3/36/Photograph_of_J.R.R._Tolkien.jpg/320px-Photograph_of_J.R.R._Tolkien.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="/w/images/3/36/Photograph_of_J.R.R._Tolkien.jpg 1.5x" data-file-width="471" data-file-height="628"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/3_January" title="3 January">January 3</a>, <a href="/wiki/1892" title="1892">1892</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="/wiki/2_September" title="2 September">September 2</a>, <a href="/wiki/1973" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Professor of Old and Middle English</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Oxford, <a class="mw-redirect" href="/wiki/Leeds_University" title="Leeds University">Leeds</a>, England</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkienestate.com" rel="noreferrer noopener" target="_blank">The Tolkien Estate</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<p>I felt that Tolkien was like an iceberg, something to be reckoned with above water in both its brilliance and mass and yet so much more below the surface.
+</p>
+<p class="tg-quote-footer"><cite><a href="/wiki/Clyde_S._Kilby" title="Clyde S. Kilby">Clyde Kilby</a><sup id="cite_ref-TatSPre_1-0" class="reference"><a href="#cite_note-TatSPre-1">[1]</a></sup></cite></p>
+</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+Professor Dr. **John Ronald Reuel Tolkien** <a class="extiw" href="http://en.wikipedia.org/wiki/CBE" title="wikipedia:CBE">CBE</a> ([1892](/wiki/1892) - [1973](/wiki/1973)) is the subject of [Tolkien Gateway](/wiki/Tolkien_Gateway:About "Tolkien Gateway:About"). His life, his works, his family: everything about the man whom fans have named affectionately **the Professor** can be found here.
+
+Besides creating [Arda](/wiki/Arda), the [Little Kingdom](/wiki/Little_Kingdom), and many other wonderful worlds, Tolkien's reading of [Beowulf](/wiki/Beowulf:_The_Monsters_and_the_Critics "Beowulf: The Monsters and the Critics") was groundbreaking, and stands as *the* interpretation of the epic poem to this day.<sup id="cite_ref-FaHPre_2-0" class="reference"><a href="#cite_note-FaHPre-2">[2]</a></sup>
+
+## Life {#Life}
+
+### Family History {#Family_History}
+
+#### Tolkien {#Tolkien}
+
+Since the [Tolkien family](/wiki/Tolkien_Family "Tolkien Family")'s move from Saxony several generations earlier,<sup id="cite_ref-L165_3-0" class="reference"><a href="#cite_note-L165-3">[3]</a></sup> much had changed. The little fortune the family had - they were piano builders - was gone when [John Benjamin Tolkien](/wiki/John_Benjamin_Tolkien) went bankrupt in 1877.<sup id="cite_ref-LonGaz_4-0" class="reference"><a href="#cite_note-LonGaz-4">[4]</a></sup> His son [Arthur](/wiki/Arthur_Tolkien "Arthur Tolkien") worked at a [Birmingham](/wiki/Birmingham) office of Lloyds Bank, but there was little chance of promotion.<sup id="cite_ref-Bio910_5-0" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup> A golden opportunity came when gold and diamonds were discovered in [South Africa](/wiki/South_Africa); bank clerks were in high demand to battle the growing fraud and corruption.<sup id="cite_ref-Birzer_6-0" class="reference"><a href="#cite_note-Birzer-6">[6]</a></sup> Arthur, who had been seeing [Mabel Suffield](/wiki/Mabel_Suffield) for some time, moved to Bloemfontein. Mabel came several years later, in 1891.<sup id="cite_ref-Bio910_5-1" class="reference"><a href="#cite_note-Bio910-5">[5]</a></sup>
+
+#### Suffield {#Suffield}
+
+### Youth {#Youth}
+
+#### South Africa {#South_Africa}
+
+#### Birmingham {#Birmingham}
+
+#### Oxford {#Oxford}
+
+#### The War {#The_War}
+
+### Young Adult {#Young_Adult}
+
+#### Oxford English Dictionary {#Oxford_English_Dictionary}
+
+#### University of Oxford {#University_of_Oxford}
+
+### Academics and Fantasy {#Academics_and_Fantasy}
+
+#### University of Leeds {#University_of_Leeds}
+
+#### The Hobbit {#The_Hobbit}
+
+#### The Lord of the Rings {#The_Lord_of_the_Rings}
+
+#### Back in Oxford {#Back_in_Oxford}
+
+### The Price of Fame {#The_Price_of_Fame}
+
+#### The Silmarillion {#The_Silmarillion}
+
+<h4><span id="Voluntary_.22Hiding.22"></span><span class="mw-headline" id="Voluntary_&#34;Hiding&#34;">Voluntary &#34;Hiding&#34;</span></h4>
+
+#### Death {#Death}
+
+## Character {#Character}
+
+### Faith {#Faith}
+
+### Personality {#Personality}
+
+### Names {#Names}
+
+#### John {#John}
+
+The name *John* was a custom in the [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") family. It was usually given to the eldest son of the eldest son. Tolkien's father, [Arthur](/wiki/Arthur_Tolkien "Arthur Tolkien"), was the first son of [John Benjamin](/wiki/John_Benjamin_Tolkien "John Benjamin Tolkien")'s second marriage; the first son of his first marriage, John, died with only three daughters. As of that moment, the name *John* went to Arthur's descendants.<sup id="cite_ref-L309_7-0" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> It passed to Tolkien's first son, [John](/wiki/John_Tolkien "John Tolkien"), who became a priest and left no children,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> so the name *John* has effectively lost its hereditary signififance.
+
+The name, though Romish in nature, had at first no religious connotations. However, because his birthday ([January 3](/wiki/3_January "3 January")) was the <a class="extiw" href="http://en.wikipedia.org/wiki/Octave_(liturgical)" title="wikipedia:Octave (liturgical)">Octave</a> of <a class="extiw" href="http://en.wikipedia.org/wiki/John_the_Evangelist" title="wikipedia:John the Evangelist">John the Evangelist</a>, Tolkien chose him as his patron.<sup id="cite_ref-L309_7-1" class="reference"><a href="#cite_note-L309-7">[7]</a></sup>
+
+#### Ronald {#Ronald}
+
+Arthur Tolkien's first choice for his eldest son's second child was Benjamin, after his father. Tolkien's mother, [Mabel](/wiki/Mabel_Suffield "Mabel Suffield"), who was confident she would receive a daughter, chose *Rosalind*. This would become *Ronald* when the child turned out to be a boy.<sup id="cite_ref-L309_7-2" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> Tolkien often used this name as his first name; most of his letters to [Edith](/wiki/Edith_Tolkien "Edith Tolkien") were signed *Ronald*, or simply *R.*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+
+#### Reuel {#Reuel}
+
+Despite its <a class="extiw" href="http://en.wikipedia.org/wiki/Raguel_(name)" title="wikipedia:Raguel (name)">obvious biblical connotations</a>, the name *Reuel* does not come from any of the people mentioned in the Bible; instead, it was the surname of a friend of John Benjamin.<sup id="cite_ref-L309_7-3" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> He gave it to his son Arthur, and both his sons, John and [Hilary](/wiki/Hilary_Tolkien "Hilary Tolkien") had it. Even most their male children and grandchildren have it. Though this family friend was never identified, Tolkien recalled the name being of Norman origin.<sup id="cite_ref-L309_7-4" class="reference"><a href="#cite_note-L309-7">[7]</a></sup> In this light, it might be an early anglification of the surname *Rouel*, which means "(maker of) small wheels/circular objects".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The "biblical" *Reuel* means "Friend of God".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+
+#### Tolkien {#Tolkien_2}
+
+#### Other Names {#Other_Names}
+
+### Teacherhood {#Teacherhood}
+
+## As an Author {#As_an_Author}
+
+### The Philologist {#The_Philologist}
+
+### The Veteran {#The_Veteran}
+
+### The Christian {#The_Christian}
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="/wiki/Christianity" title="Christianity">Christianity</a></b></div></div>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r398211"/>
+
+<br>
+
+## Portrayal in adaptations {#Portrayal_in_adaptations}
+
+<b>1992: <i><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm</a></i></b>
+
+<dl><dd><a href="/wiki/Michael_Hordern" title="Michael Hordern">Sir Michael Hordern</a>, who had previously played <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> in the <a href="/wiki/The_Lord_of_the_Rings_(1981_radio_series)" title="The Lord of the Rings (1981 radio series)">1981 radio series of <i>The Lord of the Rings</i></a>, serves as narrator, who is identified as &#34;Tolkien&#34; in the credits, to all episodes.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> He provides the narration, paired with the main characters of each segment: <a href="/wiki/Brian_Blessed" title="Brian Blessed">Brian Blessed</a> as <a href="/wiki/Farmer_Giles" title="Farmer Giles">Farmer Giles</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <a class="new" href="/w/index.php?title=Paul_Copley&amp;action=edit&amp;redlink=1" title="Paul Copley (page does not exist)">Paul Copley</a> as <a class="new" href="/w/index.php?title=Smith&amp;action=edit&amp;redlink=1" title="Smith (page does not exist)">Smith</a>,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a class="new" href="/w/index.php?title=Alfred_Molina&amp;action=edit&amp;redlink=1" title="Alfred Molina (page does not exist)">Alfred Molina</a> as <a href="/wiki/Niggle" title="Niggle">Niggle</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> and <a class="new" href="/w/index.php?title=Nigel_Planer&amp;action=edit&amp;redlink=1" title="Nigel Planer (page does not exist)">Nigel Planer</a> and <a class="new" href="/w/index.php?title=Jonathan_Adams&amp;action=edit&amp;redlink=1" title="Jonathan Adams (page does not exist)">Jonathan Adams</a> as <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> and <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
+
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_Question_of_God_-_Tolkien,_Lewis_and_Dyson.JPG"><img src="/w/images/thumb/d/d7/A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG/200px-A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="/w/images/thumb/d/d7/A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG/300px-A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG 1.5x, /w/images/thumb/d/d7/A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG/400px-A_Question_of_God_-_Tolkien%2C_Lewis_and_Dyson.JPG 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Ian Bellman as Tolkien (left)</figcaption></figure>
+
+**2004: <i><a class="external text" href="http://www.imdb.com/title/tt0433436/" rel="noreferrer noopener" target="_blank">The Question of God: Sigmund Freud &amp; C.S. Lewis</a></i>:**
+
+<dl><dd><a class="external text" href="http://www.imdb.com/name/nm2710745/" rel="noreferrer noopener" target="_blank">Ian Bellman</a> plays Tolkien in this documentary about convinced atheist Sigmund Freud and influential Christian writer (though not so at first) <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a>. Tolkien is introduced in a segment recounting Lewis&#39; first experience of faith, a walk at <a class="new" href="/w/index.php?title=Addison_Walk&amp;action=edit&amp;redlink=1" title="Addison Walk (page does not exist)">Addison Walk</a> the two had with <a href="/wiki/Hugo_Dyson" title="Hugo Dyson">Hugo Dyson</a>. Tolkien is further shown in group shots of the <a href="/wiki/Inklings" title="Inklings">Inklings</a>, though he does not have any lines.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></dd></dl>
+
+**2005: <i><a class="external text" href="http://www.imdb.com/title/tt0497337/" rel="noreferrer noopener" target="_blank">C.S. Lewis: Beyond Narnia</a></i>:**
+
+<dl><dd>In this film, also about Lewis, <a class="external text" href="http://www.imdb.com/name/nm1758026/" rel="noreferrer noopener" target="_blank">Ben Lambert</a> and <a class="external text" href="http://www.imdb.com/name/nm0383000/" rel="noreferrer noopener" target="_blank">Robert Hickson</a> play the younger and older Tolkien.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></dd></dl>
+
+<b>2009: <i><a href="/wiki/Tolkien%27s_Monsters" title="Tolkien&#39;s Monsters">Tolkien&#39;s Monsters</a></i>:</b>
+
+<dl><dd>Two uncredited actors portray Tolkien in this episode; one for the War years (aged 24) and one for the years beyond (aged 36).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The latter sports a mustache while the former is clean shaven; an inversion of history. During the war, Tolkien had a mustache, but later images show he shaved it off.</dd></dl>
+
+## Bibliography {#Bibliography}
+
+All books and essays written by Tolkien.<sup id="cite_ref-Biblio_20-0" class="reference"><a href="#cite_note-Biblio-20">[20]</a></sup>
+
+### Published during his lifetime {#Published_during_his_lifetime}
+
+#### Books {#Books}
+
+- **[May 11](/wiki/11_May "11 May"), [1922](/wiki/1922)** : *[A Middle English Vocabulary](/wiki/A_Middle_English_Vocabulary)*
+- **[July 1](/wiki/1_July "1 July"), [1937](/wiki/1937)**: *[Beowulf: The Monsters and the Critics](/wiki/Beowulf:_The_Monsters_and_the_Critics)*
+- **[September 21](/wiki/21_September "21 September"), [1937](/wiki/1937)**: *[The Hobbit](/wiki/The_Hobbit)*
+- **[October 20](/wiki/20_October "20 October"), [1949](/wiki/1949)**: *[Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham)*
+- **[July 29](/wiki/29_July "29 July"), [1954](/wiki/1954)**: *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*
+- **[November 11](/wiki/11_November "11 November"), [1954](/wiki/1954)**: *[The Two Towers](/wiki/The_Two_Towers)*
+- **[October 20](/wiki/20_October "20 October"), [1955](/wiki/1955)**: *[The Return of the King](/wiki/The_Return_of_the_King)*
+- **[November 22](/wiki/22_November "22 November"), [1962](/wiki/1962)**: *[The Adventures of Tom Bombadil](/wiki/The_Adventures_of_Tom_Bombadil)*
+- **[May 28](/wiki/28_May "28 May"), [1964](/wiki/1964)**: *[Tree and Leaf](/wiki/Tree_and_Leaf)*
+- **[September](/wiki/September), [1966](/wiki/1966)**: *[The Tolkien Reader](/wiki/The_Tolkien_Reader)*
+- **[November 9](/wiki/9_November "9 November"), [1967](/wiki/1967)**: *[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)*
+- **[March](/wiki/March), [1969](/wiki/1969)**: <i><a class="new" href="/w/index.php?title=Smith_of_Wootton_Major_and_Farmer_Giles_of_Ham&amp;action=edit&amp;redlink=1" title="Smith of Wootton Major and Farmer Giles of Ham (page does not exist)">Smith of Wootton Major and Farmer Giles of Ham</a></i>
+
+#### Other {#Other}
+
+### Posthumous Publications {#Posthumous_Publications}
+
+#### Books {#Books_2}
+
+#### Other {#Other_2}
+
+### Audio Recordings {#Audio_Recordings}
+
+## See also {#See_also}
+
+- [Images of J.R.R. Tolkien](/wiki/Category:Images_of_J.R.R._Tolkien "Category:Images of J.R.R. Tolkien")
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<!-- -->
+<tbody><tr>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="/wiki/Inklings" title="Inklings">Inklings</a></b>
+</th></tr>
+<tr>
+<td style="font-size: 90%;" align="center"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="/wiki/Owen_Barfield" title="Owen Barfield">Owen Barfield</a> · <a href="/wiki/J.A.W._Bennett" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="/wiki/Lord_David_Cecil" title="Lord David Cecil">Lord David Cecil</a> · <a href="/wiki/Nevill_Coghill" title="Nevill Coghill">Nevill Coghill</a> · <a href="/wiki/James_Dundas-Grant" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="/wiki/Hugo_Dyson" title="Hugo Dyson">Hugo Dyson</a> · <a href="/wiki/Adam_Fox" title="Adam Fox">Adam Fox</a> · <a href="/wiki/Colin_Hardie" title="Colin Hardie">Colin Hardie</a> · <a href="/wiki/Robert_Havard" title="Robert Havard">Robert Havard</a> · <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a> · <a href="/wiki/Warren_Lewis" title="Warren Lewis">Warren Lewis</a> · <a href="/wiki/Gervase_Mathew" title="Gervase Mathew">Gervase Mathew</a> · <a href="/wiki/R.B._McCallum" title="R.B. McCallum">R.B. McCallum</a> · <a href="/wiki/C.E._Stevens" title="C.E. Stevens">C.E. Stevens</a> · <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="/wiki/John_Wain" title="John Wain">John Wain</a> · <a href="/wiki/Charles_Williams" title="Charles Williams">Charles Williams</a> · <a href="/wiki/Charles_Leslie_Wrenn" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
+</td></tr></tbody></table>
+
+## References {#References}
+
+<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+
+<div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-TatSPre-1"><span class="mw-cite-backlink"><a href="#cite_ref-TatSPre_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/Clyde_S._Kilby" title="Clyde S. Kilby">Clyde Kilby</a>, <i><a href="/wiki/Tolkien_and_The_Silmarillion" title="Tolkien and The Silmarillion">Tolkien and The Silmarillion</a></i>, Preface</span>
+</li>
+<li id="cite_note-FaHPre-2"><span class="mw-cite-backlink"><a href="#cite_ref-FaHPre_2-0">↑</a></span> <span class="reference-text">J.R.R. Tolkien, <a href="/wiki/Alan_Bliss" title="Alan Bliss">Alan Bliss</a> (ed.), <i><a class="mw-redirect" href="/wiki/Finn_and_Hengest" title="Finn and Hengest">Finn and Hengest</a></i>, &#34;Preface&#34;</span>
+</li>
+<li id="cite_note-L165-3"><span class="mw-cite-backlink"><a href="#cite_ref-L165_3-0">↑</a></span> <span class="reference-text">J.R.R. Tolkien, <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_165" title="Letter 165">Letter 165</a> (dated June <a href="/wiki/1955" title="1955">1955</a>)</span>
+</li>
+<li id="cite_note-LonGaz-4"><span class="mw-cite-backlink"><a href="#cite_ref-LonGaz_4-0">↑</a></span> <span class="reference-text">Anonymous, <i>The London Gazette</i>, (<a href="/wiki/2_October" title="2 October">October 2</a>, 1877), <a class="external text" href="http://www.gazettes-online.co.uk/ViewPDF.aspx?pdf=24508&amp;geotype=London&amp;gpn=5498&amp;type=ArchivedIssuePage&amp;all=&amp;exact=&amp;atleast=&amp;similar=" rel="noreferrer noopener" target="_blank">PDF</a></span>
+</li>
+<li id="cite_note-Bio910-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Bio910_5-0">5.0</a></sup> <sup><a href="#cite_ref-Bio910_5-1">5.1</a></sup></span> <span class="reference-text"><a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="/wiki/J.R.R._Tolkien:_A_Biography" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i>, pages 9-10</span>
+</li>
+<li id="cite_note-Birzer-6"><span class="mw-cite-backlink"><a href="#cite_ref-Birzer_6-0">↑</a></span> <span class="reference-text">Bradley J. Birzer, &#34;Tolkien: Man Behind the Myth&#34;, published in <i>Christian History</i>, volume 22 (2003), issue 2</span>
+</li>
+<li id="cite_note-L309-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-L309_7-0">7.0</a></sup> <sup><a href="#cite_ref-L309_7-1">7.1</a></sup> <sup><a href="#cite_ref-L309_7-2">7.2</a></sup> <sup><a href="#cite_ref-L309_7-3">7.3</a></sup> <sup><a href="#cite_ref-L309_7-4">7.4</a></sup></span> <span class="reference-text">J.R.R. Tolkien, <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_309" title="Letter 309">Letter 309</a> (dated <a href="/wiki/2_January" title="2 January">January 2</a>, <a href="/wiki/1969" title="1969">1969</a>)</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="/wiki/J.R.R._Tolkien:_A_Biography" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i>, page 202</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">J.R.R. Tolkien, <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_1" title="Letter 1">Letter 1</a>, note 7 (dated October <a href="/wiki/1914" title="1914">1914</a>)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Marie-Thérèse Morlet, <i>Dictionnaire étymologique des noms de famille</i> (1991), translated from the French: &#34;<i>en général « petite roue », a désigné en anc[ien] fr[ançais] et moy[en] fr[ançais] différents objets en forme de roue, peut être un surnom de fabricant.</i>&#34;</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="extiw" href="http://en.wikipedia.org/wiki/Patrick_Hanks" title="wikipedia:Patrick Hanks">Patrick Hanks</a>,  Kate Hardcastle, Flavia Hodges, <i>A Dictionary of First Names</i>, <a class="new" href="/w/index.php?title=Oxford_University_Press&amp;action=edit&amp;redlink=1" title="Oxford University Press (page does not exist)">Oxford University Press</a> (2003)</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (1992 radio series)</a>, information booklet (2002 re-release)</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (1992 radio series)</a>, &#34;Farmer Giles of Ham&#34;</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (1992 radio series)</a>, &#34;Smith of Wootton Major&#34;</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (1992 radio series)</a>, &#34;Leaf by Niggle&#34;</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)"><i>Tales from the Perilous Realm</i> (1992 radio series)</a>, &#34;The Adventures of Tom Bombadil&#34;</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><i><a class="external text" href="http://www.imdb.com/title/tt0433436/" rel="noreferrer noopener" target="_blank">The Question of God: Sigmund Freud &amp; C.S. Lewis</a></i>, Episode Two</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i><a class="external text" href="http://www.imdb.com/title/tt0497337/" rel="noreferrer noopener" target="_blank">C.S. Lewis: Beyond Narnia</a></i> at <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb.com</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">History Channel, <i>Clash of the Gods</i>, &#34;<a href="/wiki/Tolkien%27s_Monsters" title="Tolkien&#39;s Monsters">Tolkien&#39;s Monsters</a>&#34;</span>
+</li>
+<li id="cite_note-Biblio-20"><span class="mw-cite-backlink"><a href="#cite_ref-Biblio_20-0">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Douglas_A._Anderson" title="Douglas A. Anderson">Douglas A. Anderson</a>, <i><a href="/wiki/J.R.R._Tolkien:_A_Descriptive_Bibliography" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a></i>, &#34;&#34;Books by J.R.R. Tolkien&#34;</span>
+</li>
+</ol></div></div>

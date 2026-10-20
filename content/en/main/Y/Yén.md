@@ -1,0 +1,49 @@
+---
+title: "Yén"
+display_title: "yén"
+page_id: 10692
+namespace: 0
+revision_id: 395118
+timestamp: "2024-06-23T14:51:59Z"
+source_url: "https://tolkiengateway.net/wiki/Yén"
+content_sha256: 8634d77e7533b66e14dd8a84c4024a713fb3b8337b7f75361baf143078be1ba8
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Articles needing citation"
+  - "Calendars"
+  - "Quenya nouns"
+sort_keys:
+  "Articles needing citation": "Yen"
+  "Calendars": "Yen"
+  "Quenya nouns": "Yen"
+langlinks:
+  - lang: "fi"
+    name: "suomi"
+    title: "Yén"
+    url: "https://kontu.wiki/Y%C3%A9n"
+---
+
+<i><b>Yén</b></i> (plural <i><b>yéni</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is [Quenya](/wiki/Quenya) for "long year" or "great year",<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> and was a unit of time used by the [Elves](/wiki/Elves) of [Middle-earth](/wiki/Middle-earth) after the first rising of the [Sun](/wiki/Sun).<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup> Compare with a [Valian Year](/wiki/Valian_Years "Valian Years"), the unit of time used in [Valinor](/wiki/Valinor).
+
+<dl><dd>1 <i>yén</i> = 144 solar years = 52,596 days<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+
+[Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") used Valian Years to measure the passing of time in the [Elder Days](/wiki/Elder_Days) as recorded in the *[Annals of Aman](/wiki/The_Annals_of_Aman "The Annals of Aman")*, but such a Valian Years equals 9.582 solar years = 3500 days (in older versions, the [*Annals of Valinor*](/wiki/The_Lost_Road_and_Other_Writings "The Lost Road and Other Writings"), it equals 10 solar years).
+
+## See also {#See_also}
+
+- [Loa](/wiki/Loa) and [Coranar](/wiki/Coranar): terms used for time-measurement equivalent to a year of the Sun
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, “<a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, line 2</span>
+</li>
+<li id="cite_note-PE17-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE17_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 62 (forms <i>yén</i>, <i>yéni</i>, and <i>yēn</i>)</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+</li>
+</ol></div>

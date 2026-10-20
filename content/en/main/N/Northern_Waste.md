@@ -1,0 +1,135 @@
+---
+title: "Northern Waste"
+display_title: "<span class=\"mw-page-title-main\">Northern Waste</span>"
+page_id: 13559
+namespace: 0
+revision_id: 429267
+timestamp: "2025-12-12T14:13:32Z"
+source_url: "https://tolkiengateway.net/wiki/Northern_Waste"
+content_sha256: 6d307e7a6aa524db0ef4f586b151d6c76d2c940ea672ddb1a4c7dc28c7cc566c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evil realms"
+  - "Mannish realms"
+  - "Middle-earth"
+  - "Regions"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Forodwaith"
+    url: "https://www.ardapedia.org/wiki/Forodwaith"
+  - lang: "fi"
+    name: "suomi"
+    title: "Pohjoinen Autio"
+    url: "https://kontu.wiki/Pohjoinen_Autio"
+  - lang: "fr"
+    name: "français"
+    title: "/encyclo/geographie/regions/forodwaith"
+    url: "https://www.tolkiendil.com//encyclo/geographie/regions/forodwaith"
+images:
+  - "Rob_Alexander_-_Forod.jpg"
+  - "CdxIconArticleDisambiguation.svg"
+  - "Angelo_Montanini_-_Northern_Waste.jpg"
+  - "Waste_vs_forodwaith.png"
+  - "The_Rings_of_Power_(TV_series)_-_Forodwaith_Northern_Waste.png"
+infobox:
+  - label: "Other names"
+    value: "Forodwaith (S)"
+  - label: "Location"
+    value: "North of Angmar, Mount Gundabad and Ered Mithrin"
+  - label: "Type"
+    value: "Region"
+  - label: "Description"
+    value: "The icy, isolated north of Middle-earth"
+  - label: "Regions"
+    value: "Forochel, Cape of Forochel"
+  - label: "Inhabitants"
+    value: "Primarily Men"
+  - label: "Gallery"
+    value: "Images of the Northern Waste"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the region of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>. For the <a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">MERP</a> supplement, see <b><a href="/wiki/The_Northern_Waste" title="The Northern Waste">The Northern Waste</a></b>.</div></div>
+
+<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Rob_Alexander_-_Forod.jpg"><img src="/w/images/thumb/7/76/Rob_Alexander_-_Forod.jpg/320px-Rob_Alexander_-_Forod.jpg" decoding="async" loading="lazy" width="320" height="268" class="mw-file-element" srcset="/w/images/thumb/7/76/Rob_Alexander_-_Forod.jpg/480px-Rob_Alexander_-_Forod.jpg 1.5x, /w/images/7/76/Rob_Alexander_-_Forod.jpg 2x" data-file-width="525" data-file-height="439"/></a><figcaption>&#34;Forod&#34; by Rob Alexander</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Northern Waste</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Forodwaith</i> (<a href="/wiki/Sindarin" title="Sindarin">S</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">North of <a href="/wiki/Angmar" title="Angmar">Angmar</a>, <a href="/wiki/Gundabad" title="Gundabad">Mount Gundabad</a> and <a href="/wiki/Grey_Mountains" title="Grey Mountains">Ered Mithrin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">The icy, isolated north of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Regions</th><td class="tg-infobox-data"><a href="/wiki/Forochel" title="Forochel">Forochel</a>, <a class="mw-redirect" href="/wiki/Cape_of_Forochel" title="Cape of Forochel">Cape of Forochel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data">Primarily <a href="/wiki/Men" title="Men">Men</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="/wiki/Category:Images_of_the_Northern_Waste" title="Category:Images of the Northern Waste">Images of the Northern Waste</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+The **Northern Waste** was a vast cold region, in the far north end of [Middle-earth](/wiki/Middle-earth),<sup id="cite_ref-Map_1-0" class="reference"><a href="#cite_note-Map-1">[1]</a></sup> beyond the [Mountains of Angmar](/wiki/Mountains_of_Angmar), [Mount Gundabad](/wiki/Gundabad "Gundabad") and the [Ered Mithrin](/wiki/Grey_Mountains "Grey Mountains").
+
+The region was also named **Forodwaith** ([S.](/wiki/Sindarin "Sindarin"), "Northern lands, people"), probably after the hardy [Forodwaith](</wiki/Forodwaith_(people)> "Forodwaith (people)"), who once inhabited it.
+
+## History {#History}
+
+The Northern Waste had always been bitterly cold due to its proximity to [Morgoth](/wiki/Morgoth)'s realm and continued to remain cold into the later ages.<sup id="cite_ref-Eriador_2-0" class="reference"><a href="#cite_note-Eriador-2">[2]</a></sup>
+
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Angelo_Montanini_-_Northern_Waste.jpg"><img src="/w/images/3/35/Angelo_Montanini_-_Northern_Waste.jpg" decoding="async" loading="lazy" width="300" height="253" class="mw-file-element" data-file-width="300" data-file-height="253"/></a><figcaption>Angelo Montanini - <i>Northern Waste</i></figcaption></figure>
+
+The region was once inhabited by the [Forodwaith](</wiki/Forodwaith_(people)> "Forodwaith (people)"), a hardy [Mannish](/wiki/Men "Men") folk accustomed to the cold climate of the Northern Waste, whose name was also applied to the region. In later years the [Lossoth](/wiki/Lossoth), their [remnants](/wiki/Lossoth "Lossoth"), lived mostly on the [Cape of Forochel](/wiki/Cape_of_Forochel), but also camped on the southern shores of the Icebay of Forochel near the northern end of the [Blue Mountains](/wiki/Blue_Mountains).<sup id="cite_ref-Eriador_2-1" class="reference"><a href="#cite_note-Eriador-2">[2]</a></sup>
+
+In [T.A.](/wiki/Third_Age "Third Age") [1981](/wiki/Third_Age_1981 "Third Age 1981"),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> one of the strongest storms in the history of [Gondor](/wiki/Gondor) came from the Northern Waste through [Eriador](/wiki/Eriador) into Gondor, tore the ship of [Amroth](/wiki/Amroth) from its moorings near the elven harbour of [Edhellond](/wiki/Edhellond) and blew it out into the [Bay of Belfalas](/wiki/Bay_of_Belfalas).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+According to [Frodo Baggins](/wiki/Frodo_Baggins)'s [poem for Gandalf](/wiki/When_evening_in_the_Shire_was_grey "When evening in the Shire was grey"), [Gandalf](/wiki/Gandalf) had travelled "from northern waste to southern hill".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It is not known if Frodo meant the Northern Waste that lies north of the Mountains of Angmar and north of the Grey Mountains or some other waste in the north.
+
+[Dragons](/wiki/Dragons) dwelt in the wastes beyond the Grey Mountains.<sup id="cite_ref-Durin_6-0" class="reference"><a href="#cite_note-Durin-6">[6]</a></sup> It is not known if these wastes refer to the Northern Waste in the north of the Grey Mountains or to the [Withered Heath](/wiki/Withered_Heath) in the north-east of the southern and longer eastern branch of the Grey Mountains, which was known for its dragons.<sup id="cite_ref-Party_7-0" class="reference"><a href="#cite_note-Party-7">[7]</a></sup> After many years, the dragons multiplied and became strong and made [war](/wiki/War_of_the_Dwarves_and_Dragons "War of the Dwarves and Dragons") against the [Dwarves](/wiki/Dwarves).<sup id="cite_ref-Durin_6-1" class="reference"><a href="#cite_note-Durin-6">[6]</a></sup><sup id="cite_ref-Party_7-1" class="reference"><a href="#cite_note-Party-7">[7]</a></sup> Among these dragons were [Cold-drakes](/wiki/Cold-drakes) that drove the [Dwarves of the Grey Mountains](/wiki/Dwarves_of_the_Grey_Mountains) out of their homes.<sup id="cite_ref-Durin_6-2" class="reference"><a href="#cite_note-Durin-6">[6]</a></sup>
+
+## Other versions of the legendarium {#Other_versions_of_the_legendarium}
+
+On the [First Map of The Lord of the Rings](/wiki/First_Map_of_The_Lord_of_the_Rings), a label "Forodwaith (Northerland)" is written in the area corresponding to the general area of [Arnor](/wiki/Arnor). The comment "Forodwaith (or Eriador)" was added later on [The 1943 Map of The Lord of the Rings](/wiki/The_1943_Map_of_The_Lord_of_the_Rings).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This and the absence of the name Eriador from earlier manuscripts suggest that Forodwaith was initially used as a name of the region that would be later called Eriador in the published book.
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Waste_vs_forodwaith.png"><img src="/w/images/f/f1/Waste_vs_forodwaith.png" decoding="async" loading="lazy" width="278" height="243" class="mw-file-element" data-file-width="278" data-file-height="243"/></a><figcaption>The different definitions of &#34;Forodwaith&#34; between the earlier and the later map.</figcaption></figure>
+
+In the [General Map of Middle-earth](/wiki/General_Map_of_Middle-earth) that was drawn by [Christopher Tolkien](/wiki/Christopher_Tolkien) and published with earlier editions of *The Lord of the Rings*, the northern portion of the [Westlands](/wiki/Westlands) is featureless, labelled as "NORTHERN WASTE", with the name "FORODWAITH", in slightly smaller letters, above the [Mountains of Angmar](/wiki/Mountains_of_Angmar). These labels could suggest that Forodwaith was a part of the wider Northern Waste, if not a smaller separate region. This nomenclature was carried over to [Pauline Baynes](/wiki/Pauline_Baynes)'s *[A Map of Middle-earth](/wiki/A_Map_of_Middle-earth)*.
+
+Later, Christopher Tolkien realized that the two names certainly seem to have been intended as synonymous, because Forodwaith seems to be explicitly equated with the Northern Waste in one of J.R.R. Tolkien's sketch-maps.<sup id="cite_ref-intro_9-0" class="reference"><a href="#cite_note-intro-9">[9]</a></sup> The misunderstanding was corrected in his later map known as [The West of Middle-earth at the End of the Third Age](/wiki/The_West_of_Middle-earth_at_the_End_of_the_Third_Age), where only the name "FORODWAITH" appears, labeling all the blank portion north of the [Mountains of Angmar](/wiki/Mountains_of_Angmar) and north of the [Grey Mountains](/wiki/Grey_Mountains).<sup id="cite_ref-Map_1-1" class="reference"><a href="#cite_note-Map-1">[1]</a></sup> On [The Third Map of The Lord of the Rings](/wiki/The_Third_Map_of_The_Lord_of_the_Rings) the label "NORTHERN WASTE" north of the Mountains of Angmar and the Grey Mountains has a label "(FORODWAITH)" just below the first label.
+
+## Portrayal in adaptations {#Portrayal_in_adaptations}
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Rings_of_Power_(TV_series)_-_Forodwaith_Northern_Waste.png"><img src="/w/images/thumb/1/15/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png/300px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png" decoding="async" loading="lazy" width="300" height="125" class="mw-file-element" srcset="/w/images/thumb/1/15/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png/450px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png 1.5x, /w/images/thumb/1/15/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png/600px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Northern_Waste.png 2x" data-file-width="1920" data-file-height="800"/></a><figcaption>The Forodwaith Northern Waste from the <a href="/wiki/A_Shadow_of_the_Past" title="A Shadow of the Past">first episode</a> of <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></figcaption></figure>
+
+### Television {#Television}
+
+<b>2022: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+
+<dl><dd><b>September 1: <i><a href="/wiki/A_Shadow_of_the_Past" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
+<dl><dd><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> and her company investigates a <a href="/wiki/D%C3%BArnost" title="Dúrnost">fortress</a> located within the Forodwaith Northern Waste which was the home of countless <a href="/wiki/Snow-trolls" title="Snow-trolls">Hristorco</a>, <a href="/wiki/Trolls" title="Trolls">Trolls</a> that had adapted to live within the harsh and cold climates of the North.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Galadriel&#39;s company is ambushed by a Hristorco living within the fortress that they were investigating.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 1]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup></dd></dl></dd></dl>
+
+## Notes {#Notes}
+
+<span><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">The map that <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> possesses has two sets of runes. One of which translates to either <i><a href="/wiki/D%C3%BArnost" title="Dúrnost">Dûrnost</a></i> or <i><a href="/wiki/D%C3%BArnost" title="Dúrnost">Tundorach</a></i>, possibly the name of the <a href="/wiki/D%C3%BArnost" title="Dúrnost">Forodwaith fortress</a>.</span>
+</li>
+</ol></div></span>
+
+## References {#References}
+
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Map-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Map_1-0">1.0</a></sup> <sup><a href="#cite_ref-Map_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_West_of_Middle-earth_at_the_End_of_the_Third_Age" title="The West of Middle-earth at the End of the Third Age">The West of Middle-earth at the End of the Third Age</a>&#34; [map]</span>
+</li>
+<li id="cite_note-Eriador-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eriador_2-0">2.0</a></sup> <sup><a href="#cite_ref-Eriador_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Eriador, Arnor, and the Heirs of Isildur&#34;, <i>The North-kingdom and the Dúnedain</i>, entry about King Arvedui including the footnote relating to the Snowmen of Forochel, p. 1041</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;, entry for the year 1981, p. 1087</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_History_of_Galadriel_and_Celeborn" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;, &#34;Amroth and Nimrodel&#34;</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Mirror_of_Galadriel" title="The Mirror of Galadriel">The Mirror of Galadriel</a>&#34;, pp. 359-360</span>
+</li>
+<li id="cite_note-Durin-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Durin_6-0">6.0</a></sup> <sup><a href="#cite_ref-Durin_6-1">6.1</a></sup> <sup><a href="#cite_ref-Durin_6-2">6.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;Durin&#39;s Folk&#34;, p. 1072</span>
+</li>
+<li id="cite_note-Party-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Party_7-0">7.0</a></sup> <sup><a href="#cite_ref-Party_7-1">7.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/An_Unexpected_Party" title="An Unexpected Party">An Unexpected Party</a>&#34;</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">
+<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XV. The First Map of <i>The Lord of the Rings</i>&#34;, &#34;Map II&#34;, p. 306</span>
+</li>
+<li id="cite_note-intro-9"><span class="mw-cite-backlink"><a href="#cite_ref-intro_9-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;Introduction&#34;, &#34;The Map of Middle-earth&#34;, including the footnote relating to Forodwaith</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Amazon Prime&#39;s &#34;X-Ray feature&#34;</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external free" href="https://mobile.twitter.com/NosyDr/status/1566860112601534466" rel="noreferrer noopener" target="_blank">https://mobile.twitter.com/NosyDr/status/1566860112601534466</a></span>
+</li>
+</ol></div>

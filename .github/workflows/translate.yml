@@ -1,0 +1,54 @@
+name: translate
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: corpus-translate
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    # This runner owns ~/.config/tolkiengateway/routes.json and the SSH
+    # configuration for server1/2/3. Secrets stay in the runner environment.
+    runs-on: [self-hosted, linux]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: tamnd/tolkiengateway-reader
+          path: .reader
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: .reader/go.mod
+
+      - name: translate pending and changed articles
+        working-directory: .reader
+        env:
+          TOLKIENGATEWAY_CORPUS: ${{ github.workspace }}
+        run: go run ./cmd/tgw translate --corpus "$GITHUB_WORKSPACE"
+
+      - name: audit Vietnamese corpus
+        working-directory: .reader
+        run: go run ./cmd/tgw audit --corpus "$GITHUB_WORKSPACE" --lang vi
+
+      - name: open translation pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Translate Tolkien Gateway articles into Vietnamese"
+          title: "Translate Tolkien Gateway articles into Vietnamese"
+          body: |
+            Automated Vietnamese translation using the durable llm queue.
+
+            Every model attempt is recorded in the runner's local ledger and
+            every output preserves source revision and license metadata.
+          branch: automation/tolkiengateway-translate
+          delete-branch: true

@@ -1,0 +1,35 @@
+---
+title: "File:Henning Janssen - Elven Swan Gondola.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Henning Janssen - Elven Swan Gondola.jpg</span>"
+page_id: 40584
+namespace: 6
+revision_id: 426894
+timestamp: "2025-10-26T14:04:34Z"
+source_url: "https://tolkiengateway.net/wiki/File:Henning_Janssen_-_Elven_Swan_Gondola.jpg"
+content_sha256: e25c743cdada5b1814eee5840722b8d54860149e4d1dcfe6e6588f96fc6edfb5
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Henning Janssen"
+  - "Images of Swan-ships"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/0/0d/Henning_Janssen_-_Elven_Swan_Gondola.jpg"
+  mime: "image/jpeg"
+  size: 186322
+  width: 800
+  height: 545
+  sha1: "57cf18a8ac3f506ff17910125c1763a5a2f8691b"
+  timestamp: "2012-07-19T16:50:03Z"
+  user: "KingAragorn"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Henning Janssen</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Henning_Janssen" title="Henning Janssen">Henning Janssen</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Henning_Janssen" title="Henning Janssen">Henning Janssen</a></li>
+<li><b>Website:</b> <a class="external text" href="https://www.artstation.com/henj" rel="noreferrer noopener" target="_blank">Henning Janssen&#39;s ArtStation</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Henning_Janssen" title="Tolkien Gateway:Copyrights/Henning Janssen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

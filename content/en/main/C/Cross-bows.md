@@ -1,0 +1,70 @@
+---
+title: "Cross-bows"
+display_title: "<span class=\"mw-page-title-main\">Cross-bows</span>"
+page_id: 23890
+namespace: 0
+revision_id: 405145
+timestamp: "2024-08-23T02:47:42Z"
+source_url: "https://tolkiengateway.net/wiki/Cross-bows"
+content_sha256: 013fbfec35032fa943149083bdd95bf9bdb8b9051adbb7be60349747f0d1f973
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Weapons"
+---
+
+**Cross-bows** are only known to be have been mentioned once in the stories about [Arda](/wiki/Arda), as a weapon devised by the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans). While used in particular to shoot predatory [birds](/wiki/Category:Birds "Category:Birds"), cross-bows appear to also have found other use in [Númenor](/wiki/N%C3%BAmenor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## Portrayal in adaptations {#Portrayal_in_adaptations}
+
+<b>1982-97: <i><a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+
+<dl><dd>As part of the roleplaying game&#39;s extrapolation of Middle-earth&#39;s aspects, crossbows occur as a rarer form of archery weapon. They are used most commonly by the dwarves, who are implied to be their original inventors. They can be sometimes found in the possession of some half-elves and half-trolls as well. Hobbits also occasionally use them, specifically smaller light crossbows. These are referred to as &#34;bracebows&#34;.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+
+<b>2002: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+
+<dl><dd>In the film, the <a href="/wiki/Uruk-hai" title="Uruk-hai">Uruk-hai</a> use fairly large crossbows at <a href="/wiki/Helm%27s_Deep" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, presumably designed by Saruman. The Uruk crossbowmen are featured relatively little in scenes during the siege, mainly at the beginning and while trying to conquer the first gatehouse of the fortress, shooting at the defenders through gaps in the damaged gate. They use their crossbows with ease and deadly accuracy. Though the crossbows are reloaded somewhat slower than a bow, they feature an integrated spanning lever, which allows for faster spanning of the bowstring and makes additional spanning tools unnecessary. In the behind the scenes documentaries of the film&#39;s Extended Edition, concept artist <a href="/wiki/John_Howe" title="John Howe">John Howe</a> and production designer <a href="/wiki/Richard_Taylor" title="Richard Taylor">Richard Taylor</a> briefly discuss and demonstrate the Uruk crossbow props, made by Weta Workshop. Howe reveals that the inspiration for the crossbow came from an early 16th century design, found in the <i>Codex Löffelholz</i> manuscript from Germany.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+
+<b>2006: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+
+<dl><dd>Uruk crossbowmen are portrayed as a deadly fighting unit.</dd></dl>
+
+<b>2007: <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+
+<dl><dd>Crossbows are available to player characters as handheld ranged weapons. They are less common than bows. Some player character classes, such as the Champion, are not allowed to use the weapon.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+
+<b>2011: <i><a href="/wiki/The_Lord_of_the_Rings:_War_in_the_North" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
+
+<dl><dd>A steel dwarven crossbow is one of the ranged weapons available to the (non-canon) dwarf player character <a href="/wiki/Farin_(video_game_character)" title="Farin (video game character)">Farin</a>.</dd></dl>
+
+## See also {#See_also}
+
+- [Bows](/wiki/Bows)
+
+## External links {#External_links}
+
+- <a class="external text" href="https://middle-earth.xenite.org/were-there-crossbows-in-middle-earth/" rel="noreferrer noopener" target="_blank">Were There Crossbows in Middle-earth?</a> by [Michael Martinez](/wiki/Michael_Martinez)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part Three. The World, its Lands, and its Inhabitants: XIII. Of the Land and Beasts of Númenor,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+, p. 340</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Coleman_Charlton" title="Coleman Charlton">S. Coleman Charlton</a>, <i><a href="/wiki/Middle-earth_Role_Playing_(2nd_edition)" title="Middle-earth Role Playing (2nd edition)">Middle-earth Role Playing (2nd edition, hardcover)</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2000, 1993)
+</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/Coleman_Charlton" title="Coleman Charlton">S. Coleman Charlton</a>, <i><a href="/wiki/Middle-earth_Role_Playing_(2nd_edition)" title="Middle-earth Role Playing (2nd edition)">Middle-earth Role Playing (2nd edition, softcover)</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2001, 1993)
+</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://64.media.tumblr.com/d3bf0b6e3be81429b4354a8450931e1e/tumblr_inline_p7gv45UUWO1r7rikj_250.gifv" rel="noreferrer noopener" target="_blank">Animated image of Richard Taylor demonstrating the functional Uruk crossbow prop</a>, Weta Workshop featurette, <i>The Lord of the Rings: The Two Towers</i> Extended Edition</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://jbc.bj.uj.edu.pl/dlibra/doccontent?id=258834" rel="noreferrer noopener" target="_blank"><i>Codex Löffelholz</i> in .pdf format at the Jagellonian Bibliotheque</a> - historical design that inspired the film crossbows by Howe and Weta Workshop</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=kXli68FbqTE" rel="noreferrer noopener" target="_blank">Video demonstrating a professionally reconstructed <i>Codex Löffelholz</i> crossbow</a> - the rare historical design that inspired the film&#39;s Uruk crossbows</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://lotro-wiki.com/index.php/Category:Crossbow_Items" rel="noreferrer noopener" target="_blank">Crossbow Items</a> <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> Wiki</span>
+</li>
+</ol></div>

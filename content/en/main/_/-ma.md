@@ -1,0 +1,111 @@
+---
+title: "-ma"
+display_title: "<span class=\"mw-page-title-main\">-ma</span>"
+page_id: 34429
+namespace: 0
+revision_id: 404403
+timestamp: "2024-08-23T01:27:08Z"
+source_url: "https://tolkiengateway.net/wiki/-ma"
+content_sha256: 84b675ba86956b32b4189185b3c8f348700bab2968edd980545693345683722c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Quenya suffixes"
+sort_keys:
+  "Quenya suffixes": "ma"
+---
+
+**-ma** is a [Quenya](/wiki/Quenya) nominal (concretizing) ending denoting a thing (usually object) having something to do with the root meaning; either having its properties or being produced by the verbal action in question; or even being a tool used to accomplish it.
+
+In general, *-ma* seems to be stuck to naked [roots](/wiki/Root "Root") or stems to produce the nouns. Eg. <a class="new" href="/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a> &gt; <i><a class="new" href="/w/index.php?title=Rilma&amp;action=edit&amp;redlink=1" title="Rilma (page does not exist)">rilma</a></i> "glittering light"; verb stems <i><a class="new" href="/w/index.php?title=Par-&amp;action=edit&amp;redlink=1" title="Par- (page does not exist)">par-</a></i> "to learn" &gt; *[parma](/wiki/Parma "Parma")* "book". However, full nouns can also be suffixed with *-ma* to produce another object: Eg. <i><a class="new" href="/w/index.php?title=L%C3%ADco&amp;action=edit&amp;redlink=1" title="Líco (page does not exist)">líco</a></i> "wax" &gt; <i><a class="new" href="/w/index.php?title=L%C3%ADcuma&amp;action=edit&amp;redlink=1" title="Lícuma (page does not exist)">lícuma</a></i> "candle".
+
+## Etymology {#Etymology}
+
+*-ma* derives from [Primitive Quendian](/wiki/Primitive_Quendian) <i><a class="new" href="/w/index.php?title=-m%C3%A2&amp;action=edit&amp;redlink=1" title="-mâ (page does not exist)">-mâ</a></i> frequent in the names of implements.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Such PQ nouns have yielded Quenya -ma nouns, for example <i><a class="new" href="/w/index.php?title=Tuim%C3%A2&amp;action=edit&amp;redlink=1" title="Tuimâ (page does not exist)">tuimâ</a></i> &gt; <i><a class="new" href="/w/index.php?title=Tuima&amp;action=edit&amp;redlink=1" title="Tuima (page does not exist)">tuima</a></i> or <i><a class="new" href="/w/index.php?title=Sjalm%C3%A2&amp;action=edit&amp;redlink=1" title="Sjalmâ (page does not exist)">sjalmâ</a></i> &gt; *[hyalma](/wiki/Hyalma "Hyalma")*.
+
+In some phonological environments, *-ma* appears in allomorphs in later Quenya: Nouns in *-wa* or *-ba* might conceal a primitive *-mâ*. For example PQ <i><a class="new" href="/w/index.php?title=Labm%C3%A2&amp;action=edit&amp;redlink=1" title="Labmâ (page does not exist)">labmâ</a></i> &gt; Q <i><a class="new" href="/w/index.php?title=Lamba&amp;action=edit&amp;redlink=1" title="Lamba (page does not exist)">lamba</a></i> (metathesis of *bm* to *mb*) or PQ <i><a class="new" href="/w/index.php?title=Takm%C3%A2&amp;action=edit&amp;redlink=1" title="Takmâ (page does not exist)">takmâ</a></i> &gt; Q <i><a class="new" href="/w/index.php?title=Tangwa&amp;action=edit&amp;redlink=1" title="Tangwa (page does not exist)">tangwa</a></i> (nasalization and strengthening of *k* before *m* and velarization of *m*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+
+It is obviously related to similar endings like *[-mo](/wiki/-mo)* (which indicates a person or doer) or *[-me](/wiki/-me)* (which form a more abstract noun) which behave and operate similarly. For example <i><a class="new" href="/w/index.php?title=Alma&amp;action=edit&amp;redlink=1" title="Alma (page does not exist)">alma</a></i> "wealth" vs <i><a class="new" href="/w/index.php?title=Alme&amp;action=edit&amp;redlink=1" title="Alme (page does not exist)">alme</a></i> "blessing", *[carma](/wiki/Carma "Carma")* "tool" vs <i><a class="new" href="/w/index.php?title=Carme&amp;action=edit&amp;redlink=1" title="Carme (page does not exist)">carme</a></i> "art".
+
+## Examples {#Examples}
+
+A list of most known Quenya nouns that include the suffix *-ma*, along with the words' [root](/wiki/Root "Root"), and [Primitive Quendian](/wiki/Primitive_Quendian) origins where they are known.
+
+- ([GALA](/wiki/GALA)) <i><a class="new" href="/w/index.php?title=Alma&amp;action=edit&amp;redlink=1" title="Alma (page does not exist)">alma</a></i> "wealth"
+- ([AS](/wiki/AS)) <i><a class="new" href="/w/index.php?title=Arma&amp;action=edit&amp;redlink=1" title="Arma (page does not exist)">arma</a></i> "sun ray"
+- (<a class="new" href="/w/index.php?title=KAY&amp;action=edit&amp;redlink=1" title="KAY (page does not exist)">KAY</a>) <i><a class="new" href="/w/index.php?title=Caima&amp;action=edit&amp;redlink=1" title="Caima (page does not exist)">caima</a></i> "bed"
+- ([KAL](/wiki/KAL)) *[calma](/wiki/Calma "Calma")* "lamp"
+- (<a class="new" href="/w/index.php?title=KAR&amp;action=edit&amp;redlink=1" title="KAR (page does not exist)">KAR</a>) *carma* "tool"
+- (<a class="new" href="/w/index.php?title=KEL&amp;action=edit&amp;redlink=1" title="KEL (page does not exist)">KEL</a>) <i><a class="new" href="/w/index.php?title=Celma&amp;action=edit&amp;redlink=1" title="Celma (page does not exist)">celma</a></i> "channel"
+- (<a class="new" href="/w/index.php?title=KOR&amp;action=edit&amp;redlink=1" title="KOR (page does not exist)">KOR</a>) *[corma](/wiki/Corma "Corma")* "ring"
+- ([KUL](/wiki/KUL)) *[culuma](/wiki/Kuluma "Kuluma")* "orange"
+- (<a class="new" href="/w/index.php?title=PHAL&amp;action=edit&amp;redlink=1" title="PHAL (page does not exist)">PHAL</a>) *[falma](/wiki/Falma "Falma")* "wave"
+- (\*HAM? \*KHAM?) <i><a class="new" href="/w/index.php?title=Hamma&amp;action=edit&amp;redlink=1" title="Hamma (page does not exist)">hamma</a></i> "chair"
+- (<a class="new" href="/w/index.php?title=%C8%9CAR&amp;action=edit&amp;redlink=1" title="ȜAR (page does not exist)">ȜAR</a>) *[harma](/wiki/Harma "Harma")* "treasure"
+- (<a class="new" href="/w/index.php?title=SYAL&amp;action=edit&amp;redlink=1" title="SYAL (page does not exist)">SYAL</a>) <i><a class="new" href="/w/index.php?title=Sjalm%C4%81&amp;action=edit&amp;redlink=1" title="Sjalmā (page does not exist)">sjalmā</a></i> &gt; *[hyalma](/wiki/Hyalma "Hyalma")* "shell, conch"
+- (<a class="new" href="/w/index.php?title=GIL&amp;action=edit&amp;redlink=1" title="GIL (page does not exist)">GIL</a>) <i><a class="new" href="/w/index.php?title=Ilma&amp;action=edit&amp;redlink=1" title="Ilma (page does not exist)">Ilma</a></i> "starlight"
+- (<a class="new" href="/w/index.php?title=SKEL&amp;action=edit&amp;redlink=1" title="SKEL (page does not exist)">SKEL</a>) <i><a class="new" href="/w/index.php?title=Skelm%C4%81&amp;action=edit&amp;redlink=1" title="Skelmā (page does not exist)">skelmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Helma&amp;action=edit&amp;redlink=1" title="Helma (page does not exist)">helma</a></i> "skin"
+- (\*SLOY) <i><a class="new" href="/w/index.php?title=Hloima&amp;action=edit&amp;redlink=1" title="Hloima (page does not exist)">hloima</a></i> "poison"
+- (<a class="new" href="/w/index.php?title=SKWAR&amp;action=edit&amp;redlink=1" title="SKWAR (page does not exist)">SKWAR</a>) <i><a class="new" href="/w/index.php?title=Hwarma&amp;action=edit&amp;redlink=1" title="Hwarma (page does not exist)">hwarma</a></i> "crossbar"
+- (\*<a class="new" href="/w/index.php?title=LAYAK&amp;action=edit&amp;redlink=1" title="LAYAK (page does not exist)">LAY</a>) <i><a class="new" href="/w/index.php?title=Laima&amp;action=edit&amp;redlink=1" title="Laima (page does not exist)">laima</a></i> "plant"
+- (<a class="new" href="/w/index.php?title=LABA&amp;action=edit&amp;redlink=1" title="LABA (page does not exist)">LABA</a>) <i><a class="new" href="/w/index.php?title=Labm%C4%81&amp;action=edit&amp;redlink=1" title="Labmā (page does not exist)">labmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Lamba&amp;action=edit&amp;redlink=1" title="Lamba (page does not exist)">lamba</a></i> "tongue"
+- (\*LAR) <i><a class="new" href="/w/index.php?title=Larma&amp;action=edit&amp;redlink=1" title="Larma (page does not exist)">larma</a></i> "raiment"
+- <a class="new" href="/w/index.php?title=L%C3%ADco&amp;action=edit&amp;redlink=1" title="Líco (page does not exist)">líco</a> &gt; <i><a class="new" href="/w/index.php?title=L%C3%ADcuma&amp;action=edit&amp;redlink=1" title="Lícuma (page does not exist)">lícuma</a></i> "taper, candle"
+- (\*LOY) <i><a class="new" href="/w/index.php?title=Loima&amp;action=edit&amp;redlink=1" title="Loima (page does not exist)">loima</a></i> "mistake"
+- ([NAK](/wiki/NAK)) <i><a class="new" href="/w/index.php?title=Nakma&amp;action=edit&amp;redlink=1" title="Nakma (page does not exist)">nakma</a></i> &gt; <i><a class="new" href="/w/index.php?title=Nangwa&amp;action=edit&amp;redlink=1" title="Nangwa (page does not exist)">nangwa</a></i> "jaw"
+- (<a class="new" href="/w/index.php?title=SNEW&amp;action=edit&amp;redlink=1" title="SNEW (page does not exist)">SNEW</a>) <i><a class="new" href="/w/index.php?title=Neuma&amp;action=edit&amp;redlink=1" title="Neuma (page does not exist)">neuma</a></i> "snare"
+- (<a class="new" href="/w/index.php?title=%C3%91GWAL&amp;action=edit&amp;redlink=1" title="ÑGWAL (page does not exist)">ÑGWAL</a>) <i><a class="new" href="/w/index.php?title=Nwalma&amp;action=edit&amp;redlink=1" title="Nwalma (page does not exist)">nwalma</a></i> "pain"
+- (\*PAR) <i><a class="new" href="/w/index.php?title=Parm%C3%A2&amp;action=edit&amp;redlink=1" title="Parmâ (page does not exist)">parmâ</a></i> &gt; *[parma](/wiki/Parma "Parma")* "book"
+- (\*REM) <i><a class="new" href="/w/index.php?title=Remma&amp;action=edit&amp;redlink=1" title="Remma (page does not exist)">remma</a></i> "snare"
+- (<a class="new" href="/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a>) <i><a class="new" href="/w/index.php?title=Rilma&amp;action=edit&amp;redlink=1" title="Rilma (page does not exist)">rilma</a></i> "glittering light"
+- (<a class="new" href="/w/index.php?title=R%C4%AA&amp;action=edit&amp;redlink=1" title="RĪ (page does not exist)">RĪ</a>) <i><a class="new" href="/w/index.php?title=R%C3%ADma&amp;action=edit&amp;redlink=1" title="Ríma (page does not exist)">ríma</a></i> "edge, hem, border"
+- (<a class="new" href="/w/index.php?title=SAG&amp;action=edit&amp;redlink=1" title="SAG (page does not exist)">SAG</a>) <i><a class="new" href="/w/index.php?title=Sagm%C4%81&amp;action=edit&amp;redlink=1" title="Sagmā (page does not exist)">sagmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Sangwa&amp;action=edit&amp;redlink=1" title="Sangwa (page does not exist)">sangwa</a></i> "poison"
+- (\*THEL) <i><a class="new" href="/w/index.php?title=Thelma&amp;action=edit&amp;redlink=1" title="Thelma (page does not exist)">selma</a></i> "a fixed idea, will"
+- ([SIL](/wiki/SIL)) <i><a class="new" href="/w/index.php?title=Silma&amp;action=edit&amp;redlink=1" title="Silma (page does not exist)">silma</a></i> "silver, shining white"
+- (<a class="new" href="/w/index.php?title=SUK&amp;action=edit&amp;redlink=1" title="SUK (page does not exist)">SUK</a>) <i><a class="new" href="/w/index.php?title=Sukm%C4%81&amp;action=edit&amp;redlink=1" title="Sukmā (page does not exist)">sukmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Sungwa&amp;action=edit&amp;redlink=1" title="Sungwa (page does not exist)">sungwa</a></i> "drinking-vessel"
+- (<a class="new" href="/w/index.php?title=TAY&amp;action=edit&amp;redlink=1" title="TAY (page does not exist)">TAY</a>) <i><a class="new" href="/w/index.php?title=Taima&amp;action=edit&amp;redlink=1" title="Taima (page does not exist)">taima</a></i> "lengthening, extension"
+- (<a class="new" href="/w/index.php?title=TAM&amp;action=edit&amp;redlink=1" title="TAM (page does not exist)">TAM</a>) <i><a class="new" href="/w/index.php?title=Tamma&amp;action=edit&amp;redlink=1" title="Tamma (page does not exist)">tamma</a></i> "tool"
+- (<a class="new" href="/w/index.php?title=TAK&amp;action=edit&amp;redlink=1" title="TAK (page does not exist)">TAK</a>) <i><a class="new" href="/w/index.php?title=Takm%C4%81&amp;action=edit&amp;redlink=1" title="Takmā (page does not exist)">takmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Tangwa&amp;action=edit&amp;redlink=1" title="Tangwa (page does not exist)">tangwa</a></i> "hasp, clasp"
+- (<a class="new" href="/w/index.php?title=TA%C8%9C&amp;action=edit&amp;redlink=1" title="TAȜ (page does not exist)">TAȜ</a>) <i><a class="new" href="/w/index.php?title=Tarma&amp;action=edit&amp;redlink=1" title="Tarma (page does not exist)">tarma</a></i> "pillar"
+- (<a class="new" href="/w/index.php?title=TEL&amp;action=edit&amp;redlink=1" title="TEL (page does not exist)">TEL</a>) <i><a class="new" href="/w/index.php?title=Telm%C4%81&amp;action=edit&amp;redlink=1" title="Telmā (page does not exist)">telmā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Telma&amp;action=edit&amp;redlink=1" title="Telma (page does not exist)">telma</a></i> "conclusion, last item in a structure"
+- ([TEÑ](/wiki/TE%C3%91)) *[téma](/wiki/T%C3%A9ma "Téma")* "series"
+- ([TEK](/wiki/TEK)) <i><a class="new" href="/w/index.php?title=Tekm%C3%A2&amp;action=edit&amp;redlink=1" title="Tekmâ (page does not exist)">tekmâ</a></i> &gt; *[tengwa](/wiki/Tengwa "Tengwa")* "letter"
+- ([TOL](/wiki/TOL)) *[tolma](/wiki/Tolma "Tolma")* "protuberance"
+- (<a class="new" href="/w/index.php?title=TUY&amp;action=edit&amp;redlink=1" title="TUY (page does not exist)">TUY</a>) <i><a class="new" href="/w/index.php?title=Tuim%C4%81&amp;action=edit&amp;redlink=1" title="Tuimā (page does not exist)">tuimā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Tuima&amp;action=edit&amp;redlink=1" title="Tuima (page does not exist)">tuima</a></i> "sprout, bud"
+- (\*TYEL) <i><a class="new" href="/w/index.php?title=Tyelma&amp;action=edit&amp;redlink=1" title="Tyelma (page does not exist)">tyelma</a></i> "ending"
+- (\*<a class="new" href="/w/index.php?title=TYUL&amp;action=edit&amp;redlink=1" title="TYUL (page does not exist)">KYUL</a>) <i><a class="new" href="/w/index.php?title=Kjulum%C4%81&amp;action=edit&amp;redlink=1" title="Kjulumā (page does not exist)">kjulumā</a></i> &gt; <i><a class="new" href="/w/index.php?title=Tyulma&amp;action=edit&amp;redlink=1" title="Tyulma (page does not exist)">tyulma</a></i> "mast"
+- (<a class="new" href="/w/index.php?title=WIL&amp;action=edit&amp;redlink=1" title="WIL (page does not exist)">WIL</a>) <i><a class="new" href="/w/index.php?title=Wilma&amp;action=edit&amp;redlink=1" title="Wilma (page does not exist)">wilma</a></i> "air, lower air"
+- (<a class="new" href="/w/index.php?title=YUL&amp;action=edit&amp;redlink=1" title="YUL (page does not exist)">YUL</a>) <i><a class="new" href="/w/index.php?title=Julm%C4%81&amp;action=edit&amp;redlink=1" title="Julmā (page does not exist)">julmā</a></i> &gt; *[yulma](/wiki/Yulma "Yulma")* "cup"
+
+## Other possible examples {#Other_possible_examples}
+
+Many Quenya nouns might end in *-ma* however that does not indicate the existence of a suffixed *-ma* proper ending. For example, the word *[ráma](/wiki/R%C3%A1ma "Ráma")* derives from a root <a class="new" href="/w/index.php?title=RAM&amp;action=edit&amp;redlink=1" title="RAM (page does not exist)">RAM</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Therefore it is not analyzed as \*\**rá-ma* but as *rám-a*.
+
+There are other nouns of such ambiguous etymology, as for example <i><a class="new" href="/w/index.php?title=Lamma&amp;action=edit&amp;redlink=1" title="Lamma (page does not exist)">lamma</a></i> "sound" from root <a class="new" href="/w/index.php?title=LAM&amp;action=edit&amp;redlink=1" title="LAM (page does not exist)">LAM</a>. It could be analyzed as LAM + *-ma* but also the double *mm* might simply be the result of <i><a class="new" href="/w/index.php?title=Antoryame&amp;action=edit&amp;redlink=1" title="Antoryame (page does not exist)">antoryame</a></i> (q.v.) of the radical consonant LA**M**.
+
+Nouns of ambiguous or unknown etymology that might contain *-ma* are:
+
+<i><a class="new" href="/w/index.php?title=Cauma&amp;action=edit&amp;redlink=1" title="Cauma (page does not exist)">cauma</a></i> "protection", <i><a class="new" href="/w/index.php?title=Emma&amp;action=edit&amp;redlink=1" title="Emma (page does not exist)">emma</a></i> "picture", <i><a class="new" href="/w/index.php?title=Erma&amp;action=edit&amp;redlink=1" title="Erma (page does not exist)">erma</a></i> "physical mater, <i><a class="new" href="/w/index.php?title=Farma&amp;action=edit&amp;redlink=1" title="Farma (page does not exist)">farma</a></i>, <i><a class="new" href="/w/index.php?title=Lamma&amp;action=edit&amp;redlink=1" title="Lamma (page does not exist)">lamma</a></i> "sound", <i><a class="new" href="/w/index.php?title=Namma&amp;action=edit&amp;redlink=1" title="Namma (page does not exist)">namma</a></i> "claw, talon", <i><a class="new" href="/w/index.php?title=Orma&amp;action=edit&amp;redlink=1" title="Orma (page does not exist)">orma</a></i> "physical matter", <i><a class="new" href="/w/index.php?title=Querma&amp;action=edit&amp;redlink=1" title="Querma (page does not exist)">querma</a></i> "spinning wheel", *[síma](/wiki/S%C3%ADma "Síma")* "mind, imagination", <i><a class="new" href="/w/index.php?title=Solma&amp;action=edit&amp;redlink=1" title="Solma (page does not exist)">solma</a></i> (also <a class="new" href="/w/index.php?title=S%C3%B3l&amp;action=edit&amp;redlink=1" title="Sól (page does not exist)">sól</a>) "helmet", <i><a class="new" href="/w/index.php?title=S%C3%BAma&amp;action=edit&amp;redlink=1" title="Súma (page does not exist)">súma</a></i> "hollow cavity"
+
+## Cognates {#Cognates}
+
+Because of [lenition](/wiki/Lenition "Lenition") and <a class="new" href="/w/index.php?title=Apocope&amp;action=edit&amp;redlink=1" title="Apocope (page does not exist)">apocope</a> of final vowels, all endings *-ma*, *-me* and *-mo* have been reduced to a final *-v* in [Sindarin](/wiki/Sindarin) which doesn't seem to work as a productive suffix. In some cases it even has disappeared according to the phonological environment. For example Q. *tengwa* &gt; S. <i><a class="new" href="/w/index.php?title=T%C3%AAw&amp;action=edit&amp;redlink=1" title="Têw (page does not exist)">têw</a></i>
+
+## Inspiration {#Inspiration}
+
+*-ma* is a frequent ending of Greek neutral nouns, such as *thelema*, *schema*, *stigma*, *enigma* etc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i> p.416</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a>, <a class="new" href="/w/index.php?title=Vicente_Velasco&amp;action=edit&amp;redlink=1" title="Vicente Velasco (page does not exist)">Vicente Velasco</a> (ed.) <i><a class="external text" href="http://www.uib.no/people/hnohf/qevolution.pdf" rel="noreferrer noopener" target="_blank">The Evolution from Primitive Elvish to Quenya</a></i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry RAM</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Lise Mann &#34;Elvish Loanwords in Indo-European&#34; <i><a href="/wiki/An_Introduction_to_Elvish" title="An Introduction to Elvish">An Introduction to Elvish</a></i></span>
+</li>
+</ol></div>

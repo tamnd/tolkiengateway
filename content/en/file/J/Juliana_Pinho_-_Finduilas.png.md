@@ -1,0 +1,35 @@
+---
+title: "File:Juliana Pinho - Finduilas.png"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Juliana Pinho - Finduilas.png</span>"
+page_id: 51097
+namespace: 6
+revision_id: 277076
+timestamp: "2015-08-07T19:11:13Z"
+source_url: "https://tolkiengateway.net/wiki/File:Juliana_Pinho_-_Finduilas.png"
+content_sha256: 9e5c272c8e1bfb258b7700bfa6e0b3e445d37ea0b66e51fd9517f05042a78a5f
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Juliana Pinho"
+  - "Images of Finduilas"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/7/7e/Juliana_Pinho_-_Finduilas.png"
+  mime: "image/png"
+  size: 370291
+  width: 500
+  height: 603
+  sha1: "740b6f1e1c8952a62b4b0133b0acc3105862810b"
+  timestamp: "2015-08-07T19:11:13Z"
+  user: "Mith"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Juliana Pinho</span></span>
+<p>This work is copyrighted and owned by Juliana Pinho. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Juliana Pinho</li>
+<li><b>Website:</b> <a class="external text" href="http://jubah.deviantart.com" rel="noreferrer noopener" target="_blank">Juliana Pinho on DeviantArt</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Juliana_Pinho" title="Tolkien Gateway:Copyrights/Juliana Pinho">Permission for use on Tolkien Gateway</a></b></li></ul></div>

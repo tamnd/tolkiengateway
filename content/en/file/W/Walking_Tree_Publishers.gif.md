@@ -1,0 +1,40 @@
+---
+title: "File:Walking Tree Publishers.gif"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Walking Tree Publishers.gif</span>"
+page_id: 19526
+namespace: 6
+revision_id: 248723
+timestamp: "2014-06-15T16:31:21Z"
+source_url: "https://tolkiengateway.net/wiki/File:Walking_Tree_Publishers.gif"
+content_sha256: 420d94231794fd201a9d95bf67b697dacce5f389663a349ba2641617c0135345
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of Ents"
+  - "Images of organization logos"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/ed/Walking_Tree_Publishers.gif"
+  mime: "image/gif"
+  size: 1665
+  width: 111
+  height: 172
+  sha1: "ab84e816eddb83e61f82237141886e8b74ea113b"
+  timestamp: "2008-07-06T17:36:12Z"
+  user: "Ederchil"
+---
+
+## Summary {#Summary}
+
+The company logo of [Walking Tree Publishers](/wiki/Walking_Tree_Publishers).
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a href="/wiki/Walking_Tree_Publishers" title="Walking Tree Publishers">Walking Tree Publishers</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

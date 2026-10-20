@@ -1,0 +1,39 @@
+---
+title: "Gildor (disambiguation)"
+display_title: "<span class=\"mw-page-title-main\">Gildor (disambiguation)</span>"
+page_id: 2656
+namespace: 0
+revision_id: 409333
+timestamp: "2024-09-05T23:53:03Z"
+source_url: "https://tolkiengateway.net/wiki/Gildor_(disambiguation)"
+content_sha256: d09998f923308ac55da2144f325251ed084ef970423c7c1253c30f51786e5a0c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Disambiguation"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Gildor"
+    url: "https://www.ardapedia.org/wiki/Gildor"
+  - lang: "fi"
+    name: "suomi"
+    title: "Gildor"
+    url: "https://kontu.wiki/Gildor"
+images:
+  - "Disambig.png"
+---
+
+**Gildor** roughly translates as "Star-lord" in [Sindarin](/wiki/Sindarin) (from *[gil](/wiki/Gil "Gil")*, "star, bright spark" and *[taur](/wiki/Taur "Taur")*, "lord") and can refer to:
+
+- [Gildor (outlaw)](</wiki/Gildor_(outlaw)>), one of [Barahir](/wiki/Barahir)'s [outlaws](/wiki/XII_B%C3%ABorings "XII Bëorings") in the [First Age](/wiki/First_Age).
+- <b><a href="/wiki/Gildor" title="Gildor">Gildor</a> Inglorion, a <a href="/wiki/Noldor" title="Noldor">Noldorin</a> <a href="/wiki/Elves" title="Elves">Elf</a> encountered by <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> and <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a> in <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</b>
+
+<hr style="margin-top:15px;"/>
+
+<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
+<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+</p>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Gildor_(disambiguation)" title="Special:WhatLinksHere/:Gildor (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+</div>

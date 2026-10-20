@@ -1,0 +1,13 @@
+---
+title: "Region"
+page_id: 5528
+namespace: 0
+revision_id: 195425
+source_url: "https://tolkiengateway.net/wiki/Region"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Forest of Region"
+---
+
+Redirect to [Forest of Region](/wiki/Forest_of_Region).

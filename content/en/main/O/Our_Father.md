@@ -1,0 +1,13 @@
+---
+title: "Our Father"
+page_id: 43231
+namespace: 0
+revision_id: 227441
+source_url: "https://tolkiengateway.net/wiki/Our_Father"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Lord's Prayer (disambiguation)"
+---
+
+Redirect to [Lord's Prayer (disambiguation)](/wiki/Lord's_Prayer_(disambiguation)).

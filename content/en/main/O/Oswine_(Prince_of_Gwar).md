@@ -1,0 +1,13 @@
+---
+title: "Oswine (Prince of Gwar)"
+page_id: 61678
+namespace: 0
+revision_id: 347404
+source_url: "https://tolkiengateway.net/wiki/Oswine_(Prince_of_Gwar)"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Óswine (Prince of Gwar)"
+---
+
+Redirect to [Óswine (Prince of Gwar)](/wiki/Óswine_(Prince_of_Gwar)).

@@ -1,0 +1,38 @@
+---
+title: "Letter to J.L.N. O'Loughlin (30 October 1965)"
+display_title: "Letter to J.L.N. O'Loughlin <span style=\"font-size:0.7em\">(30 October 1965)</span>"
+page_id: 43692
+namespace: 0
+revision_id: 388068
+timestamp: "2024-03-18T08:32:42Z"
+source_url: "https://tolkiengateway.net/wiki/Letter_to_J.L.N._O'Loughlin_(30_October_1965)"
+content_sha256: d475e1f089dcd26a36667307c259f01faa07ba3c35c622c97d1514530d5e8259
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Letters"
+sort_keys:
+  "Letters": "OLoughlin, J.L.N. (1965-10-30)"
+---
+
+On [30 October](/wiki/30_October) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+
+- **Subject:** Tolkien replies that he has read O'Loughlin's article (possibly included in *Odham's Dictionary of the English Language*, 1965). He does not have time to provide commentary, besides finding the article plausible.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Publication:** A description of the letter appeared in *[The J.R.R. Tolkien Companion and Guide: Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")*.
+
+## See also {#See_also}
+
+- [Letter to J.L.N. O'Loughlin (29 January 1943)](</wiki/Letter_to_J.L.N._O%27Loughlin_(29_January_1943)>)
+- [Letter to J.L.N. O'Loughlin (18 January 1948)](</wiki/Letter_to_J.L.N._O%27Loughlin_(18_January_1948)>)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CG_1-0">1.0</a></sup> <sup><a href="#cite_ref-CG_1-1">1.1</a></sup></span> <span class="reference-text">
+<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 645</span>
+</li>
+<li id="cite_note-Marq-2"><span class="mw-cite-backlink"><a href="#cite_ref-Marq_2-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
+</li>
+</ol></div>

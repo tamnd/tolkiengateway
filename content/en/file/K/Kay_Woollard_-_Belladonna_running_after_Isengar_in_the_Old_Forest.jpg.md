@@ -1,0 +1,41 @@
+---
+title: "File:Kay Woollard - Belladonna running after Isengar in the Old Forest.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kay Woollard - Belladonna running after Isengar in the Old Forest.jpg</span>"
+page_id: 63746
+namespace: 6
+revision_id: 363273
+timestamp: "2022-11-28T17:50:47Z"
+source_url: "https://tolkiengateway.net/wiki/File:Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg"
+content_sha256: 378df6c26e48a597f8bb4df92e33a6ccc738485500996809ed92efb279bfdeac
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Kay Woollard"
+  - "Images of Belladonna Took"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/e7/Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg"
+  mime: "image/jpeg"
+  size: 2055303
+  width: 1748
+  height: 2484
+  sha1: "afdd41fe98d780d349c6c50e3ac2b6afcb0558ca"
+  timestamp: "2022-11-28T14:20:22Z"
+  user: "Vanyarin"
+---
+
+## Summary {#Summary}
+
+This is an illustration by [Kay Woollard](/wiki/Kay_Woollard) of part 2 of "Belladonna by Belladonna", by [Vera Chapman](/wiki/Vera_Chapman), published in [*Weathertop* 4](/wiki/Weathertop_4 "Weathertop 4"), the magazine of Amon Sûl Smial, (pp. 4-9).
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Denis Bridoux</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a></li>
+<li><b>Website:</b> Unavailable</li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Denis_Bridoux" title="Tolkien Gateway:Copyrights/Denis Bridoux">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+
+Can you please correct the file name as Woollard takes 2 'o's. Thank you.

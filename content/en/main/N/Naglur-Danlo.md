@@ -1,0 +1,27 @@
+---
+title: "Naglur-Danlo"
+display_title: "<span class=\"mw-page-title-main\">Naglur-Danlo</span>"
+page_id: 58881
+namespace: 0
+revision_id: 383510
+timestamp: "2023-12-09T21:03:20Z"
+source_url: "https://tolkiengateway.net/wiki/Naglur-Danlo"
+content_sha256: 995f9ec1c9dee1d5ca00fb11e5a8ae09bac26bfb9c24d1f8fc0a3f885fc56b4e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Orcs"
+  - "Servants of Sauron"
+  - "Third Age characters"
+---
+
+**Naglur-Danlo** was an [Orc](/wiki/Orc) of [Kirith Ungol](/wiki/Cirith_Ungol "Cirith Ungol") in the drafts for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i>, &#34;Part Two: The Ring Goes East&#34;, &#34;VIII. <a class="new" href="/w/index.php?title=Kirith_Ungol&amp;action=edit&amp;redlink=1" title="Kirith Ungol (page does not exist)">Kirith Ungol</a>&#34;, p. 212</span>
+</li>
+</ol></div>

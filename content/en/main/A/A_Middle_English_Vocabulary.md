@@ -1,0 +1,102 @@
+---
+title: "A Middle English Vocabulary"
+display_title: "<i>A Middle English Vocabulary</i>"
+page_id: 17370
+namespace: 0
+revision_id: 399474
+timestamp: "2024-07-07T05:54:50Z"
+source_url: "https://tolkiengateway.net/wiki/A_Middle_English_Vocabulary"
+content_sha256: 6f26d8d3a0b29164b50d6db02429e7669cbfb4028d34563dde0f7d56e8e11a61
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Reference books"
+  - "Books by J.R.R. Tolkien"
+  - "Publications by title"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Pages with non-sufficient width image in infobox": "Middle English Vocabulary, A"
+  "Reference books": "Middle English Vocabulary, A"
+  "Books by J.R.R. Tolkien": "Middle English Vocabulary, A"
+  "Publications by title": "Middle English Vocabulary, A"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "A Middle English Vocabulary"
+    url: "https://www.ardapedia.org/wiki/A_Middle_English_Vocabulary"
+  - lang: "fi"
+    name: "suomi"
+    title: "A Middle English Vocabulary"
+    url: "https://kontu.wiki/A_Middle_English_Vocabulary"
+images:
+  - "A_Middle_English_Vocabulary.jpg"
+infobox:
+  - label: "Author"
+    value: "J.R.R. Tolkien"
+  - label: "Publisher"
+    value: "The Clarendon Press, Oxford"
+  - label: "Released"
+    value: "1922"
+  - label: "Format"
+    value: "paperback"
+  - label: "Pages"
+    value: "168 (unpaged)"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_Middle_English_Vocabulary.jpg"><img src="/w/images/8/83/A_Middle_English_Vocabulary.jpg" decoding="async" loading="lazy" width="318" height="475" class="mw-file-element" data-file-width="318" data-file-height="475"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Middle English Vocabulary</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">The Clarendon Press, Oxford</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/1922" title="1922">1922</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">168 (unpaged)</td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>A Middle English Vocabulary</b></i> is a glossary of [Middle English](/wiki/Middle_English) words complied by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), published in [1922](/wiki/1922).
+
+It was intended to be published together with <a class="new" href="/w/index.php?title=Kenneth_Sisam&amp;action=edit&amp;redlink=1" title="Kenneth Sisam (page does not exist)">Kenneth Sisam</a>'s *[Fourteenth Century Verse &amp; Prose](/wiki/Fourteenth_Century_Verse_%26_Prose)* in [1921](/wiki/1921), but it was not finished in time, so it was published separately in [1922](/wiki/1922), which became Tolkien's first published book.
+
+The *Vocabulary* contains some 4,740 entries with nearly 6,800 definitions, running to 167 pages.<sup id="cite_ref-a_1-0" class="reference"><a href="#cite_note-a-1">[1]</a></sup>
+
+## Appearance {#Appearance}
+
+*A Middle English Vocabulary* was published on [May 11](/wiki/11_May "11 May"), [1922](/wiki/1922), to be a supplement to Sisam's *Verse &amp; Prose* published the year before.<sup id="cite_ref-Biblio_2-0" class="reference"><a href="#cite_note-Biblio-2">[2]</a></sup> The separate binding is unpaged, and titled "Glossary", rather than "Vocabulary", on the title page.<sup id="cite_ref-Lee_3-0" class="reference"><a href="#cite_note-Lee-3">[3]</a></sup>
+
+## Publication {#Publication}
+
+Sisam was Tolkien's old tutor of English Language and Literature, and also involved the *[Oxford English Dictionary](/wiki/Oxford_English_Dictionary)*, working on several words under the letter *S*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> After that section was published, Oxford University Press asked him to write a compilation of fourteenth century verse and prose. By 1919, it turned out Sisam did not have time to compile the glossary, so Tolkien was asked to do it. The project, originally planned to be little else than a glossary, quickly became a much larger work. Tolkien was given time off from his regular work on the OED, and even continued working on the glossary after his transfer to [Leeds University](/wiki/Leeds_University).<sup id="cite_ref-Ring_5-0" class="reference"><a href="#cite_note-Ring-5">[5]</a></sup> The publication had been delayed due to private matters, and Tolkien was glad when it was finally finished. Sisam's book was, in the end, published without the glossary.<sup id="cite_ref-L6_6-0" class="reference"><a href="#cite_note-L6-6">[6]</a></sup> Later editions of Sisam's book did include Tolkien's glossary.<sup id="cite_ref-Biblio_2-1" class="reference"><a href="#cite_note-Biblio-2">[2]</a></sup>
+
+## Method {#Method}
+
+Tolkien gained praise for his glossary, which was unlike most others. Whereas it was a trend of the days to suggest (often questionable) etymologies of rare and obscure words, Tolkien chose to devote his time to the different meanings of common words, such as *to*, *he* and *habben* ("to have"). His Vocabulary is filled with textual references,<sup id="cite_ref-Lee_3-1" class="reference"><a href="#cite_note-Lee-3">[3]</a></sup> and much of his findings elaborated on the OED, pre-dating words by sometimes a century. Some of these suggestions were taken into account in later editions of the OED.<sup id="cite_ref-Ring_5-1" class="reference"><a href="#cite_note-Ring-5">[5]</a></sup>
+
+## Reviews {#Reviews}
+
+- 1922: Margaret L. Lee, "Middle English", published in *[The Year's Work in English Studies](/wiki/The_Year%27s_Work_in_English_Studies)*<sup id="cite_ref-Lee_3-2" class="reference"><a href="#cite_note-Lee-3">[3]</a></sup>
+- 1926: E. Kruisinga, "Reviews", published in *English Studies: a Journal of English Letters and Philology*<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+
+## See also {#See_also}
+
+- *[A middle English vocabulary (2010)](</wiki/A_middle_English_vocabulary_(2010)>)* (an unauthorized reprint)
+
+## External links {#External_links}
+
+- <a class="external text" href="http://www.gutenberg.org/ebooks/43737" rel="noreferrer noopener" target="_blank">Free version of <i>A Middle English Vocabulary</i></a> at <a class="external text" href="http://www.gutenberg.org//" rel="noreferrer noopener" target="_blank">Project Gutenberg</a>
+- <a class="external text" href="http://lingwe.blogspot.se/2012/11/reconstructed-lexis-in-tolkiens-middle.html" rel="noreferrer noopener" target="_blank">Reconstructed lexis in Tolkien’s <i>Middle English Vocabulary</i></a> by [Jason Fisher](/wiki/Jason_Fisher)
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-a-1"><span class="mw-cite-backlink"><a href="#cite_ref-a_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (2006), <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i></span>
+</li>
+<li id="cite_note-Biblio-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Biblio_2-0">2.0</a></sup> <sup><a href="#cite_ref-Biblio_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/Douglas_A._Anderson" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> (eds.), <i><a href="/wiki/J.R.R._Tolkien:_A_Descriptive_Bibliography" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a></i>, &#34;Books by J. R. R. Tolkien&#34;, pages 1-3</span>
+</li>
+<li id="cite_note-Lee-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Lee_3-0">3.0</a></sup> <sup><a href="#cite_ref-Lee_3-1">3.1</a></sup> <sup><a href="#cite_ref-Lee_3-2">3.2</a></sup></span> <span class="reference-text">Margaret L. Lee, &#34;Middle English&#34;, published in <i><a href="/wiki/The_Year%27s_Work_in_English_Studies" title="The Year&#39;s Work in English Studies">The Year&#39;s Work in English Studies</a></i>, vol II (1922), pages 41-53, esp. 42-3</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="new" href="/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter Gilliver</a>, <a class="new" href="/w/index.php?title=Jeremy_Marshall&amp;action=edit&amp;redlink=1" title="Jeremy Marshall (page does not exist)">Jeremy Marshall</a>, <a class="new" href="/w/index.php?title=Edmund_Weiner&amp;action=edit&amp;redlink=1" title="Edmund Weiner (page does not exist)">Edmund Weiner</a>, <i><a href="/wiki/The_Ring_of_Words" title="The Ring of Words">The Ring of Words</a></i>, page 3</span>
+</li>
+<li id="cite_note-Ring-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ring_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ring_5-1">5.1</a></sup></span> <span class="reference-text"><a class="new" href="/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter Gilliver</a>, <a class="new" href="/w/index.php?title=Jeremy_Marshall&amp;action=edit&amp;redlink=1" title="Jeremy Marshall (page does not exist)">Jeremy Marshall</a>, <a class="new" href="/w/index.php?title=Edmund_Weiner&amp;action=edit&amp;redlink=1" title="Edmund Weiner (page does not exist)">Edmund Weiner</a>, <i><a href="/wiki/The_Ring_of_Words" title="The Ring of Words">The Ring of Words</a></i>, page 32-3</span>
+</li>
+<li id="cite_note-L6-6"><span class="mw-cite-backlink"><a href="#cite_ref-L6_6-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_6" title="Letter 6">Letter 6</a> (dated <a href="/wiki/13_February" title="13 February">February 13</a>, <a href="/wiki/1923" title="1923">1923</a>)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">E. Kruisinga, &#34;Reviews.&#34;, published in <i>English Studies: a Journal of English Letters and Philology</i>, vol. 8 (1926), pages 18-19</span>
+</li>
+</ol></div>

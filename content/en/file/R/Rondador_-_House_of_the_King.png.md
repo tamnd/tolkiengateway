@@ -1,0 +1,33 @@
+---
+title: "File:Rondador - House of the King.png"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rondador - House of the King.png</span>"
+page_id: 57174
+namespace: 6
+revision_id: 346155
+timestamp: "2022-04-27T17:56:08Z"
+source_url: "https://tolkiengateway.net/wiki/File:Rondador_-_House_of_the_King.png"
+content_sha256: 81d3b599129dd75d5d0c162f5a14dc11ab421468b3fad046d6e0b706e9a1ef26
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of the houses of the Gondothlim"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/0/00/Rondador_-_House_of_the_King.png"
+  mime: "image/png"
+  size: 59084
+  width: 612
+  height: 672
+  sha1: "ffdcbcad5b9a372a4b00b465613c1819ae551b66"
+  timestamp: "2020-06-02T13:47:07Z"
+  user: "Quentandil"
+---
+
+## License {#License}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
+<p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 3.0</a> License.
+</p><p>Attribution: <span class="licensetpl_attr"><a class="external text" href="http://commons.wikimedia.org/wiki/User:Rondador" rel="noreferrer noopener" target="_blank">Rondador</a> on <a class="external text" href="http://commons.wikimedia.org/wiki/File:Bar-en-Aran.svg" rel="noreferrer noopener" target="_blank">Wikipedia</a></span><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/3.0</span><span class="licensetpl_short" style="display:none;">CC BY-SA 3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p>
+</div>

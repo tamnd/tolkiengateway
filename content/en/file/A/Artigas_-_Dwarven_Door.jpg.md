@@ -1,0 +1,41 @@
+---
+title: "File:Artigas - Dwarven Door.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Dwarven Door.jpg</span>"
+page_id: 59768
+namespace: 6
+revision_id: 333759
+timestamp: "2021-07-20T18:55:30Z"
+source_url: "https://tolkiengateway.net/wiki/File:Artigas_-_Dwarven_Door.jpg"
+content_sha256: 0347b86c1031bdf0dee7358efbcc81b2f3abf25ebb9b8b90c2f6853f95e2e565
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Artigas"
+  - "Images of objects"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/1/16/Artigas_-_Dwarven_Door.jpg"
+  mime: "image/jpeg"
+  size: 1136720
+  width: 1378
+  height: 1616
+  sha1: "2f009c9578219953e1746b583153f42d2e93596d"
+  timestamp: "2021-07-20T18:53:28Z"
+  user: "A Hobbit Gentleman"
+---
+
+## Description {#Description}
+
+"Dwarven Door", by Artigas.
+
+Artist's rendition of the possible mechanism for a gate built in the manner of the [Back Door](/wiki/Back_Door) of [Lonely Mountain](/wiki/Lonely_Mountain) in *[The Hobbit](/wiki/The_Hobbit)*.
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Artigas</span></span>
+<p>This work is copyrighted and owned by Artigas. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Artigas</li>
+<li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

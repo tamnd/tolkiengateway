@@ -1,0 +1,33 @@
+---
+title: "Tolkien Gateway:Copyrights/Teodort92"
+display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Teodort92</span>"
+page_id: 60034
+namespace: 4
+revision_id: 336112
+timestamp: "2021-10-10T18:24:52Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Teodort92"
+content_sha256: 7551c20d0d870d03abf0fb2ed637b44d18a0d8c190c24c304f9e64fe352565ed
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Teodort92"
+images:
+  - "Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_(AHG).png"
+---
+
+- Teodort92 has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Teodort92 "Category:Images by Teodort92") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Date: 30 September 2021
+- User who sought the permission via DeviantArt: [A Hobbit Gentleman](/wiki/User:A_Hobbit_Gentleman "User:A Hobbit Gentleman")
+- Screenshot evidence of author permission:
+
+<ul class="gallery mw-gallery-packed-hover">
+		<li class="gallerybox" style="width: 78.666666666667px">
+			<div class="thumb" style="width: 76.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_(AHG).png" title="Teodort92&#39;s artworks permission (September 2021)"><img alt="Teodort92&#39;s artworks permission (September 2021)" src="/w/images/thumb/7/74/Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png/115px-Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" srcset="/w/images/thumb/7/74/Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png/173px-Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png 1.5x, /w/images/thumb/7/74/Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png/231px-Teodort92_artworks_permission_for_Tolkien_Gateway_September_2021_%28AHG%29.png 2x" data-file-width="661" data-file-height="1029"/></a></span></div>
+			<div class="gallerytextwrapper" style="width: 57px"><div class="gallerytext">
+<p>Teodort92&#39;s artworks permission (September 2021)
+</p>
+			</div></div>
+		</li>
+</ul>

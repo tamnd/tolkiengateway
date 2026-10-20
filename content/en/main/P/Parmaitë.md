@@ -1,0 +1,35 @@
+---
+title: "Parmaitë"
+display_title: "<span class=\"mw-page-title-main\">Parmaitë</span>"
+page_id: 10236
+namespace: 0
+revision_id: 416284
+timestamp: "2024-12-28T19:40:29Z"
+source_url: "https://tolkiengateway.net/wiki/Parmaitë"
+content_sha256: 87f08f9e654f21541f2adf490f364b9cade5a81bd955a87a36c33442be2fc8da
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "House of Elros"
+  - "Rulers of Númenor"
+  - "Epithets"
+  - "Quenya names"
+sort_keys:
+  "House of Elros": "Parmaite"
+  "Rulers of Númenor": "Parmaite"
+  "Epithets": "Parmaite"
+  "Quenya names": "Parmaite"
+---
+
+**Parmaitë** was a nickname of **[Tar-Elendil](/wiki/Tar-Elendil)**, the fourth [King of Númenor](/wiki/King_of_N%C3%BAmenor). The name came from his hobby of making books from the notes on legends and lore gathered by his grandfather, [Vardamir Nólimon](/wiki/Vardamir "Vardamir").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+His name means "Book-Handed" in [Quenya](/wiki/Quenya) (from *[parma](/wiki/Parma "Parma")* = "book" and *-[maitë](/wiki/Mait%C3%AB "Maitë")* = "handed").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Line_of_Elros:_Kings_of_N%C3%BAmenor" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
+</li>
+</ol></div>

@@ -1,2 +1,9 @@
 /site/
 .DS_Store
+
+# Raw revisions and translation runtime state are reproducible and can be
+# large or contain operational telemetry. The sync high-water mark is the one
+# state file intentionally kept in git so scheduled runs advance safely.
+/raw/
+/.tgw/queue/
+/.tgw/ledger.jsonl

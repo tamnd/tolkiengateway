@@ -1,0 +1,30 @@
+---
+title: "Beorn (Nandorin)"
+display_title: "beorn <span style=\"font-size:0.7em\">(Nandorin)</span>"
+page_id: 21420
+namespace: 0
+revision_id: 404877
+timestamp: "2024-08-23T02:17:36Z"
+source_url: "https://tolkiengateway.net/wiki/Beorn_(Nandorin)"
+content_sha256: 4f2dd59225a5d703bfbb28fc35a31321ce0e2a60af744c25607628f5ce3027d4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Nandorin words"
+  - "Silvan Elvish words"
+---
+
+<i><b>beorn</b></i> is a [Danian](/wiki/Nandorin "Nandorin") word meaning "man".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+
+## Etymology {#Etymology}
+
+This word actually has two etymologies: *besnō* "husband" (root <a class="new" href="/w/index.php?title=BES&amp;action=edit&amp;redlink=1" title="BES (page does not exist)">BES</a>) and *ber(n)ō* "warrior" (root [BER](/wiki/BER)), blended together.<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+
+<span></span>
+
+## References {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 352</span>
+</li>
+</ol></div>

@@ -1,0 +1,59 @@
+---
+title: "Arda Reconstructed: The Creation of the Published Silmarillion"
+display_title: "<i>Arda Reconstructed: The Creation of the Published Silmarillion</i>"
+page_id: 35202
+namespace: 0
+revision_id: 399837
+timestamp: "2024-07-07T06:31:26Z"
+source_url: "https://tolkiengateway.net/wiki/Arda_Reconstructed:_The_Creation_of_the_Published_Silmarillion"
+content_sha256: b4ad4735d2fd7d6f3b447617ae02bd426e6b0dfd860e85e68bd9bb7e521af5e6
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Publications by title"
+  - "Scholarly books"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+langlinks:
+  - lang: "fi"
+    name: "suomi"
+    title: "Arda Reconstructed"
+    url: "https://kontu.wiki/Arda_Reconstructed"
+images:
+  - "Arda_Reconstructed.jpg"
+infobox:
+  - label: "Author"
+    value: "Douglas Charles Kane"
+  - label: "Illustrator"
+    value: "Breogán"
+  - label: "Publisher"
+    value: "Lehigh University Press"
+  - label: "Released"
+    value: "15 March 2009"
+  - label: "Format"
+    value: "Hardback"
+  - label: "Pages"
+    value: "270"
+  - label: "ISBN"
+    value: "1611460565"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Arda_Reconstructed.jpg"><img src="/w/images/thumb/7/79/Arda_Reconstructed.jpg/317px-Arda_Reconstructed.jpg" decoding="async" loading="lazy" width="317" height="480" class="mw-file-element" srcset="/w/images/7/79/Arda_Reconstructed.jpg 1.5x" data-file-width="469" data-file-height="709"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Arda Reconstructed:<br/><small>The Creation of the Published Silmarillion</small></i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="/wiki/Douglas_C._Kane" title="Douglas C. Kane">Douglas Charles Kane</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="/wiki/Breog%C3%A1n" title="Breogán">Breogán</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Lehigh University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/15_March" title="15 March">15 March</a> <a href="/wiki/2009" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">270</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="/wiki/Special:BookSources/1611460565" title="Special:BookSources/1611460565">1611460565</a></td></tr></tbody></table>
+
+<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+
+<i><b>Arda Reconstructed: The Creation of the Published Silmarillion</b></i> is a [2009](/wiki/2009) book of editorial analysis.
+
+## From the publisher {#From_the_publisher}
+
+<blockquote class="tg-quote noexcerpt">
+<p>In <i>Arda Reconstructed: The Creation of the Published Silmarillion</i>, <a href="/wiki/Douglas_C._Kane" title="Douglas C. Kane">Douglas C. Kane</a> reveals a tapestry woven by <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> from different portions of his father’s work that is often quite mind-boggling, with inserts that seemed initially to have been editorial inventions shown to have come from some remote portion of Tolkien’s vast body of work. He demonstrates how material that was written over the course of more than thirty years was merged together to create a single, coherent text. He also makes a frank appraisal of the material omitted by Christopher Tolkien (and in a couple of egregious cases the material invented by him) and how these omissions and insertions may have distorted his father’s vision of what he considered —even more than <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>— to be his most important work. It is a fascinating portrait of a unique collaboration that reached beyond the grave.<br/><br/>In <i><a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">The History of Middle-earth</a></i>, Christopher Tolkien documents in amazing detail the development of the work of his father that would become the <i><a class="mw-redirect" href="/wiki/Silmarillion" title="Silmarillion">Silmarillion</a></i>. However, save for an occasional hint here and there, he fails to show the final step: his actual creation (several years after his father’s death) of the published work, with the assistance of <a href="/wiki/Guy_Gavriel_Kay" title="Guy Gavriel Kay">Guy Gavriel Kay</a>. As he points out in the foreword to <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i> (the second of the two volumes of <i>The History of Middle-earth</i> that covers the “<a href="/wiki/The_Later_Quenta_Silmarillion" title="The Later Quenta Silmarillion">Later Quenta Silmarillion</a>”), the source materials that he used in that task largely have been made available “and with them a criticism of the ‘constructed’ Silmarillion becomes possible. I shall not enter into that question. . .” (p. x).<br/><br/>The purpose of <i>Arda Reconstructed</i> is to “enter in that question.” Kane documents the changes, omissions, and additions that were made to Tolkien’s work by Christopher Tolkien (with the assistance of Guy Kay) in preparing the <i>Silmarillion</i> for publication, and traces how the disparate source materials were used to create what is in essence a composite work. He compares the published text with the source texts contained in the volumes of <i>The History of Middle-earth</i> (as well as other works such as <i>Unfinished Tales of Middle-earth and Númenor</i>, <i>The Children of Húrin</i>, and—in one case—Tolkien’s letters) and identifies patterns of major and minor changes made to these source materials that result in the reconstruction of the finished text. He also cites the works of some of the most important Tolkien scholars, including <a href="/wiki/Tom_Shippey" title="Tom Shippey">Tom Shippey</a>, <a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a class="mw-redirect" href="/wiki/Wayne_Hammond" title="Wayne Hammond">Wayne Hammond</a>, <a href="/wiki/Charles_Noad" title="Charles Noad">Charles Noad</a>, and <a href="/wiki/David_Bratman" title="David Bratman">David Bratman</a>, in an attempt to understand and explain why these changes may have been made.<br/><br/>Supplementing the text of <i>Arda Reconstructed</i> are 25 detailed tables.  The first table provides the dates that each of the source texts that were used in the creation of the published <i>Silmarillion</i> were written.  The last table provides the different versions of names of people, places and things that were used in the source texts.  In between, the other 23 tables trace paragraph by paragraph the source material used to create the published texts, showing both the primary source for each paragraph, and the secondary sources used to merge material into the primary sources for each paragraph.  These tables provide a key resource for anyone interested in tracing in detail how the published <i>Silmarillion</i> was created.
+</p>
+</blockquote>
+
+<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+
+## External links {#External_links}
+
+- <a class="external text" href="https://web.archive.org/web/20101005164114/http://www.arda-reconstructed.com/" rel="noreferrer noopener" target="_blank">Official website</a> at Internet Archive
+- <a class="external text" href="http://www.thehalloffire.net/forum/viewtopic.php?f=28&amp;t=2250&amp;sid=8cd1494eb408ae53eef603baf6be5ec6" rel="noreferrer noopener" target="_blank">History of the Silmarillion vs. History of Middle-earth</a> at thehalloffire.net (Quote a letter of [Christopher Tolkien](/wiki/Christopher_Tolkien))

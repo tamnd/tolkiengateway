@@ -1,0 +1,35 @@
+---
+title: "File:Marya Filatova - Rog.jpg"
+display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Marya Filatova - Rog.jpg</span>"
+page_id: 62279
+namespace: 6
+revision_id: 351615
+timestamp: "2022-08-02T23:31:52Z"
+source_url: "https://tolkiengateway.net/wiki/File:Marya_Filatova_-_Rog.jpg"
+content_sha256: 809178acc775d1e679e36a6ae89c4a6b86c03e0273f1e970205c2f99381c347b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Marya Filatova"
+  - "Images of Rog"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/a/a5/Marya_Filatova_-_Rog.jpg"
+  mime: "image/jpeg"
+  size: 709965
+  width: 900
+  height: 597
+  sha1: "91e35cbc49b71399505f8d34491e1ccf9c5b1682"
+  timestamp: "2022-08-02T23:31:52Z"
+  user: "Quentandil"
+---
+
+## Licensing {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Marya Filatova</span></span>
+<p>This work is copyrighted and owned by <a href="/wiki/Marya_Filatova" title="Marya Filatova">Marya Filatova</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="/wiki/Marya_Filatova" title="Marya Filatova">Marya Filatova</a></li>
+<li><b>Website:</b> <a class="external text" href="http://filat.deviantart.com" rel="noreferrer noopener" target="_blank">Marya Filatova on deviantArt</a></li>
+<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Marya_Filatova" title="Tolkien Gateway:Copyrights/Marya Filatova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
